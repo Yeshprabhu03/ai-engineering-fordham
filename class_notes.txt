@@ -1,0 +1,49 @@
+I’m taking RAG + Context Engineering because I want to move beyond just “using AI” and actually learn how to build AI products that work in the real world.
+
+1) I don’t want to be the person who only knows prompts
+
+Anyone can write prompts today. What I care about is building systems that give consistent, accurate outputs, even when users ask messy questions or the data is incomplete.
+
+2) I want to understand how to reduce hallucinations and build trust
+
+If an AI product can’t be trusted, people won’t use it. RAG teaches me how to ground answers in real information instead of letting the model guess.
+
+3) I want to think like an AI PM, not like a casual AI user
+
+This class helps me learn the “product thinking layer” of AI:
+
+what context to retrieve
+
+how to structure it
+
+how to make the output reliable
+
+how to measure quality and improve it over time
+
+That’s exactly the skillset I want to build.
+
+4) I want an edge in interviews
+
+Most candidates will say “AI can automate things.”
+I want to confidently say:
+I can design AI systems with retrieval, re-ranking, grounding, and evaluation loops so performance improves and errors go down.
+
+5) It matches the kind of roles I’m targeting
+
+If I’m aiming for fintech or enterprise PM roles, I can’t rely on a chatbot that makes things up. Those environments need:
+
+accuracy
+
+privacy
+
+accountability
+
+repeatable performance
+
+RAG + context engineering fits perfectly with that.
+
+6) It directly helps my personal projects too
+
+Whether I’m building something like Clever Closet or an AI tool that explains why a stock is moving, I need the model to work with real data, not vibes. This class helps me build that foundation.
+
+In short: I’m taking this class because I want to learn how to ship AI features that are reliable, grounded, and scalable — not just impressive in demos.

@@ -17,6 +17,9 @@ dependencies = [
     "pillow>=12.1.0",
     "pydantic>=2.12.5",
     "pystemmer>=3.0.0",
+    "sentence-transformers>=3.0.0",
     "python-dotenv>=1.2.1",
     "tenacity>=9.1.2",
+    "torch==2.2.2",
+    "numpy<2",
 ]

@@ -1,0 +1,9 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2022-womens-summit/2022-pioneering-women-in-philanthropy-at-fordham/anne-williams-isom
+
+# Anne Williams-Isom
+
+![Anne Williams-Isom](/media/home/departments-centers-and-offices/daur/Anne_Williams-Isom_400.jpg)
+
+Anne Williams-Isom, FCLC ’86, is the James R. Dumpson Chair in Child Welfare Studies at the Graduate School of Social Service and a 2018 honorary degree recipient. In January 2022, New York City Mayor Eric Adams appointed Williams-Isom as the city’s deputy mayor for health and human services. A native of Queens and an alumna of Fordham College at Lincoln Center, she earned a J.D. from Columbia Law School. Prior to serving as a deputy mayor, Williams-Isom was chief operating officer and then chief executive officer of the Harlem Children’s Zone. Williams-Isom began her career in child welfare as the deputy commissioner of community and government affairs at the New York City Administration for Children’s Services.
+
+As a loyal supporter of the Fordham Founder’s Undergraduate Scholarship Fund, she demonstrates her commitment to Fordham’s goals and mission of recruiting more underrepresented students of all backgrounds to the University. Williams-Isom is also a generous supporter of Fordham’s Higher Education Opportunity Program, which provides students who demonstrate potential for academic success with the educational support, services, and supplementary financial assistance they need to become successful college students, and a member of the President’s Council, a group of successful professionals and philanthropists committed to mentoring Fordham’s future leaders.

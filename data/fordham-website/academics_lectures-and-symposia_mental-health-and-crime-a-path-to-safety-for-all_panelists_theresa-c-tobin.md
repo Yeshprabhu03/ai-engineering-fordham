@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/lectures-and-symposia/mental-health-and-crime-a-path-to-safety-for-all/panelists/theresa-c-tobin
+
+# Theresa C. Tobin
+
+## Chief of Interagency Operations, New York Police Department
+
+![Terri Tobin](/media/home/departments-centers-and-offices/conferences/Terri_Tobin.jpg)
+
+**Chief Theresa C. Tobin** joined the NYPD in 1983 and began her career on patrol in South Jamaica, Queens. She was promoted through the ranks to her current title of Chief of Interagency Operations, overseeing and facilitating the NYPD’s transition of certain non-emergency responsibilities to other appropriate primary agencies while maintaining support for those agencies through a public safety scope. Additionally, Chief Tobin oversees the Behavioral Health Division, which works with components of the criminal justice system, other government agencies in health care, mental health advocates, and community members. Chief Tobin earned a Ph.D. and a Master of Arts degree in criminal justice; a master’s degree in social work; and a Bachelor of Science degree in sociology/social work. During her career, Chief Tobin has received numerous honors and medals, including the NYPD’s Medal of Valor and a Special Congressional Recognition in honor of her heroism, bravery, and sacrifice during the tumultuous events of September 11, 2001. She has been a New York State certified social worker since 1985. Chief Tobin is also a graduate of the Federal Bureau of Investigation’s National Academy; the Police Management Institute; and Harvard University’s Senior Executives in State and Local Government Program.

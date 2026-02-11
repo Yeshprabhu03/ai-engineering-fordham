@@ -1,0 +1,11 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/fordham-clip/research/patents-and-smartphones-large-players
+
+# Patents and Smartphones (Large Players)
+
+## 2012 Study
+
+In June 2012, CLIP was awarded a research grant by the World Intellectual Property Organization (WIPO) to research and report on the acquisition and use of patents in the smartphone industry. This new study is a follow-up to one of the recommendations made in the report on "An Analysis of the Economic/Legal Literature on the Effects of IP Rights as a Barrier to Entry," which CLIP previously prepared for WIPO. The objective of this new research was both to obtain and analyze data that can provide insight on the openness of the smartphone market and to report on the impact that the ownership and enforcement of patents are having on the accessibility of the market. The final report, “The Impact of the Acquisition and Use of Patents on the Smartphone Industry,” was published by WIPO in June 2013.
+
+The study, prepared for WIPO as part of its work program on intellectual property and competition policy, provides an empirical analysis of patent grants and the use of patents within the smartphone industry. Fordham CLIP found that, along with a significant growth in patents for each of the critical segments of the industry, competitiveness in the industry remained very fluid. The study also examined recent litigation involving smartphone patents and demonstrated a trend toward the use of patents as an important defensive business strategy for large companies, as well as a significant product development strategy for smaller companies. Fordham CLIP concluded that these business decisions made by industry players and the pace of technological change will determine future market competitiveness in the smartphone sphere rather than the patents themselves. The Fordham CLIP research team for the study was led by Professor Joel R. Reidenberg and Fordham CLIP Executive Director Jamela Debelak and consisted of Fordham CLIP Intellectual Property Fellow Daniel Gross, Fordham Law class of 2011, and Fordham Law student Elaine Mindrup '14.
+
+Download "The Impact of the Acquisition and Use of Patents on the Smartphone Industry"

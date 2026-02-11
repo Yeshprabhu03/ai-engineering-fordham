@@ -1,0 +1,10 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/institute-on-religion-law-and-lawyers-work/programs/international
+
+# International Programs
+
+## Past Programs
+
+![Fordham Law Summer School in Italy](/media/home/schools/school-of-law/Castel-Gandolfo-(2).jpg)
+
+
+[Summer School Italy - Weaving Dialogue: Fraternal Cities for Peace](/school-of-law/centers-and-institutes/institute-on-religion-law-and-lawyers-work/programs/international/summer-school-italy/)[New Frontiers of Human Rights Seminar Series: The Right to a Healthy Environment](https://vimeo.com/827402160)[New Frontiers of Human Rights Seminar Series: Is there a Right to Peace](https://vimeo.com/794568835)[Iinternation Seminar - The Dignity of the Person and the Challenges of the Age of Artificial Intelligence](http://www.comunionediritto.org/images/2022/seminario/Programma-Seminario-CeD2022--en-US.pdf)[New Frontiers of Human Rights Seminar Series: Session IV - The Future of Freedom of Religion](https://www.youtube.com/watch?v=DHJbFbFdPGs)[New Frontiers of Human Rights Seminar Series: Session III - Human Rights at International Borders](https://www.youtube.com/watch?v=tYk0GvvEZb0)[New Frontiers of Human Rights Seminar Series: Session II - Transhumanism](https://www.youtube.com/watch?v=H4Qp3gP6LuI)[New Frontiers of Human Rights Seminar Series: Session I - The Birth and Development of the Human Rights Discourse](https://www.youtube.com/watch?v=_TeSk7WK_xg)[Together in Combating the Scourge of Online Child Exploitation](https://www.youtube.com/watch?v=6mATon7gywM)[Human Dignity, Relationships and Law: The Dialogue Continues](http://www.comunionediritto.org/en/events/youth-congress-2011.html)[Law in Search of Justice - Young Lawyers in Dialogue](http://www.comunionediritto.org/en/events/youth-congress-2009.html)

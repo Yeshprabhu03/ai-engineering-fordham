@@ -1,0 +1,3 @@
+https://www.fordham.edu/study-abroad/programs/fordham-in-london/about/student-life
+
+A semester in London provides students with an opportunity to engage in a truly global sense. While we recognize that some students may wish to explore other parts of Europe during their time with us, we are keen to ensure that students leave with a sense of London as their campus. The Student Life in London is greatly enhanced by the work of the Student Affairs office, who organize trips and activities throughout London and the UK, as well as providing students with support and advice regarding health and life in London. The following pages provide an introduction to the different aspects of Student Life.

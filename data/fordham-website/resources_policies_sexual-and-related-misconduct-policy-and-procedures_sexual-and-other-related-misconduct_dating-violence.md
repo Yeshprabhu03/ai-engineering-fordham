@@ -1,0 +1,5 @@
+https://www.fordham.edu/resources/policies/sexual-and-related-misconduct-policy-and-procedures/sexual-and-other-related-misconduct/dating-violence
+
+# Dating Violence: Sexual and Related Misconduct Policy
+
+**Dating Violence:** Violence committed by a person who is or has been in a social relationship of a romantic or intimate nature with the complainant. The existence of such a relationship shall be determined based on the complainant’s statement and with consideration of the following factors: (i) the length of the relationship; (ii) the type of relationship; and (iii) the frequency of interaction between the persons involved in the relationship. Dating violence includes, but is not limited to, sexual, physical, or psychological abuse, or the threat of such abuse. Dating violence does not include acts covered under the definition of domestic violence.

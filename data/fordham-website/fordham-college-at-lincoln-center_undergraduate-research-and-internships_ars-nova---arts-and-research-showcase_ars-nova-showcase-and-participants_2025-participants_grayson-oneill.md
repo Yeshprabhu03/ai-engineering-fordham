@@ -1,0 +1,13 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2025-participants/grayson-oneill
+
+# Grayson O'Neill, FCLC 2025
+
+**Major**: English
+
+**Bio:** Grayson O’Neill is a senior English major at Fordham University from Long Island, New York. She is a passionate student with a 4.0, who has had a lifelong love of reading, writing, and literature. Within the last year, she was a recipient of the FCLC Summer Undergraduate Research Grant for her project, “Queering Movement: Exploring Community, Identity, and Sexuality in the World of Contemporary Dance,” which was also accepted into the Fordham Undergraduate Research Journal. Grayson has danced since the age of two, and frequently takes dance classes around New York City in her free time. When she is not reading or dancing, Grayson enjoys cooking, walks through The Metropolitan Museum of Art, and learning guitar.
+
+**Title of Research:** Queering Movement: Exploring Community, Identity, and Sexuality in the World of Contemporary Dance
+
+**Mentor**: Sharif Mowlabocus, Ph.D., Communications and Media Studies
+
+**Abstract**: Employing a multidisciplinary methodology that combines gender studies, cultural studies, and dance theory, this article seeks to explore the symbiotic relationship between contemporary dance and queer culture. Through qualitative methods, such as interviews, ethnographic observation, and performance analysis, this research emphasizes how contemporary dance can offer an escape from the virtuality of daily life, fostering emotional and physical connection that is formed through movement, not fabricated or mediated through a screen. Through physicality, the central roles of identities, vulnerability, and individualism in contemporary dance allow for the formation of a community that is sequestered from traditional urban and commercial sites of queer community and connectivity. This research and the resulting article seek to highlight the role of contemporary dance as a "safe space" for the exploration of queer identities and ideas, and how this discipline can serve as a stepping stone for deconstructing existing systems of gender, sexuality, hierarchy, and competition that are often cultivated across various dance disciplines. Ultimately, the goal of this article is to aid in our understanding of the transformative role of the arts in societal change, particularly in the realms of queer visibility and expression, offering fresh perspectives on identity, performance, and cultural representation in a context that values genuine human connection and communal support.

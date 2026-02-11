@@ -1,0 +1,7 @@
+https://www.fordham.edu/school-of-law/life-at-fordham-law/student-life/student-competitions/moot-court/competitions/wormser-competition
+
+# Wormser Competition
+
+The 2019 I. Maurice Wormser Memorial Moot Court Competition is the second of two annual competitions to determine which students will compose the Fordham Law Moot Court Board for the upcoming year. For this competition, students are required to brief and argue two corporate law issues. This year's issues were, first, whether a claim of age discrimination under the ADEA will succeed when based on the age-based animus of a supervisor who lacks the power to terminate employees, and second, whether an individual has the standing to sue a party responsible for a data breach when the individual's compromised data has not clearly been misused.
+
+This year's competition welcomed twenty-two new members to the Fordham Law Moot Court Board. The final round of oral arguments took place on October 27, 2019, at 6:00pm. The presiding bench included Judge Frederic Block of the Eastern District of New York, Judge Victor Marrero of the Southern District of New York, and Judge Gerald Lebovits of the New York State Supreme Court. Congratulations to our best oralist, Sami Helgason, and our best brief winner Eric Lim! Congratulations as well to our other finalists, Christopher Vaughan, Danyelle Everett-O'Neill, and Megan Mahoney!

@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2021-showcase-and-participants/alissa-kerr
+
+# Alissa Kerr '21
+
+![Alissa Kerr](/media/review/content-assets/migrated/images/Kerr__Alissa.jpg)
+
+**Major: **Integrative Neuroscience**Bio: **Alissa Kerr, originally from the suburbs of Philadelphia, PA, is a senior Integrative Neuroscience major at FCLC, with a concentration in Cognitive Neuroscience. Her lifelong interest in music has inspired her to research the intersection between music and the mind. After graduation, she hopes to obtain a PhD in Clinical Neuropsychology.
+
+**Title of Research: **[The Effect of Music Training on Short-Term Musical Memory](https://docs.google.com/presentation/d/1ZSeliECZWcdZEOnRJdsYR20JiXOMxn8t6UfdZ6XymEA/edit?usp=sharing)**Mentor: **Dr. Karen Siedlecki**Abstract: **Musical training is believed to influence cognitive abilities, which may include an impact on short-term memory for musical melodies. It was hypothesized that individuals who have taken music lessons will have a greater memory span for melodies. This possibility was investigated by creating a pitch memory span task where participants judged whether two melodies were the same or different as the sequence length progressively increased. A separate measure of working memory was also administered to account for general memory performance. Analysis of the data revealed that music lessons are a significant predictor of musical memory span, but other correlations that were expected between aspects of music training (such as the duration of training and age of onset) and musical memory span did not reach significance. These findings suggests that short-term musical memory is separate from the rest of short-term memory, and that it is improved by taking music lessons.

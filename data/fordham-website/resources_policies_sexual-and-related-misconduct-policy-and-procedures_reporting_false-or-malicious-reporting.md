@@ -1,0 +1,5 @@
+https://www.fordham.edu/resources/policies/sexual-and-related-misconduct-policy-and-procedures/reporting/false-or-malicious-reporting
+
+# False or Malicious Reporting: Sexual and Related Misconduct Policy
+
+Community members are prohibited from: (i) knowingly making false statements; (ii) knowingly submitting false information during a University investigation and adjudication process including the Title IX process; (iii) knowingly bringing a false or malicious report or Formal Complaint against another community member; or (iv) knowingly using this or any University policy for false or malicious purposes. Such conduct may be subject to disciplinary action under Section 6-03.01, “*Violations*,” of the University Code of Conduct, any document incorporating the University Code of Conduct, or this policy.

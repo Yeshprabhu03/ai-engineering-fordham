@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2020-showcase-and-participants/reginaflor-glorioso
+
+# Reginaflor Glorioso '21
+
+![Reginaflor Glorioso](/media/review/content-assets/migrated/images/Glorioso_photo_2_1.jpg)
+
+**Major: **Natural Sciences**Bio:** Reginaflor is a NYC resident currently studying Natural Sciences at Fordham University. She has had a love for science since her early childhood and seeks to continue her education at St. John’s University by studying Biological and Pharmaceutical Biotechnology.
+
+**Title of Research:** Chitin Solubility in Salt Solutions**Partner: ** Nour Aborageh**Faculty Mentor:** Dr. Marie Thomas**Abstract:** Chitin is a cheap bio-renewable and bio-degradable resource that has the potential to decrease our reliance on petroleum feedstocks. Chitin is completely insoluble in most organic and inorganic solvents; however, it hits all the criteria in terms of diversified functionalities in applications. For our project, we used lithium chloride/dimethylacetamide (LiCl/DMA) as our solvent to dissolve chitin. LiCl/DMA is a solvent that other scientists have used to dissolve chitin bringing favorable results; chitin that was dissolved became more malleable and was regenerated into films, threads and microspheres. However, the parameters for dissolution were not clear in the literature. Dr. Thomas and I worked together over the summer to determine the best parameters for dissolution of chitin in LiCl/DMA, so that we could apply them to processes that will be developed using ionic liquids.

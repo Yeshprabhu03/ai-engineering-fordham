@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/lectures-and-symposia/mental-health-and-crime-a-path-to-safety-for-all/panelists/falguni-sen
+
+# Falguni Sen
+
+## Professor of Strategy, Gabelli School of Business, Fordham University
+
+![Falguni Sen](/media/review/content-assets/migrated/images/Falguni_Sen.jpg)
+
+**Falguni Sen** is Professor of Strategy at the Gabelli School of Business at Fordham University, where he focuses on the analysis of industries. He is an expert in the area of outsourcing of clinical trials and the creation of strategic partnerships, and is particularly passionate about studying the value of strategic and operational actions within the healthcare industry where outcomes are difficult to measure. He is currently conducting research on the value of expanding networks within the healthcare provider space, the importance of patient-generated information in increasing the efficiency and reducing the cost of healthcare, and the role of doctors’ language on patient experience. His most recently published paper examines how patients use social media in discussing healthcare and drug use. As a consultant, Sen has advised for-profit and nonprofit organizers on developing appropriate strategies. He has also advised biotech and healthcare start-ups and has been on their boards. Working collaboratively with health insurance providers, Sen designed and launched an initiative within the Global Healthcare Innovation Management Center, for which he serves as founder and director, on the measurement of value in health. Sen pioneered an effort to create a multi-school Master of Science in Health Administration program at Fordham. He has received many teaching awards and has run strategy workshops and seminars with technology and R&D managers at corporations in the U.S., China, India, Switzerland, and Ireland.

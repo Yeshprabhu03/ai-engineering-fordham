@@ -1,0 +1,7 @@
+https://www.fordham.edu/academics/centers-and-institutes/center-for-ethics-education/research/ethical-challenges-for-research-extenders-responsible-for-the-integrity-of-community-addiction-research
+
+# Ethical Challenges for Research Extenders Responsible for the Integrity of Community Addiction Research
+
+Federal health disparity initiatives to achieve equity in community-based research on drug use and related health and socio-behavioral risk has increased employment of community research workers (CRWs) as recruiters, data gatherers, and peer interviewers. While CRWs help to form the essential collaborative link between investigators and marginalized populations, little is known about the challenges that CRWs face in the practical application of research procedures in the field. Through focus groups and web-based surveys this federally funded study is aimed at giving CRWs a voice in identifying factors that facilitate and impede their ability to meet the methodological and ethical ideals of the field.
+
+This study (#1R21RR026302-01) is funded by the National Center on Research Resources (National Institutes of Health). The principal investigator is Celia B. Fisher, PhD, Director Fordham University Center for Ethics Education. The co-investigators are Leslie Alexander, PhD, Bryn Mawr College, and Gala True, PhD, Philadelphia Veteran's Administration Medical Center.

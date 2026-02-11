@@ -1,0 +1,14 @@
+https://www.fordham.edu/academics/centers-and-institutes/new-york-center-for-public-anthropology/about-the-center
+
+# About the New York Center for Public Anthropology & Sociology
+
+## Mission Statement
+
+Founded in 2022 by Ayala Fader PhD, Fordham’s New York Center for Public Anthropology is guided by a commitment to public scholarship that benefits local partners, academic disciplines, and all of us in the shared space of New York. The Center believes that academic resources—interdisciplinary literatures, networks, and methodologies—can support vibrant partnerships with neighbors outside the academy, who bring their expertise in teaching, mentoring, community-building, and political activism. Public scholarship has the power to creatively address social inequities and injustices by engaging with a diversity of publics. The framework for the Center’s mission is one of accompaniment. Inspired by Central American struggles, this approach to social change involves individuals from different backgrounds working together as equal partners.
+
+Housed in Fordham’s Department of Sociology and Anthropology, the Center builds and supports partnerships between Fordham University and its neighbors in New York. For example, it supports initiatives that use critical analytical approaches and institutional resources to create long-term collaborations with New York City public schools, interdisciplinary faculty across Fordham and other universities, activist institutions, and beyond.
+
+Two key synergistic sets of activities support and nurture the Center’s mission:
+
+- The Center hosts collaborative projects and programming between academics, educators, and advocates to address inequities of race, class, gender, and sexuality, particularly but not exclusively in public schools. Both short-term and longer-term projects and programming create opportunities for original research from students at the undergraduate and high school level, professionalization, mentorship for college access, network building, and critical reflection tools through ethnographic research.
+- The Center provides a creative space for academics and teachers to experiment with writing, research, and teaching. This includes theorizing disciplinary implications based on collaborations with activists and advocates outside of academia, as well as fostering interdisciplinary scholarly seminars and public neighborhood talks, panels, and events. The Center particularly challenges academics to rethink who our interlocutors are, who we write for and research with, as well as the very purposes of anthropology, sociology, and linguistics today. When we hold our academic disciplines accountable beyond the academy, we must reckon with the moral bases of what we do as scholars and why. The public scholarship the Center supports works toward making the world a more just place for all.

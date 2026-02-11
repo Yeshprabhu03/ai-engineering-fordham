@@ -1,0 +1,13 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2023-participants-/angelina-diamante
+
+# Angelina Diamante
+
+**Major:** Art History & Visual Arts
+
+**Bio:** Angelina Diamante is a February 2023 graduate from Fordham University Lincoln Center, where she was awarded a double major in Art History and Visual Arts, and a double minor in Religious Studies and Women, Gender, & Sexuality Studies. She is currently a Master's Candidate at Sotheby's Institute of Art, New York, where she is continuing to expand her area of expertise and research in painting and sculpture of the Italian Renaissance and Baroque periods.
+
+**Title of Research:** The Pagan Fantasy: Bernini's Bacchanal & Escapism in the Early Baroque
+
+**Mentor:** Prof. Caitlin Beach, Art History Department
+
+**Abstract:** Throughout and succeeding the seventeenth century, countless works by the acclaimed Gian Lorenzo Bernini (1598-1680) have been recognized as pinnacle contributions to the Baroque period that sanctioned him as one of the most prominent sculptors in the history of Western art. Despite the veneration of his later esteemed works, a single sculpture has been virtually disregarded altogether in the trajectory of Bernini’s career — its consequence reflected in the scarcity of contemporary scholarship on the piece. Bernini’s Bacchanal: A Faun Teased by Children, housed at the Metropolitan Museum of Art, New York, appears as a seemingly trivial and less-than-life size marble statue with a Bacchic motif; its main subjects are a faun, three putti, and a vining tree. While the present scholarship on Bacchanal has contributed to the chronological harmonization of Bernini’s artistic career and has proffered relevant discourse on a pedantically overlooked masterpiece, academics have yet to consider Bacchanal’s intimate sanctioning of escapism. This research seeks to present a unique perspective on Bernini’s Bacchanal: A Faun Teased by Children (ca. 1616-17) to articulate that the intention of the sculpture was to offer a means of metaphorical abscondence from the theological and social restrictions that afflicted the Early Baroque period through a homage to the credences of classical antiquity and an audulation of the humanist ideals of the Renaissance. In situating Bernini’s Bacchanal in the context of the Early Baroque period, this paper will consider Bernini’s Bacchic muses and their individual significances as representational figures of pleasure and inebriation in classical mythology and the Renaissance, thus illuminating their relationship to escapism.

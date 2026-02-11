@@ -1,0 +1,5 @@
+https://www.fordham.edu/resources/policies/sexual-and-related-misconduct-policy-and-procedures/sexual-and-other-related-misconduct/intimidation-and-retaliation-for-reporting
+
+# Intimidation and Retaliation for Reporting: Sexual and Related Misconduct Policy
+
+**Intimidation and Retaliation for Reporting:** Direct or indirect attempts to violate a University No-Contact Restriction or to intimidate, threaten, interfere with, restrain, coerce, discriminate against, or harass any person for attempting to report misconduct, reporting misconduct, pursuing a Formal Complaint, serving as a witness, or being a potential party or witness in a University investigation regarding possible violations of any of the University’s policies regarding sexual and related misconduct is prohibited. Members of the University community who engage in this conduct will be subject to prompt and appropriate disciplinary action, including possible termination or expulsion from the University. Individuals engaging in this conduct who are not members of the University community will be subject to campus bans and other actions deemed appropriate by the Title IX Coordinator or their designee.

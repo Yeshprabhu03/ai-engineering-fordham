@@ -1,0 +1,13 @@
+https://www.fordham.edu/resources/policies/office-of-finance-purchasing-manual/the-purchasing-process
+
+# The Purchasing Process
+
+### Buying an Item or Service
+
+Everyone is a buyer. Everyone can be a buyer. The Purchasing Department has trained professional buyers that are knowledgeable and experienced, and are here to help you navigate the buying process. The Purchasing Department has access to new information that you may need to make the most out of your buying dollar. There are federal, state and local buying groups and contracts that the end users may not be aware of. Why pay more when you do not have to?
+
+Please contact us with any items that you would like us to bid or obtain contract pricing for you.
+
+## Purchasing Manual Topics
+
+[Purchasing Organization and Objectives](/resources/policies/office-of-finance-purchasing-manual/purchasing-organization-and-objectives/)[Business Ethics/Ethical Conduct](/resources/policies/office-of-finance-purchasing-manual/business-ethicsethical-conduct/)[University and Purchasing Policies](/resources/policies/office-of-finance-purchasing-manual/university-and-purchasing-policies/)[Vendor and Supplier Information](/resources/policies/office-of-finance-purchasing-manual/vendor-and-supplier-information/)[Budgeted Funds](/resources/policies/office-of-finance-purchasing-manual/budgeted-funds/)[Uniform Guidance: Grants](/resources/policies/office-of-finance-purchasing-manual/uniform-guidance-grants/)[Purchasing Thresholds](/resources/policies/office-of-finance-purchasing-manual/purchasing-thresholds/)[Fordham Special Purchases](/resources/policies/office-of-finance-purchasing-manual/fordham-special-purchases/)[Fordham Specific Agreements/Programs](/resources/policies/office-of-finance-purchasing-manual/fordham-specific-agreementsprograms/)[Receipt and Payment](/resources/policies/office-of-finance-purchasing-manual/receipt-and-payment/)[Procurement Frequently Asked Questions](/resources/policies/office-of-finance-purchasing-manual/procurement-frequently-asked-questions/)[Fordham Vendor Agreement Chart](/about/leadership-and-administration/administrative-offices/office-of-finance/about-us/finance-groups/strategic-sourcing-and-office-services/preferred-supplier-list/)[Duplicating Center](/about/leadership-and-administration/administrative-offices/office-of-finance/about-us/finance-groups/strategic-sourcing-and-office-services/office-services/ram-print-center/)

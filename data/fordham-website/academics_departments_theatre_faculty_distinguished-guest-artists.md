@@ -1,0 +1,163 @@
+https://www.fordham.edu/academics/departments/theatre/faculty/distinguished-guest-artists
+
+# Distinguished Guest Artists
+
+Every year, distinguished actors, designers, playwrights, and directors are invited to speak with the Fordham theatre students. Past guests have included:
+
+-
+- May Adrales
+- Suzanne Agins
+- Tea Alagić
+- Christopher Bayes
+- Julie Boyd
+- Karin Coonrod
+- Clinton Turner Davis
+- Frank Deal
+- Rachel Dickstein
+- Marcia Milgrom Dodge
+- Annie Dorsen
+- Jackson Gay
+- Peter Gil-Sheridan
+- Jessi Hill
+- Eleanor Holdridge
+- Mia Katigbak
+- Sonoko Kawahara
+- David Kennedy
+- Yolanda King
+- Michael Mayer
+- Lisa Peterson
+- Jean Randich
+- Steven Rattazzi
+- Jonathan Rosenberg
+- Jerry Ruiz
+- Erica Schmidt
+- Ken Rus Schmoll
+- Niegel Smith
+- Ratan Thiyam
+- Danielle Topol
+- Gaye Taylor Upchurch
+- Moritz Von Stuelpnagel
+- Randy White
+- Michael Wilson
+- Evan Yionoulis
+
+-
+- Edward Albee
+- Alan Alda
+- Michael Barakiva
+- Christopher Baye
+- Harry Belafonte
+- Mark Bly
+- Beowulf Boritt
+- Per Brahe
+- Beau Bridges
+- Christina Bullard
+- Vinnie Burrows
+- David Cady
+- Linda Cho
+- Patricia Clarkson
+- Jim Clayburgh
+- Aaron M. Copp
+- Kia Corthron
+- John Coyne
+- Cusi Cram
+- Nilo Cruz
+- Willem Dafoe
+- Eisa Davis
+- Pat Dignan
+- Alexis Distler
+- Jill Du Boff
+- Olympia Dukakis
+- Noma Dumezweni
+- Erik Ehn
+- Scott Elliot
+- Eve Ensler
+- David Esbjornson
+- Richard Foreman
+- Olivera Gajic
+- Michael John Garcés
+- Bernard Gersten
+- David Greenspan
+- André Gregory
+- Tilley Grimes
+- Jerzy Grotowski
+- John Guare
+- Adam Guettel
+- Zabryna Guevara
+- Marcia Gay Harden
+- Karen Hartman
+- Alex Hawthorn
+- Caite Heavner
+- Megan Henninger
+- John Benjamin Hickey
+- Susan Hilferty
+- Don Holder
+- Len Jenkin
+- John Jesurun
+- Chirstine Jones
+- Harvey Keitel
+- Anne Kennedy
+- Yuko Kaseki
+- Daniel Kluger
+- Tony Kushner
+- Tina Lanaumahayana Landowne
+- Arthur Laurents
+- Elizabeth Lecompte
+- Ming Cho Lee
+- Warren Leight
+- Gina Leishman
+- Daniel Levy
+- Robert Lewis
+- David Lindsay-Abaire
+- Todd London
+- Craig Lucas
+- Charles Ludlam
+- Anka Lupes
+- Judih Malina
+- Rick Martin
+- Liz McCann
+- Ellen McLaughlin
+- Charles L. Mee Jr.
+- Joey Mendoza
+- Joanna Merlin
+- Marlene Meyer
+- Chiori Miyagawa
+- Jennifer Moeller
+- Matthew Moore
+- Maggie Morgan
+- Susan Mosakowski
+- Kasey Ostopchuck
+- Suzan-Lori Parks
+- Neil Patel
+- Yvonne Rainer
+- Jackie Reingold
+- Lloyd Richards
+- Sarah Ruhl
+- Mark Schlegel
+- Fiona Shaw
+- Sarah Sidman
+- Nicky Silver
+- Narelle Sissons
+- Anatoly Smeliansky
+- Anna Deavere Smith
+- Ellen Stewart
+- Tadashi Suzuki
+- Julie Taymor
+- Rosemarie Tichler
+- Candido Tirado
+- Julie Tucker
+- Robin Vest
+- Denzel Washington
+- Peter West
+- Julie White
+- Craig Wroe
+- Daniel Zimmerman
+
+-
+- Anne Washburn
+- Jackie Sibblies Drury
+- MJ Kaufman
+- Diane Exavier
+- Tony Meneses
+- Michael Walkup
+- Charly Evon Simpson

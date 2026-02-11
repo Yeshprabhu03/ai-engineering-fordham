@@ -1,0 +1,13 @@
+https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/mba-dual-degrees
+
+# M.B.A. Dual Degrees
+
+In certain fields, multiple degrees combine to become extraordinarily powerful tools for career advancement.
+
+Fordham’s dual-degree programs are designed to help you acquire two valuable credentials in a compressed time frame—allowing you to get your career moving faster.
+
+Current dual-degree options:
+
+All dual-degree programs require acceptance into both programs. For details on the curriculum for each one, use the links above.
+
+The Gabelli School of Business offers a separate suite of dual-degree programs that are open to Fordham undergraduates who wish to pursue graduate studies. Learn more about [Fordham undergraduate dual-degree options](/gabelli-school-of-business/academic-programs-and-admissions/undergraduate-programs/undergraduate-to-graduate-pathways/).

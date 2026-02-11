@@ -1,0 +1,9 @@
+https://www.fordham.edu/how-to-apply-to-college-a-step-by-step-guide/the-college-search/connecting-with-counselorsschools
+
+# Connecting with Counselors and Schools
+
+![Student and counselor](/media/home/commonly-used-images/admission-advice/BStanton-20180524-0209.jpg)
+
+When you’re interested in a school, connect with them.
+
+**Get on their mailing list:**One of the best ways to start connecting with colleges and universities is to sign up to receive emails and communications from the school. You’ll learn more about what they have to offer you, academically and socially, and you’ll be among the first to learn about any new majors, programs, and initiatives.**Reach out to your admission counselor:**At Fordham, as well as at many other schools, admission counselors are assigned to cover geographic regions. That helps them get a better sense of you and where you’re coming from even before they read your application. They’re more than happy to help you make an informed decision, but make sure to check the school’s website first before sending questions that are already answered.**High School Visits:**If a college representative is coming to your school, this often a great way to have dedicated conversation in a small group environment.**College Fairs:**These are typically large events where you only a have a few minutes to engage with college representatives, but they're a great way to get on mailing lists and pick up basic infomration from many schools all at once. College Panels and**Financial Aid Nights:**Some high schools invite experts on admission and/or financial aid to present on relevant topics. These events are helpful for both students and families.

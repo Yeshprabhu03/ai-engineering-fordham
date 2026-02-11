@@ -1,0 +1,35 @@
+https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/professional-mba/pmba-networking-opportunities
+
+# Networking Opportunities
+
+## Getting Connected for Professional Success
+
+Part of the value proposition of enrolling in the Gabelli School Professional (Part time) M.B.A. is the opportunity to network with your classmates, professors, alumni, and industry leaders. Making the effort to proactively participate during your time in the program can open the doors to invaluable connections that can serve you now and throughout your career. Wondering how to fit it all in? Many opportunities to network and socialize occur during class, in the evenings, or online, making it easy to build new relationships, exchange ideas, gain insights, and cultivate industry contacts.
+
+Industry Events
+
+![Ian Bremmer Fareed Zakaria](/media/home/schools/gabelli-school-of-business/Ian_Bremmer__Fareed_Zakaria.jpg)
+
+
+Ian Bremmer and Fareed Zakaria
+
+Through its academic centers and departments, graduate student clubs and organizations, and graduate student engagement services, the Gabelli School offers a wealth of opportunities to network. Our industry events feature the top experts across finance, economics, accounting, artificial intelligence, marketing, technology, and many other areas. They provide the chance to engage with attendees from across NYC and around the world. Watch your email for invites, [sign up for and explore opportunities listed on Gradlink](https://fordhamgsb.campuslabs.com/engage), and [check the School’s calendar of events](https://www.gabelliconnect.com/calendar/).
+
+Guest Lectures & Site Visits
+
+![PMBA Students at Microsoft](/media/home/schools/gabelli-school-of-business/PMBA_Students_at_Microsoft.jpeg)
+
+[Global Immersions](/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/professional-mba/pmba-one-week-global-immersion-program/) provide an insider’s view of business operations and best practices while affording the chance to meet and mingle with industry executives. From Amazon to Allianz Technology, Bloomberg to BCG, and Pirelli to Prada, students gain exposure to those who are leading the future of business. Guest lecturers often come to class, relaying stories of their own career experiences and helping to bring classroom learning to life. They are more that happy to engage with students, answering questions and providing helpful insights on getting ahead.
+
+Casual Get Togethers
+
+![PMBA Alumni & Student Reception](/media/home/schools/gabelli-school-of-business/PMBA_Alumni__Student_Reception.jpg)
+
+
+![Students Having Dinner](/media/home/schools/gabelli-school-of-business/Students_Having_Dinner.jpg)
+
+
+![PMBA Students At Knicks Game](/media/home/schools/gabelli-school-of-business/PMBA_Students_At_Knick_Game.jpg)
+
+
+While earning your M.B.A. is hard work, at the Gabelli School it’s fun as well. Bonding and networking with students enrolled in the Professional M.B.A., as well as those from other programs will expand your circle of contacts and build the camaraderie that will make your educational experience all the more enjoyable. From taking in a baseball or basketball game to dinners and receptions at NYC restaurants, the program offers a wide range of opportunities.

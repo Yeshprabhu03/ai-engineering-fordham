@@ -1,0 +1,7 @@
+https://www.fordham.edu/academics/departments/sociology-and-anthropology/courses
+
+# Sociology and Anthropology Courses
+
+Sociology is the study of group life—ranging from the analysis of passing encounters between individuals on a city street to the examination of current trends in globalization. As a social science, it combines scientific and humanistic approaches to study the diversity of social relationships in our modern world. As a liberal arts major, sociology represents excellent preparation for future graduate work by developing critical thinking and research skills, and it similarly provides fundamental grounding for students planning careers in law, business, social work, criminal justice, medicine, and international affairs.
+
+Anthropology is the comprehensive study of the human condition, the origins of our species in evolutionary biology, and the development of culture and society in its many variations among ancient and contemporary peoples. Its subject matter encompasses an immense time depth and a vast spatial range, including the simplest human societies and the most complex civilizations, including modern industrial nations. Anthropology brings together many areas of scientific and humanistic inquiry, unifying and integrating knowledge about people and their perceptions of the world, and it offers a balanced perspective on the momentous cultural changes wrought by globalization that are ongoing today.

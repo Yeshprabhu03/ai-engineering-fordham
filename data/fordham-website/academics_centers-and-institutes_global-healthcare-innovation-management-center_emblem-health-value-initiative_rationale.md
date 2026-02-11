@@ -1,0 +1,27 @@
+https://www.fordham.edu/academics/centers-and-institutes/global-healthcare-innovation-management-center/emblem-health-value-initiative/rationale
+
+# Emblem Health Value Initiative Rationale
+
+At the outset, it is useful to reiterate that health is more than simply the absence of disease. As the WHO has maintained for over 50 years now, it is to be defined as a state of complete physical, mental, and social well-being. Such a definition is useful to distinguish between public interventions, which solely reduce the disease burden or morbidity, and those that reduce disease and also restore the affected individuals to a state of health. A variety of clinical interventions can lead to temporary reductions in disease. Severe side effects may constrain compliance with treatment regimes as may socioeconomic and infrastructural issues, thereby preventing the eradication of a deadly disease or health condition.
+
+We may conceptually divide these constraints very broadly into two types: the individual/social and the infrastructural/ecological. Among the former concerns are such issues as whether the disease is primarily rural or urban, whether it affects people at various scales of income differently, whether it affects particular groups, whether women or men are more affected by it, whether it has a social stigma attached to it and so on. The latter concerns by contrast include the ease of access to health care centers, the types and viability of available therapies, the infrastructural support to make healthcare affordable (insurance schemes and so on), whether the individual lives in an area with good air and water quality and has adequate nutrition. In other contexts this distinction has been referred to as the distinction between individual and ecologic variables.
+
+Understanding the biomedical reasons for the persistence of disease and ill-health are the most relevant in terms of treatment. However, socio-economic factors and infrastructural factors are well recognized as critical factors in the persistence and prevalence of ill-health as well. The WHO commission on the Social Determinants of Health suggests that addressing such issues may have as important an impact on reducing disease burdens as creating widespread access to medicine. But the integration of public health and more specifically community health issues with bio-medical therapeutic interventions has been difficult to implement. In many cases the identification and prevention of socioeconomic causes for disease take a back seat to devising treatment? What are the potential and implications of altering existing approaches?
+
+There is a need to understand and measure the value of health with an integrated framework. By focusing on socioeconomic factors and the ways in which these might interact with other factors to influence health, we hope to stimulate more research into such topics—a set of considerations, which have thus far been relatively neglected. In attempting to understand the types of health impacts and their effects, we suggest the need to identify alternative and broader indicators of health than morbidity rates (including disease concentration among communities, the influence of ill-health on households, cultural differences in the perception of what constitutes good health and so on). Such an integrated framework will allow us to go beyond universal quality of life indicators creating the possibility for community specific definitions of good health. With the rapid increase in the diagnosis of “life-style diseases” such as diabetes, cardio-vascular etc. such a definition has become even more important in order to prioritize resource allocations. Distinguishing between health indicators that are universally valid and those that can culturally differ may be one of the outcomes of this framework. It will help us make the choice between say providing subsidized statin therapy versus (or in addition to– with different dosages to reduce side effects) nutrition for cardiovascular treatment in some communities.
+
+The issue of overall “health” is indeed composed of many components. One of the major components is the healthcare delivery system. New indicators of value of these components may need to be developed so that the context of patient centeredness and overall health discussed above can be maintained.
+
+The following components are not comprehensive but illustrative:
+
+- Physician evaluation and management services
+- Surgery and other procedures
+- Imaging technologies
+- Personalized diagnostics
+- Preventive services and wellness
+- Home care
+- Devices
+
+While developing new measures for value in these components specific to patient centered outcomes it is necessary to understand the strong interrelationships between these components and state of evidence based medicine, comparative effectiveness research, state of science and technology and the socio-economic and cultural factors discussed above. The risk benefit equation may need to be re-evaluated for all the components.
+
+Further, while incorporating the notion of “value” we must move away from restricting issues to quality and cost but look at these components in their entirety as investment and return in terms of overall health of the patient. Thus there will be a need to evaluate the impact of consumer incentives, provider and manufacturer payments and the organization and structure of care. These issues were highlighted in a roundtable discussion of the Institute of Medicine.

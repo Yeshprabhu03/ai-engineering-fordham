@@ -1,0 +1,13 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2020-womens-summit/2020-womens-summit-panels
+
+# 2020 Women's Summit Panels
+
+[Building Personal Resilience: Yes I Can! Yes We Can!](/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2020-womens-summit/2020-womens-summit-panels/building-personal-resilience-yes-i-can-yes-we-can/)
+
+With the world around us swiftly changing, individuals, families, and communities are challenged to recover and rebuild in new creative ways. We are called upon to adapt and respond even as we are forced to pause and ponder the unknown. How do we develop and maintain resilience, and how can we continue to find healthy and constructive ways to grow?[Career Outlook: COVID-19 Trends & Perspectives](/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2020-womens-summit/2020-womens-summit-panels/career-outlook-covid-19-trends--perspectives/)
+
+The way we work has been evolving for quite some time, with shifts spurred on by technology, changes in gender dynamics, and the emergence of new fields. Will the recent coronavirus pandemic force yet another reimagining of the way we work—especially remotely? How can employers and employees adapt, and what industries might need to be re-engineered to survive?[Perfection Intervention: Finding Strength in Letting Go](/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2020-womens-summit/2020-womens-summit-panels/perfection-intervention-finding-strength-in-letting-go/)
+
+Nobody’s perfect. But many women, in particular, seem to feel they have to be. That tendency inhibits personal and professional growth, and encourages imposter syndrome. How can we learn to let go, embrace our successes, learn from our setbacks, and become our best selves rather than our worst critics?["Who's the Boss?": Perspectives on Modern Home Economics](/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2020-womens-summit/2020-womens-summit-panels/whos-the-boss-perspectives-on-modern-home-economics/)
+
+Society has historically defined a woman's role in the home as a caretaker. How have shifts in that reality—women's ability to join the workforce, women claiming the role of breadwinner, the legal recognition of same-sex marriage, or the more recent shift to remote work—changed how women and society at large grapple with the domestic division of labor?

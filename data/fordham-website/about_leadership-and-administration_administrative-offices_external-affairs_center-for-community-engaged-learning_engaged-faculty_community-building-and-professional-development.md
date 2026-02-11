@@ -1,0 +1,11 @@
+https://www.fordham.edu/about/leadership-and-administration/administrative-offices/external-affairs/center-for-community-engaged-learning/engaged-faculty/community-building-and-professional-development
+
+# Ways For Faculty To Get Involved
+
+![students in Prof. Shellae Versey psychology class with alum Reece Brosco](/media/home/departments-centers-and-offices/center-for-community-engaged-learning/Screen-Shot-2025-06-04-at-9.56.24-AM.png)
+
+Fordham's Center for Community Engaged Learning sponsors courses according to an asset-based approach to engagement. We bring the institutional and academic resources of the University together with the leadership, experience, and richness of our communities to enhance student learning, support faculty research, and build on community strengths. Students mobilize abstract concepts they learn in the classroom by engaging in real-world challenges. They enhance memory and retention by teaching new ideas to young people in local schools and centering in reflective practices together with their classes. They immerse themselves in the various cultures of New York’s vibrant neighborhoods, and speak the myriad languages native to our city. And they hone civic leadership skills and take on pressing matters of policy and equity by partnering with elected officials, community boards, activists, and organizations to work for change. [Get Involved](https://docs.google.com/forms/d/e/1FAIpQLSdQN1G6_wSCJweP6EGsbA-r3oyjm4248GsNQttGrzs06ECMoA/viewform?usp=sf_link)!
+
+#### Faculty Advisory Committee for Engaged Scholarship
+
+The Faculty Advisory Committee for Engaged Scholarship is a group of expert faculty and administrators in the field of community engagement. They offer advice and support to other faculty members and divisional administration as we build our faculty- and student-facing programming and develop new courses. This body approves new community engaged learning course proposals each semester. We are grateful for our advisory committee’s expertise and guidance.

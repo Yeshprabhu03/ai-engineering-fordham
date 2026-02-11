@@ -1,0 +1,22 @@
+https://www.fordham.edu/academics/departments/communication-and-media-studies/undergraduate-program/journalism
+
+# Journalism Major
+
+The journalism major prepares reporters to serve the public interest in the digital age armed with strong practical skills, a deep grounding in journalism history and ethics, and sharp critical thinking. By synthesizing theory and practice, our graduates will be ready to serve our rapidly evolving media landscape. Classes are taught by a mix of full-time Fordham professors and media professionals from the New York area. Our faculty, who come from such organizations as the *New York Times*, CBS News, MTV and *Sports Illustrated*, help our students by bringing real-world experience to the classroom, making sure our graduates are ready to compete in the job market.
+
+The major moves students through introductory, intermediate, and advanced multimedia reporting classes to hone their skills and bring them to a professional level in reporting, writing, and creating digital content. Majors in journalism become grounded in the profession through one required course in ethics, and one course in the “social construction of journalism”—Media Law, Journalism History, or Sociology of News. Journalism majors are also required to take a course in social media to learn how to use such sites as Facebook, Twitter, and Instagram for gathering and disseminating news. All journalism majors are also required to work for one semester for credit at one of our on-campus publications or broadcast outlets, helping students build their journalism skills under the guidance of a professor, ideally before seeking off-campus internships in junior or senior year.
+
+-
+**To declare a major in Journalism, students must either have earned:**Option 1 Option 2 2.5 cumulative GPA + 30 earned credits 2.0 cumulative GPA overall + 3.0 GPA in 2 CMS courses + 30 earned credits **If you selected the second option above, qualifying CMS courses can include:**Choice 1 Choice 2 COMM 1000 + a major specific course (e.g., FITV 1501: Understanding Film) 2 major-specific courses (e.g., JOUR 1702: Introduction to Journalism + JOUR 2711: Intermediate Multimedia Reporting) -
+**Effective September 2025, to declare a minor in Journalism, students must either have earned:**Option 1 Option 2 2.5 cumulative GPA overall + 30 earned credits 2.0 cumulative GPA + 30 earned credits + 3.0 in 1 course in the minor -
+2 CMS Majors JOUR Minor Students majoring in 2 CMS majors can double count COMM 1000 + 2 additional courses between the majors. Students minoring in JOUR with a CMS major can double count 2 courses between the major and minor. *This policy for the double counting of 2 courses between a CMS major and minor for those who are minoring in DTEM or JOUR became official after a departmental vote on November 20, 2024 and is effective immediately. The policy is not retroactive, however, exceptions can be made for students graduating in Spring 2025.*
+
+-
+**Upon graduation with a Journalism major or minor, students will have achieved the following curricular goals:**- In terms of knowledge, students will develop a critically-informed understanding of journalism as a set of industries and institutions, a site of political and cultural contestation, a space of creative and critical production, and an evolving political and economic ecosystem.
+- Be conversant in journalism history, and be able to connect those histories to current and emerging media forms and issues of pluralism.
+- Be cognizant of the regulatory, economic, occupational, and legal parameters that frame journalistic practice.
+- In terms of skills, students will serve the public good by reporting, writing and creating compelling journalism across media platforms.
+- In terms of values, students will be aware of the ethical and moral challenges that journalists face, and the ways in which such challenges are addressed.
+- Be sensitive to issues of diversity, equity and inclusion as reflected in the theory, practice, and history of journalism.
+
+- In terms of knowledge, students will develop a critically-informed understanding of journalism as a set of industries and institutions, a site of political and cultural contestation, a space of creative and critical production, and an evolving political and economic ecosystem.

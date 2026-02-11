@@ -1,0 +1,9 @@
+https://www.fordham.edu/school-of-law/experiential-education/clinics/corporate-social-responsibility
+
+# Corporate Social Responsibility
+
+In the Corporate Social Responsibility Clinic, you will explore the legal, business and moral arguments for corporate sustainability while working on real-world projects that will expose you to the challenges and prospects for maximizing social and environmental outcomes alongside profits.
+
+In previous academic years, student projects included researching and documenting anti-ESG laws proliferating in the United States and potential legal challenges to such state bills, producing a report for a multinational corporation on the human rights risks in thirteen priority jurisdictions within its supply chain, presenting research findings on anti-corruption reporting behavior at the United Nations Global Impact Working Group Meeting, providing research and litigation strategy advice to a small Columbian NGO bringing an action against a multinational corporation for human rights violations, working with three international NGOs on a business and climate change advocacy project, drafting a human rights policy and accompanying report for a multinational corporation, and working with law firms in Colombia to identify ways in which lawyers can fulfill their CSR obligations.
+
+*In addition to learning the theory and practice of CSR, you’ll learn about CSR in practice from expert guest speakers from across the business and civil communities. As part of the clinic's fieldwork component, you'll develop research, drafting, presentation and communication skills working in partnership with companies, international organizations or NGOs.*

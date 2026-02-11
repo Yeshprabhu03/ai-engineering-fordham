@@ -1,0 +1,10 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2021-showcase-and-participants/isabella-distefano
+
+# Isabella DiStefano '21
+
+![Isabella DiStefano](/media/review/content-assets/migrated/images/Headshot_Distefano_1.jpg)
+
+**Major: **Integrative Neuroscience**Bio: **Isabella is a senior in the Integrative Neuroscience program at Fordham Lincoln Center. Her previous research includes the investigation of the cellular pathways occurring during Multiple Sclerosis. She currently volunteers teaching science to children, and works conducting research at Weill Cornell Medicine. She plans to attend medical school in the future.
+
+
+**Title of Research: **[Isolation of a Fibroblast Growth Factor 13 (Fgf13) expressing neuronal population in identifying the role of Fgf13 hippocampal function](https://docs.google.com/presentation/d/1riJFjbRwhNNFUA_Z92aqvRlf1RZR3VnplwMXXbB-gXg/edit?usp=sharing)**Mentor: **Dr. Jason Morris**Abstract: **The intracellular protein fibroblast growth factor 13 (FGF13) plays an important role in fetal development, but is expressed only in the heart, midbrain, and hippocampus postnatally. FGF13 has been previously identified as playing an important role in shuttling voltage gated sodium channels (VGSCs) to the axon initial segment (AIS) in the cardiac muscle cells (Pablo and Pitt 2017). FGF13 dysfunction has been linked to neurological disorders such as seizures and epilepsy. We demonstrate through knockout experiments that FGF13 is necessary for proper neurodevelopment through the perinatal time period, and its absence is associated with seizure activity. Furthermore, through quantification, I demonstrate that FGF13 is most abundant in the interneurons of the CA1-SP, CA1-SLM, and CA3-SP layers of the hippocampus, regions associated with extra-hippocampal communication. Our findings support FGF13’s role in regulating cortical excitability, and that absence of FGF13 leads to seizure activity as a result of an interrupted GABAergic pathway.

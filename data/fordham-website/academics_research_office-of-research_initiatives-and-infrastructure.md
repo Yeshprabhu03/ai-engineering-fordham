@@ -1,0 +1,15 @@
+https://www.fordham.edu/academics/research/office-of-research/initiatives-and-infrastructure
+
+# Research Initiatives and Infrastructure
+
+The Office of Research oversees and supports a well-established research infrastructure, internal funding opportunities, and external collaborations, including:
+
+**Research Infrastructure**
+
+[University Research Compliance Council](/academics/research/office-of-research/compliance/)(URCC)[Research Deans' Council](/academics/research/office-of-research/initiatives-and-infrastructure/research-deans-council/)[Strategic Research Consortia](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/)[Research Centers and Institutes](https://www.fordham.edu/info/20061/centers_and_institutes)[Institutional Review Board](/academics/research/institutional-review-board/)(IRB)[Institutional Animal Care and Use Committee](/academics/research/office-of-research/compliance/)[Institutional Bio-Safety Committee](/academics/research/office-of-research/compliance/institutional-biosafety-committee/)[Radiation Safety Committee](/academics/research/office-of-research/compliance/)[Research Integrity](/academics/research/office-of-sponsored-programs/research-integrityresponsible-conduct-training/)[High Performance Computing](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/high-performance-computing/)(HPC)
+
+**Internal Research Opportunities**
+
+[Faculty Fellowships](/academics/research/faculty-research/faculty-fellowships/)[Faculty Research Grant](/academics/research/faculty-research/faculty-research-grants/)[Manuscript and Book Publication Award](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/manuscript-and-book-publication-award/)[Sponsored Research Travel Grant Program](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/sponsored-research-travel-grant-program/)[Distinguished Research Award](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/distinguished-research-award/)[Fordham Review Panel for External Proposals](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/review-panel-for-external-proposals/)[Large Proposal Grant Writing Fund](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/large-proposal-grant-writing-fund/)[Office of Research Newsletter](/academics/research/office-of-research/newsletters/)[Fordham AI Research Grant](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-ai-research-grant-fair/)- Funding Opportunity Identification Service
+
+**External Research Collaborations**

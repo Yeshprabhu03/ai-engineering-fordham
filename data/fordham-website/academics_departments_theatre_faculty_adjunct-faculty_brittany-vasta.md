@@ -1,0 +1,10 @@
+https://www.fordham.edu/academics/departments/theatre/faculty/adjunct-faculty/brittany-vasta
+
+# Brittany Vasta
+
+![Brittany Vasta](/media/home/departments-centers-and-offices/theatre/b_vasta_th.jpg)
+
+
+**Classes Taught: **Senior Showcase, Set Design
+
+Brittany Vasta is a Brooklyn based scenic designer for live performance. Her creative curiosity seeks out patterns to connect the intimacy of moment to moment storytelling with the epic of environmental gesture. Before teaching at Fordham she had the pleasure to design several shows here: *Fucking A, *directed by Dawn Saito; *Aulis*, directed by May Adrales; *Dance Nation*, directed by Sanaz Ghajar; and *A Midsummer Night’s Dream*, directed by Ryan Quinn. This fall she will be collaborating with Ryan again on Fordham’s production of *The Tempest. *Some recent projects include the NY off broadway premier of Kate Hamill’s new play *The Light and the Dark *(Primary Stages) as well as Julia May Jonas’s *A Woman Among Women* (Bushwick Starr) which will be remounting at LCT3 next summer. Other work: *The Execution of Justice*, written & directed by Emily Mann (Chautauqua Theatre); Dave Malloy’s *Octet *(Signature Theatre/Berkeley Rep); Phillip Howze’s *Self Portraits* (Bushwick Starr/Jack); *racecar racecar racecar* (ARTNY); Bill Irwin’s *Harlequin & Pantalone* (NY City Center); *Happy Birthday Wanda June *(The Duke); *I thought I would die but I didn’t* (The Tank); *The Brother’s Size*, *Choir Boy*, *the ripple, the wave that carried me home* and *Redwood* (Portland Center Stage); *Welcome to Fear City *(KCRep); *Lady Day at Emerson’s Bar and Grill *(Syracuse Stage); *August: Osage County* (Resident Ensemble Players, Delaware). Long time associate collaborator of set designer Mimi Lien: *Uncle Vanya *(Broadway, Lincoln Center), *The Green* (Lincoln Center public art installation); *The Lifespan of a Fact *(Broadway, Studio 54). Drama Desk Nomination for *Octet*. MFA, NYU. USA 829 member. [brittanyvasta.com](http://brittanyvasta.com/)

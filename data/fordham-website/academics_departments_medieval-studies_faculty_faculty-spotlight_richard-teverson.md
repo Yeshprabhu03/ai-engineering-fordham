@@ -1,0 +1,15 @@
+https://www.fordham.edu/academics/departments/medieval-studies/faculty/faculty-spotlight/richard-teverson
+
+# Faculty Spotlight: Richard Teverson
+
+![Dr. Richard Teverson](/media/home/departments-centers-and-offices/medieval-studies/RTeverson.jpeg)
+
+Dr. Richard Teverson will join Fordham’s Art History and Music department in the fall. Richard’s research focuses on the rulers and regions allied to the Roman Empire in the late Republic, Augustan, and Julio-Claudian periods, with a particular focus on material culture. His work explores these courts as centers of cultural innovation, spurred on by the needs of the rulers of these diverse kingdoms to respond to the new imperial imageries, and political realities, of the Augustan age.
+
+His current book project, tentatively titled, “Connected Kingdoms: The networks of Roman allied monarchies during the first century CE,” uses a thematic approach to study how rulers from Britain to the Black Sea and from North Africa to Nabatea used art to establish links with communities around the Roman Mediterranean, and not just with the imperial metropolis, thus expanding on previous binary models of metropolis–periphery relationships in the Augustan age. It argues that only by understanding the court cultures of these kingdoms as part of concerted royal efforts to forge links with other allied kings, queens, and local communities around the empire, can the agendas and agencies at work in these liminal regions be seen clearly: in terms both of the intent behind these royal programs, and how they and their patrons were understood and recapitulated by local audiences across the Roman world.
+
+After the collapse of these dynasties and the networks they sought to construct, these royal, artistic innovations had a profound effect on how material culture in their kingdoms was used to shape meaning, memory, and identity, even after the death of the ruler and Roman annexation of their territory. This monumental legacy of allied kingship forms the basis on a forthcoming article, which analyzes for the first time how the art of Herod of Judea, Juba II of Mauretania, and the Alpine king Cottius II affected the cultural and political landscapes of their former kingdoms long after their deaths, during times of local dissatisfaction with Roman rule.
+
+Richard has spent extended time in Algeria, Israel, and Italy as part of his research, supported by grants from the British School at Rome and the British Friends of the Hebrew University. He was born in the UK, where his BA degree at Oxford University focused on ancient and medieval history. He is thus very much looking forward to furthering this interest in late antiquity and the early Middle Ages via working with the Center for Medieval Studies.
+
+Richard also served as the Managing Editor of Images: A Journal of Jewish Art and Visual Culture from 2013 to 2015. Outside the library and classroom, Richard is a keen cyclist and student of Aikido.

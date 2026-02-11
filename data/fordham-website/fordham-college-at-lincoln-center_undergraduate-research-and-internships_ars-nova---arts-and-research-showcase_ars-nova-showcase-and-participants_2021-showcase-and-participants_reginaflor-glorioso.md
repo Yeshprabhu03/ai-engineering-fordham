@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2021-showcase-and-participants/reginaflor-glorioso
+
+# Reginaflor Glorioso '21
+
+![Reginaflor Glorioso](/media/review/content-assets/migrated/images/reginaflor__edit_.jpg)
+
+**Major: **Natural Science**Bio: **I'm a Natural Science major and an English minor. After I graduate from Fordham I plan to pursue Physical Therapy at Rutgers University.
+
+**Title of Research: **Chitin Solubility in Lithium Chloride/Dimethylacetamide Solutions**Mentor: **Dr. Marie Thomas**Abstract: **Chitin is a cheap, renewable, and biodegradable polymer and resource that has the potential to decrease our reliance on fossil fuels. However, chitin is completely insoluble in many organic and inorganic solvents. Despite this, uses for this polymer have been found in many areas such as agriculture, medicine, and food. It is of interest to find greener solvents and/or methods for processing this material. We have used lithium chloride/dimethylacetamide (LiCl/DMA) solutions to dissolve chitin. Although it is a common solvent system for processing chitin, parameters involving its use appear to be limited in the literature. Therefore, we have studied the dissolution of chitin in LiCl/DMA solutions of various concentrations. In addition, we have varied the temperature, in an effort to decrease dissolution times. In almost all cases, we were able to dissolve chitin. The material could also be regenerated using a combination of methanol and water. The regenerated material was made into films and found to be more amorphous. Results from FTIR spectroscopy indicate that there are no modifications to the functional groups of chitin after dissolution and regeneration.

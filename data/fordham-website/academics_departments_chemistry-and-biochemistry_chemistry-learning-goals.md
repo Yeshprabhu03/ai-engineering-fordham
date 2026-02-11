@@ -1,0 +1,17 @@
+https://www.fordham.edu/academics/departments/chemistry-and-biochemistry/chemistry-learning-goals
+
+# Chemistry Department Student Learning Goals
+
+Student Learning Goals for Chemistry
+
+Our American Chemical Society-certified curriculum provides students with the necessary skill-
+
+sets, and prepares them for a range of STEM-related careers. The breadth and depth of courses, and research opportunities offered will prepare students for their applications to top-tier professional schools, including medical schools, graduate school programs, or entry-level industrial positions. Students will learn how to apply their acquired knowledge in chemistry to a wide range of areas in a variety of chemistry-related fields.
+
+This preparation takes the form of the following learning goals:
+
+**Students will gain knowledge and proficiency in the core concepts of Chemistry.**Students will understand the fundamental basis for the structure and reactivity of atoms, molecules and non-molecular solids. Our curriculum will introduce students to all the branches of chemistry: Organic, Inorganic, Physical, Analytical and Biochemistry.**Students will acquire problem-solving and critical-thinking skills that will prepare them to work independently on research questions by drawing upon experimental, theoretical, and computational evidence.**Students will apply research methods for design, data analysis, and interpretation. This is achieved through pedagogically engaging, discovery-based laboratory courses as well as research courses (offered in all 4 years of study) in which the students work directly with individual faculty.**Students will learn to utilize chemical knowledge learned in their course work to real-world applications in pharmacology, medicine, and the environment.****Students will receive hands-on training in operating and interpreting data from high-tech analytical instrumentation.**The opportunities for hands-on experience on the department’s bevy of modern instrumentation, either via independent research or within the framework of laboratory courses, will prepare students for future scientific careers.**Students will gain experience in the computational methods of chemistry,**ranging from ab initio calculations of electronic structure to molecular dynamics simulations, and learn how these complement experimental data. Our curriculum will initiate students to “computational
+
+thinking,” including chemical and materials informatics, applications of data science to
+
+chemistry, and first-principles simulation methods.**Students will acquire scientific literacy skills, particularly reading, writing, and presenting scientific communications.**Through classwork and presentations at regional and national conferences, students will be prepared to communicate research findings to chemist and non-chemist audiences. Students will learn to utilize library resources and critically read scientific literature. Students will also have the opportunity to hone their writing skills through research grant applications and writing initial drafts of peer-reviewed publications.**Students will be able to work safely in a laboratory setting and have hands-on experience with common laboratory equipment and glassware in organic, analytical, biochemistry, inorganic, and physical chemistry laboratories.**As a graduate of the chemistry department students will be ready to safely work in industrial and academic research settings.

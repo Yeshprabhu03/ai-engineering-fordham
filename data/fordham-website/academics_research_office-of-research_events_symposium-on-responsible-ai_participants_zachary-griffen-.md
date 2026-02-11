@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/zachary-griffen-
+
+# Zachary Griffen
+
+**Bio:**
+
+Dr. Zachary Griffen is interested primarily in the challenges of implementing and maintaining AI tools in healthcare that arise from confusion about the ways we classify this technology. In Dr. Griffen’s work with the Responsible AI Initiative at NYU Langone, Dr. Griffen has encountered conflicting views on how different models ought to be designated, which makes governance difficult. While established frameworks for regulatory and ethical oversight of health information technology may not be suited to AI, Dr. Griffen is excited about the creative solutions experts are developing to build new infrastructure for responsible implementation.
+
+**Abstract:**
+
+In the last several years there has been a rapid proliferation of AI models deployed in healthcare systems, with applications ranging from tumor diagnosis to sepsis prediction to clinical note-taking. The infrastructure to regulate and ethically monitor AI, however, has lagged well behind innovations in the technology itself. Drawing on the history of health information technology governance and expert interviews, this paper identifies two challenges to AI regulation that arise from the way the technology is classified. 1) At the federal level, there has long been a lack of clarity regarding how to regulate medical software. A key distinction that funnels technology into the FDA regulatory apparatus is between medical devices and non-devices, but aside from radiology, the boundary between these categories remains fuzzy for most AI applications. 2) Locally, there is a further distinction between projects classified as human subjects research and ‘quality improvement’ (QI). Applications of AI that are designated research are overseen by IRBs, whereas QI projects are not subject to the same degree of ethical scrutiny. Given these twin difficulties of classifying AI models for regulatory purposes, the paper analyzes the views of experts involved in practical AI implementation, which it characterizes as “governance from below.”

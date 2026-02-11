@@ -1,0 +1,9 @@
+https://www.fordham.edu/gabelli-school-of-business/faculty/adjunct-faculty/john-vitale
+
+# John Vitale, CPA
+
+## Adjunct Professor of Accounting
+
+![John Vitale](/media/home/schools/gabelli-school-of-business/John_Vitale.jpg)
+
+John Vitale is a partner in the East region tax practice of Ernst & Young LLP (EY). Vitale has advised clients across industries including retail, pharmaceutical, entertainment, sports, construction, and technology in accounting for income taxes under ASC 740, planning and structuring business transactions, and taxation of partnerships and partners. He advises assurance and non-assurance clients and EY engagement teams on ASC 740 considerations arising in business combinations, restructurings, divestiture transactions, international tax planning, and investments in partnerships. Vitale is a frequent speaker on accounting for income taxes and is an instructor in several of the firm’s training and educational programs related to accounting for income taxes, partnership taxation, and corporate taxation. In addition to his client-serving role, he also has served as the Northeast Sub-Area Channel One Tax Accounting and Risk Advisory Services leader and was a member of the National Tax Practice TARAS Group and the Partnership Tax Group. Vitale has over 29 years of experience with EY and is a graduate of Brooklyn College (B.S. in Accounting), Fordham University (M.S. in Taxation), and William Howard Taft University (J.D.). He is an adjunct professor at Fordham University’s Gabelli School of Business and has served as an instructor in the graduate tax program at William Howard Taft University. Vitale is a CPA licensed in New York State and is licensed as an attorney in California. He is a member of the California Bar Association, the American Institute of Certified Public Accountants, the American Bar Association, and the New York State Society of Certified Public Accountants.

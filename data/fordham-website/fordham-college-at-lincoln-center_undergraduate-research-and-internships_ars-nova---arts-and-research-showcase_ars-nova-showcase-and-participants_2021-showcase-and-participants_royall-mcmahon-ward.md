@@ -1,0 +1,16 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2021-showcase-and-participants/royall-mcmahon-ward
+
+# Royall McMahon Ward '22
+
+![Royall McMahon Ward](/media/review/content-assets/migrated/images/McMahon_Ward_photo_1.jpg)
+
+
+**Major: **Environmental Science**Bio:** Royall McMahon Ward grew up in Phoenix, AZ before she attended Fordham University where she is currently working towards a Bachelors in Science in Environmental Science. Royall plans on attending graduate school to obtain her PhD in Epidemiology after she graduates.
+
+**Title of Research: **Patterns of Flatworm (Bdelloura candida) infestation in the American Horseshoe Crab** Mentor:** Dr. Mark Botton
+
+**We assessed the overall prevalence of Bdelloura candida infestation in Plumb beach on adult and juvenile horseshoe crabs (Limulus polyphemus), along with looking at correlations between the size, sex, or carapace condition of the horseshoe crab and the extent of infection. On the tidal flats of Plumb beach east, we randomly selected adult horseshoe crabs and recorded their carapace condition on a scale of 1-3, 1 being the best condtion and 3 being the poorest condition, the sex of the crab, and the extent of flatworm infestation of flatworms in the legs, gills, and the density of egg cacoons in the gill leaflets. We examined 93 adult horseshoe crabs, with 100% being infected by egg cocoons and/or adult worms, and we examined 40 juveniles with 0% infection. We found that prosoma width of males show no significant correlation to worm infestation; however when females and males were pooled, there was a significant correlation of adult flatworms on legs (R=0.331, 82 df, p<0.01), adult flatworms on gills (R=0.435, 90 df, p<0.01) and cocoons in gills (R<0.421, 91 df, p<0.01). Female horseshoe crabs had a significantly heavier infestation for all categories than males. We also found that males that were in poorer condition, were more heavily infected by adult flatworms in legs (R=0.354, 58 df, p<0.01), and were more heavily infected by egg cocoons in gills (R=0.435, 58 df, p<0.01).**
+
+Abstract:
+
+Abstract:

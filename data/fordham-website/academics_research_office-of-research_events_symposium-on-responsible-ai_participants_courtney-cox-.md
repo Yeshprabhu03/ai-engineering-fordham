@@ -1,0 +1,21 @@
+https://www.fordham.edu/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/courtney-cox-
+
+# Courtney Cox
+
+**Bio:**
+
+Courtney Cox is a legal philosopher who focuses on technology, deception, and risk. Her current research has two main strains: The first explores the theoretical, practical, and technological implications of normative uncertainty in judicial decision making. The second analyzes the law’s actual and potential responses to lies. Both strains of work have received national recognition: Her article, The Uncertain Judge, published in the University of Chicago Law Review, was named 2024 Article of the Year by the AALS Jurisprudence Section. Her article, Legitimizing Lies, published in the George Washington Law Review, was selected for the 2020 Harvard/Yale/Stanford Junior Faculty Forum and received honorable mention in the 2022 AALS Scholarly Papers Competition. Fordham University recently awarded Professor Cox with the 2025 Distinguished Research Award for her interdisciplinary work, uniting law, philosophy, and technology.
+
+Cox’s theoretical work is informed by legal practice. She joined the Fordham faculty directly from Ropes & Gray LLP, where she represented clients in complex appeals and intellectual property disputes. Cox clerked for then-Chief Judge Sandra L. Lynch of the U.S. Court of Appeals for the First Circuit. Cox has also been recognized for her pro bono practice, receiving Ropes & Gray’s Pro Bono Innovation Award for her appellate work, and the University of Chicago Law School’s Edwin F. Mandel Award for her work with unaccompanied minors from China.
+
+Cox graduated with highest honors from the University of Chicago Law School, where she was a Rubenstein Scholar. She holds a doctorate in philosophy from Oxford, where she studied as a Clarendon Scholar. And she was a dual major in Engineering Sciences (Electrical) and Ethics, Politics, & Economics at Yale. She previously taught philosophy as a lecturer at Oxford’s Hertford College and served as a Yale Fox Fellow at Fudan University in Shanghai.
+
+**Abstract:**
+
+It is time to reorient the debate over the right to a human decision. Within that debate, the strongest arguments in favor of human decisionmakers are Arguments from Explanation: AI technology is increasingly and necessarily opaque, and so machines should not replace human decisionmakers because machines cannot give the required explanations. Or so the humanist argument goes. Meanwhile, machinists argue that most humanist principles have been deflated by the Better Decision Argument, which reframes such principles as grounding not a right to a human decision, but merely to a “better” decision—whether by human or machine.
+
+This Article turns that debate on its head. First, it offers a reason to doubt Arguments from Explanation: human judges sometimes don’t know what they ought to do. They have what is called “normative uncertainty.” But if they respond to that uncertainty rationally, they will not provide the kind of explanation demanded of machines. Thus, Arguments from Explanation do not count in favor of human judges, the quintessential example of decisions where an explanation is owed.
+
+But while normative uncertainty gives machinists one advantage, it also undermines the machinists’ Better Decision Argument. Machines may offer the illusion of an idealized AI decisionmaker like Dworkin’s Hercules. But building a machine usually requires hardwiring objectives. Such hardwiring can preclude rational consideration of normative uncertainty, making it harder for machines to aim at a “better” decision. As a result, normative uncertainty also deflates the machinists’ Better Decision Argument.
+
+The best arguments from both camps having been thus undermined, a new question emerges, sharpening the concerns at the heart of the debate. We gain language to diagnose the lingering worry—the pit of dread in one’s stomach—that persists in the face of Better Decision Arguments. And we enable lawmakers and regulators to better understand the problem that engineers face but struggle to articulate. As engineers also suspect, hardwiring Hercules is dangerous if you are uncertain what he should do.

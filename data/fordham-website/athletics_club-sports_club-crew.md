@@ -1,0 +1,18 @@
+https://www.fordham.edu/athletics/club-sports/club-crew
+
+# Club Crew
+
+![](/media/home/departments-centers-and-offices/athletics/Club-Crew-Main-Page.jpeg)
+
+
+Men’s crew debuted as a club sport at Fordham in 1915. After a hiatus caused by World War I & II, crew resumed in 1957, beginning a half-century of successful competition. In that time, Fordham had 10 undefeated crews and 20 national championships: 13 at the Dad Vail, three at the ECAC National Invitational Collegiate Regatta, one each at the Division-I national championships, IRA Championship, ACRA Championship, and US Rowing Collegiate Championships. The team has competed at the IRA National Championships, the Henley Royal Regatta, and the San Diego Crew Classic, with victories at both the IRA and San Diego. In addition, both men’s and women’s teams have won and broke course records at the Head of the Charles.
+
+As of recent, the focal point of the spring racing season is the Aberdeen Dad Vail Regatta, the largest collegiate regatta in the nation. Fordham men’s crews have captured medals in 25 events at the Dad Vail Regattas in both heavyweight and lightweight eights and fours. Most recently, the team has medaled in the last four Dad Vail’s. The Rams have had their greatest success in lightweight events with six wins in varsity four and an additional four wins in the eight. They have also had success in the heavyweight category with two wins in the eight, along with four silver and one bronze medal finish.
+
+Fordham Crew trains on Eastchester Bay, Long Island Sound, and the Hutchinson River from their current location at the Harlem Yacht Club in City Island, NY, about four miles from campus. Fordham is in the process of developing a new facility for both Rowing and Sailing, also on Eastchester Bay and closer to campus, with plans of opening their new boathouse in the near future.
+
+The team is coached and led by Cornell alumn and US National Team member, Jamie Copus. Copus brings a wealth of experience and success with him as both a coach and a rower. Though born in Chicago, Copus attended secondary school in the UK and returned to the US to attend university to row for Cornell Heavies. From there, he spent several years with the Brookes Rowing Club and the GB national team before recently opting to compete for the US. Throughout his time as a rower, Copus has won multiple trophies at the Royal Henley Regatta, as well as several other major international races. With ambitions to continue this streak into the US collegiate scene, Copus will surely lead Fordham Men's Crew into a new era of success.
+
+The team is divided into frosh/novice and varsity squads, and heavyweights and lightweights train together. The varsity squad is made up of upperclassmen and those first years who demonstrate an ability to compete at the varsity level. Frosh/Novice rowers include both those who are new to the sport and incoming recruited first-years who are not rowing in the top varsity crews. Many members of Fordham’s championship crews began their careers as novices at Fordham.
+
+Fordham Men's Crew always encourages new students to join. Interested high school rowers should fill out the [Prospective High School Athlete Form](https://docs.google.com/forms/d/e/1FAIpQLSeSVlnRUKgJb9bc3HgZb1PDmzCCs6eCvOjZ_qQ6Fa34ka06Xw/viewform?vc=0&c=0&w=1&flr=0). High school students are highly encouraged to contact Coach Copus with any questions.

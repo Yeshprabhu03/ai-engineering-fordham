@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/roommate-mediation
+
+# Student Handbook: Roommate Mediation
+
+Fordham University’s community is one that protects an individual’s rights and ensures that he or she is afforded respect. It is also a community that assigns responsibility to its members. Part of a Fordham education is learning to live with others and this is one of the responsibilities that our community expects its members to uphold. In times when disagreements and conflicts arise, members of the Residence Hall staff are trained and prepared to assist with this educational process. For additional information regarding the roommate mediation and room change processes, please refer to the Office of Residential Life Handbook.

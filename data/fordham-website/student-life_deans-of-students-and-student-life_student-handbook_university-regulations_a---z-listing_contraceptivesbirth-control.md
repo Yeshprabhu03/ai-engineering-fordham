@@ -1,0 +1,8 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/contraceptivesbirth-control
+
+# Student Handbook: Contraceptives/Birth Control
+
+As an institution in the Catholic, Jesuit tradition, Fordham University follows Church teachings on reproductive issues and acknowledges the personal and private decisions of its community members in this area. While personal possession of contraceptives, contraceptive devices and/or birth control, in any form, is not prohibited, distribution is prohibited on Fordham University property, using University resources, and at University-sponsored events. University Health Services staff do make limited exceptions in writing appropriate prescriptions for the treatment of an existing medical condition accompanied by supporting documentation. **Some examples of medical indications are: acne, irregular periods, heavy periods, cramps, and polycystic ovary syndrome.**
+
+
+Additional information on this policy can be obtained within the [Frequently Asked Questions (FAQ) ](https://www.fordham.edu/student-life/safety-health-and-wellness/health-services/health-services-faqs/)section of the University Health Services website (Sexually Transmitted Infection (STI) and Contraceptives) and the link to the Ethical & Religious Directives for Catholic Health Care Services, also located in the [Health Center Mission section](https://www.fordham.edu/student-life/safety-health-and-wellness/health-services/health-center/about-us/) on the University Health Services website.

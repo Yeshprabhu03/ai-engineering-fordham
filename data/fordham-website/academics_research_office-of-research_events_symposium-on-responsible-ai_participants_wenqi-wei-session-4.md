@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/wenqi-wei-session-4
+
+# Wenqi Wei Session 4
+
+**Bio:**
+
+Dr. Wenqi Wei is a tenure-track assistant professor in the Department of Computer and Information Sciences at Fordham University. He was a Research Staff Member at IBM Research and got his PhD in the School of Computer Science, Georgia Institute of Technology. His research interests include trustworthy AI, data privacy, machine learning service, and big data analytics. His research has appeared on major cybersecurity, data mining, and AI venues, including CCS, CVPR, IJCAI, theWebConf, IEEE TDSC, IEEE TIFS, and ACM CSUR. He is an associate editor of ACM Transactions on Internet Technology.
+
+**Abstract:**
+
+In 2025, all major developers of large language models (LLMs) announced that their models can now automatically generate software code from natural language descriptions. However, these announcements largely overlook the critical implications of code-generating LLMs for privacy and cybersecurity. Drawing on machine learning theory, we develop a theoretical framework that explains how the goals of privacy, utility, confidentiality, integrity, and availability in LLMgenerated software are characterized by inherent tensions, tradeoffs, and paradoxes. We empirically test our propositions using an open-source LLM, a curated library of over 20,000 software code samples, and documented cybersecurity attacks on LLMs. Our findings show that incorporating differential privacy (DP) enhances the privacy of LLM-generated code but comes at the cost of reduced utility-highlighting a significant privacy-utility tradeoff. Additionally, while DP bolsters defenses against attacks on the cybersecurity triad (confidentiality, integrity, and availability), it also impairs the model's ability to detect such threats. This reveals a novel protection-detection paradox in the cybersecurity landscape of LLM-generated software. We discuss the theoretical and practical implications of these findings, emphasizing the need for future research to address these evolving challenges.

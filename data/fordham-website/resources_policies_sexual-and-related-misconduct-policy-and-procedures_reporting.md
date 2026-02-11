@@ -1,0 +1,5 @@
+https://www.fordham.edu/resources/policies/sexual-and-related-misconduct-policy-and-procedures/reporting
+
+# Reporting: Sexual and Related Misconduct Policy
+
+The University encourages all members of the community to report incidents of sexual and related misconduct. The University requires all faculty, staff, and administrators who learn of or reasonably suspect sexual and related misconduct within the University community to share that information as outlined below. Reporting enables the University to provide a uniform approach to informing community members of: (i) their rights and options; and (ii) the resources available to them. Reporting also improves the University's ability to take action that will stop the discrimination, prevent its recurrence, and remedy its effects. To submit a report that will be reviewed by the University at any time of day or night, please call the Department of Public Safety as described in Section VI(A)(1), “*Reporting Any Time of the Day or Night*,” below.

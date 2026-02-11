@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/no-contact-restriction
+
+# Student Handbook: No-Contact Restriction
+
+**The Dean of Students or their designate may issue verbally and/or in writing a directive restricting contact between two or more students. This includes, but is not limited to, telephonic, electronic, text, written, or direct verbal contact and also prohibits a student from passing messages via other individuals. A student who wishes to report a violation of a no-contact restriction can contact the issuing office during business hours and/or the Department of Public Safety at any time. For sexual and related misconduct cases, a student can also contact their Administrative Support Person at any time. Students who violate a no-contact restriction are subject to disciplinary action. **

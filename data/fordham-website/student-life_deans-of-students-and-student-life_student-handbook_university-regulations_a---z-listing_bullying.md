@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/bullying
+
+# Student Handbook: Bullying
+
+Bullying creates feelings of defenselessness, fear, undermines a person's diginity, and is defined as the repeated, unreasonable actions of a person or group of persons directed toward another person or group of persons, which are intended to hurt, intimidate, degrade, humiliate, and/or undermine and that depart substantially from the reasonable and common activities of free debate, inquiry, and discussion that characterize an academic community. Prohibited actions may also create a risk to the health or safety of the University community and the persons against whom they are directed. Bullying can take many forms, including, but not limited to, verbal, social, and physical. Bullying can also occur through the Internet, mobile phones, and other digital technologies. The University strictly prohibits bullying. Anyone found to engage in bullying behavior may be subject to disciplinary action.

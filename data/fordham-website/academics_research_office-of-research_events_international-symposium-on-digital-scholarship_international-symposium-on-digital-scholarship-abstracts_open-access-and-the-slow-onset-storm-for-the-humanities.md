@@ -1,0 +1,7 @@
+https://www.fordham.edu/academics/research/office-of-research/events/international-symposium-on-digital-scholarship/international-symposium-on-digital-scholarship-abstracts/open-access-and-the-slow-onset-storm-for-the-humanities
+
+# Open Access and the Slow Onset Storm for the Humanities
+
+Open access – the idea that peer-reviewed scholarship could and should be available freely to read and re-use online – has had a colder reception in the humanities than in some of the natural scientific disciplines. In this opening keynote, Martin Paul Eve will set out the implications for the humanities disciplines for a shift to online, open publishing. This will range from evaluation, hiring and tenure, through to notions of the public humanities and the societal role of our disciplines in the broader world. It will also touch upon the tricky economics of monographic publication, learned society funding, and the new worldwide “Plan S” initiative.
+
+While many have decried the speed of implementation of open access, arguing that things are moving too fast, this talk will reveal that there are often continuities of open scholarly circulation with existing and past practices within the humanities disciplines. Further, almost twenty years after the initial declarations on open access, the severity and suddenness of the storm has, this talk will argue, actually been a long time coming.

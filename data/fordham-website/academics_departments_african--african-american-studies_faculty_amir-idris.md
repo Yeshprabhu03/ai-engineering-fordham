@@ -1,0 +1,24 @@
+https://www.fordham.edu/academics/departments/african--african-american-studies/faculty/amir-idris
+
+# Amir Idris
+
+![Amir Idris AAAS](/media/review/temporary-katie-amp-isear/Amir_Idris__Ph.D..jpg)
+
+Professor *(On leave Fall 2021)*
+
+Lowenstein 414D (LC)[[email protected]](/cdn-cgi/l/email-protection#026b66706b7142646d70666a636f2c676677)
+
+212-636-6180
+
+-
+Ph.D. in African History from Queen’s University, Canada
+
+-
+Dr. Idris was born and raised in Sudan and educated in Sudan, Egypt, and Canada. He received his Ph.D. in African History from Queen’s University, Canada, in 2000. He was a post-doctoral fellow at the Institute of African Studies, Columbia University, New York City (2000-2001). His teaching and research interests focus on the history and politics of colonialism, on slavery and race, and on postcolonial citizenship in Northeast and Central Africa. Among his recent publications include
+
+*South Sudan: Post-Independence Dilemmas*(2018), Editor.*Identity, Citizenship, and Violence in Two Sudans: Re-imagining a Common Future*(2013),*Conflict and Politics of Identity in Sudan*(2005), and*Sudan's Civil Wars: Slavery, Race, and Formational Identities*(2001), and he has also published numerous book chapters. -
+["Biden's Administration must promote Peace, Democracy, and Justice in the Sudans"](https://thehill.com/opinion/international/525339-bidens-administration-must-promote-peace-democracy-and-justice-in-the)11.16.20["South Sudan's Fragile Independence is Falling Apart"](https://thehill.com/opinion/international/507155-south-sudans-fragile-independence-is-falling-apart)7.16.20["The Trouble with South Sudan's Transitional Government"](https://thehill.com/opinion/international/484591-the-trouble-with-south-sudans-transitional-government)2.28.20["US should choose to help Sudan's protesters promote Democracy"](https://thehill.com/opinion/international/453491-us-should-choose-to-help-sudans-protesters-promote-democracy)7.19.19["3 Ways Trump Administration could show US cares about South Sudan"](https://thehill.com/opinion/international/430822-3-ways-trump-administration-could-show-us-cares-about-south-sudan)2.26.19["Why the US must not ignore the struggle for South Sudan's soul"](https://thehill.com/opinion/international/419422-why-the-us-must-not-ignore-the-struggle-for-south-sudans-soul)12.5.18["Why South Sudan's Peace Agreement is Unsustainable"](https://radiotamazuj.org/en/news/article/opinion-why-south-sudan-s-peace-agreement-is-unsustainable)Radio Tamazuj, 10.31.18Amir Idris, Ph.D., participated in the working group on "Citizenship, Class, and Inequality in the Middle East" hosted by the Center for International and Regional Studies in Georgetown University Qatar. May 2018.
+
+Amir Idris, Ph.D., presented a lecture titled "Rethinking South Sudan's Civil War: History, Identity, and Citizenship" at Worcester World Affairs Council in Massachusetts on March 15, 2018.
+
+["South Sudan Needs Its Nelson Mandela to Rescue the Country From the Sinkhole"](https://www.newsweek.co.uk/south-sudan-needs-its-nelson-mandela-rescue-country-sinkhole-535268)Newsweek, 2.27.18["Trump has No Respect for the Africans Who Helped Shape America into a Great Nation"](https://www.newsweek.co.uk/trump-has-no-respect-africans-who-helped-shape-america-into-great-nation-535100)Newsweek, 1.19.18["Forget Ceasefires and Forums, South Sudan Can Only Find Peace if Leadership Changes"](https://www.newsweek.co.uk/forget-ceasefires-forums-south-sudan-can-only-find-peace-if-leadership-changes-534964)Newsweek, 12.22.17["How the U.N. Security Council is Perpetuating South Sudan's Conflict."](http://www.newsweek.com/south-sudan-conflict-civil-war-un-security-council-arms-embargo-544738)Newsweek, 1.22.17["How the International Community has failed South Sudan"](http://www.newsweek.com/how-international-community-has-failed-south-sudan-514204)Newsweek, 10.30.16[“How Foreign Intervention Can Save South Sudan From Itself,”](http://www.newsweek.com/how-foreign-intervention-can-save-south-sudan-itself-484922)Newsweek, 7.30.16[“Who Will Save South Sudan As It Teeters On the Verge of Civil War, Again?”](http://www.newsweek.com/south-sudan-teeters-verge-civil-war-again-483150)Newsweek, 7.23.16[“Why South Sudan Doesn’t Deserve an International Bailout,”](http://www.newsweek.com/why-south-sudan-doesnt-deserve-international-bailout-466214)Newsweek, 6.4.16[“When Food Shortage Becomes Famine,”](http://www.pbs.org/wgbh/frontline/article/when-food-shortage-becomes-famine/)PBS, 2.25.16["South Sudan's Lost Generation of Uneducated Children"](http://www.newsweek.com/south-sudans-lost-generation-uneducated-children-416930)Newsweek, 1.24.16["How to Heal the Wounds of South Sudan's Civil War"](http://www.newsweek.com/how-heal-wounds-south-sudan-civil-war-408274)Newsweek, 1.4.16[“Can South Sudan learn from AU Commission of inquiry report?”](http://www.sudantribune.com/spip.php?article56922)Sudan Tribune, 11.2.15

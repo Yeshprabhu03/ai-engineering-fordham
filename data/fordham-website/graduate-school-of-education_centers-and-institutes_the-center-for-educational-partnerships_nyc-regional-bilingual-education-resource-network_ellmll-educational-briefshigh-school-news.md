@@ -1,0 +1,11 @@
+https://www.fordham.edu/graduate-school-of-education/centers-and-institutes/the-center-for-educational-partnerships/nyc-regional-bilingual-education-resource-network/ellmll-educational-briefshigh-school-news
+
+# ELL/MLL Educational Briefs/High School News
+
+**Brief Series**
+
+**Professional Newsletters**
+
+[Fall 2017](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/Professional_Newsletter___Fall_2017.pdf)[Spring 2017](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Spring_2017.pdf)[Winter 2017](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Winter_2017.pdf)[Fall 2016](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Fall_2016.pdf)[Spring 2016](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Spring_2016.pdf)[Fall 2015](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/NYC_RBE_RN_PROFESSIONAL_NEWSLETTER_FALL_2015.pdf)[Spring 2015](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/NYC_RBE_RN_NEWSLETTER_SPRING_2015_1.pdf)[Winter 2015](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERNWinter2015Newsletter.pdf)[Fall 2014](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERNNewsletterFall2014.pdf)[Spring 2014](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Spring_2014.pdf)[Winter 2014](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Winter_2014.pdf)[Fall 2013](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Fall_2013.pdf)[Spring 2013](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Spring_2013.pdf)[Winter 2013](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Winter_2013.pdf)[Summer/Fall 2012](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/RBERN_Newsletter_Summer_Fall_2012.pdf)
+
+**High School News**

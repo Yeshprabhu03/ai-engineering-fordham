@@ -1,0 +1,25 @@
+https://www.fordham.edu/academics/research/institutional-review-board/policy-on-human-subjects-research
+
+# Policy on Human Subjects Research
+
+The Institutional Review Board (IRB) was established in accordance with federal regulations governing the use of human subjects in research. The IRB is charged with the responsibility for review, approval and surveillance of all research involving human subjects conducted in connection with Fordham University. The ethical principles which guide the IRB are consistent with The Belmont Report. The IRB policies and procedures comply with the rules and regulations of The Federal Policy for the Protection of Human Subjects as stated by the Department of Health and Human Services (DHHS) in the Federal Code, 45 CFR Part 46.The Fordham IRB operates under the University’s Federal wide Assurance (FWA00000067) under the Office of Human Research Protections (OHRP). Administrative responsibility for overseeing these functions has been delegated to the Office of Research.
+
+This policy applies to all faculty, staff and students whenever they are supervising or conducting any research activity involving human subjects, regardless of whether the research is funded, and regardless of whether the subjects are members of the University community. This policy applies to research conducted at other institutions by Fordham faculty, staff, and students, even if that institution has its own review process. Fordham cannot accept responsibility for research conducted in violation of University policy and without required approval.
+
+Fordham University understands research to be a systematic investigation, including research development, testing and evaluation, designed to develop or contribute to generalizable knowledge. Activities which meet this definition constitute research for purposes of [Federal] policy, whether or not they are conducted or supported under a program which is considered research for other purposes. For example, some demonstration and service programs may include research activities.
+
+The Fordham IRB reviews all research that involves human subjects. The types of research that are covered include, but are not limited to, social-behavioral research, survey research, outcomes research, educational research, and psychological research. These practices may involve interviews, questionnaires, interventions or treatments of any kind requiring the participation of human subjects or respondents, whether conducted on or off campus.
+
+Any member of the Fordham community preparing proposals for research or class projects involving human subjects should arrange to have his/her proposal or class project protocol reviewed by the IRB prior to initiation any data collection for the project. Approved research must be reviewed at least once annually.
+
+- All approved studies are subjects to audit of compliance at any time.
+- Unanticipated problems involving risks to subjects, adverse events, or other problems must be reported promptly to the IRB (Manager or Chair) for evaluation.
+- Any revisions or amendments to the approved research activity must be submitted to the IRB prior to their implementation for review and approval.
+- Those studies that may qualify for exemption must still be submitted to the IRB for a final determination of exemption.
+
+In accordance with CFR 46.112, University officials may not approve of a research study if it has not been approved by the IRB nor may they overturn a final determination of disapproval. University officials may, however, disapprove of an IRB approved study being conducted at or affiliated with Fordham. Officials may also impose additional restrictions or stipulations to an approved study but may not amend the IRB’s terms of approval or take any actions that serve to lessen any measures deemed necessary for protection of human subjects in research
+
+The IRB Director can be contacted by telephone at 718-817-0876, or emailed at [[email protected]](/cdn-cgi/l/email-protection#0964627c6a616c7b68496f667b6d616864276c6d7c) for consultation on any research projects.
+
+-
+The University understands a pilot study as a preliminary investigation to determine the practicability of a study. Pilot studies generally utilize smaller populations and explore certain questions ahead of an actual study. Many times, a pilot study will seek to refine data collection procedures or to gain a better understanding of specific portions of a research question. The Fordham IRB is of the opinion that even if pilot study data will not be published, its methods may still pose a risk to human subjects. Further, findings often contribute to a larger body of research that will lead to generalizable knowledge. Thus, although federal regulations make no distinction between pilot studies and other research projects, the Fordham IRB has determined all pilot studies must undergo IRB review and receive approval prior to initiation.

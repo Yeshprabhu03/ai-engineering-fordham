@@ -1,0 +1,5 @@
+https://www.fordham.edu/resources/policies/office-of-finance-purchasing-manual/vendor-and-supplier-information/negotiation-with-vendors
+
+# Negotiation with Vendors
+
+When the lowest bid is not acceptable, it is the responsibility of the Purchasing Department or the end-user department to have sufficient evidence to justify the purchase. The reason for this decision will be clearly stated in the Purchasing Department’s internal documents. Vendor experience and quantity discounts must be reviewed in analyzing price; transportation costs must be considered and cash discounts will always be evaluated when equal quality, delivery and price are offered. Negotiation is used in conjunction with competitive bidding to obtain what appears to be a just and reasonable price. Frequently, by analysis of the purchase and negotiation with one or more vendors, a price more reflective of the volume involved and service level expected can be obtained.

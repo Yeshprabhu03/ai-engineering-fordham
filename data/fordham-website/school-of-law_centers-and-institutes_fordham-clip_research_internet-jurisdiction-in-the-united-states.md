@@ -1,0 +1,13 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/fordham-clip/research/internet-jurisdiction-in-the-united-states
+
+# Internet Jurisdiction in the United States
+
+In late June 2013, Fordham CLIP completed a study, “Internet Jurisdiction: A Survey of Legal Scholarship Published in English and United States Case Law.” This project provides a survey of the case law and legal literature analyzing jurisdiction for claims arising out of Internet activity in the United States. A companion study, released simultaneously, explores similar issues as they are treated in the German legal system. The goal of the report is to identify trends in legal literature and case law and to serve as a comprehensive, objective resource to assist scholars and policy-makers looking to learn about the issues of jurisdiction on the Internet.
+
+The U.S. study shows that most academic scholarship discusses all three aspects of jurisdiction law—personal jurisdiction, choice of law and jurisdiction to enforce— within the individual articles. In addition, the literature treats a noticeably wide variety of legal areas—including, for example, analyses of specific cases, particular issues related to e-commerce, and the regulation of online speech—but overall, does not appear to have a consensus on an approach or solution that cuts across the varied areas of law addressed by the scholarship. Thus, in effect, a review of academic scholarship shows that Internet jurisdiction is as varied as the legal issues and fields of law it permeates.
+
+Concerning U.S. case law, Fordham CLIP's research indicates that issues surrounding Internet jurisdiction gravitate toward the Ninth Circuit and the Second Circuit more so than other federal circuits. Moreover, contrary to the body of academic literature, the research demonstrates that U.S. courts predominantly adjudicate matters of personal jurisdiction in Internet cases rather than other subsets of jurisdiction, and that Internet jurisdiction issues trend toward intellectual property and defamation cases. Lastly, the case law shows that, although the Zippo and Calder decisions provide the clear, predominant legal standards and tests for Internet jurisdiction matters, when and how U.S. courts apply these rules lacks uniformity.
+
+Professor Reidenberg and Jamela Debelak led the CLIP research team for the study, formerly Fordham CLIP's Executive Director, who were assisted by Fordham Dean’s Fellow, Megan Bright ('12), Fordham LLM student N. Cameron Russell ('13) and Fordham Law students, Daniela Alvarado ('13), Emily Seiderman (’14) and Andrew Rosen ('13).
+
+This project was supported by a gift from Google, Inc.

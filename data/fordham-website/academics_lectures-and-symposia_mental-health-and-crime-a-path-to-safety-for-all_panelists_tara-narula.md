@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/lectures-and-symposia/mental-health-and-crime-a-path-to-safety-for-all/panelists/tara-narula
+
+# Tara Narula
+
+## Cardiologist at Lenox Hill Hospital
+
+![Dr. Tara Narula](/media/home/departments-centers-and-offices/conferences/tara_narula.jpg)
+
+**Dr. Tara Narula** is a board-certified cardiologist at Lenox Hill Hospital in Manhattan, an associate professor of cardiovascular medicine at the Zucker School of Medicine, the associate director of the Women’s Heart Program at Lenox Hill Hospital, and director of communications for the Katz Institute of Women’s Health. She is also a nationally recognized medical journalist, an NBC News medical contributor, the former medical correspondent within CNN’s award-winning health, medical and wellness team, and previously was the senior medical correspondent at CBS News, reporting for all platforms, including *CBS Mornings*, *CBS Evening News with Norah O’Donnell*, *CBS Saturday Morning*, *CBS Sunday Morning* and the CBS Streaming Network. She has also been a past contributor to *O, The Oprah Magazine*.
+
+She joined Lenox Hill Heart & Vascular Institute of New York in 2010 and provides outpatient consultative care. After graduating from Stanford University with degrees in economics and biology, she was founder and CEO of her own small business, Sun Juice Inc. Subsequently, she obtained her medical degree at USC Keck School of Medicine, where she graduated with Alpha Omega Alpha Society Honors. Dr. Narula completed her residency in internal medicine at Harvard University/Brigham and Women’s Hospital and her fellowship training in cardiology at New York Presbyterian-Weill Cornell Medical Center. Dr. Narula is currently a fellow of the American College of Cardiology (FACC). She serves as a national spokesperson for the American Heart Association and the AHA’s Go Red for Women initiative. She is co-director of a mentoring program for women in medicine called FaceofCardiology which serves to help guide women pursuing possible careers in cardiology. She is a recipient of a 2022 Emmy Award for Outstanding Live News Program for *CBS Mornings*, the 2019 WomenHeart Nanette Wenger Award for Media, and the Super Doctors Award for New York City from 2014 to 2024.

@@ -1,0 +1,15 @@
+https://www.fordham.edu/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/mcgannon-center/about-us
+
+# About The McGannon Center
+
+![McGannon Logo](/media/review/content-assets/migrated/images/Logo_Export_MCF001_14__4__1.png)
+
+[Meet the Team](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/mcgannon-center/about-us/meet-the-team/) | [About Donald McGannon](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/mcgannon-center/about-us/about-donald-mcgannon/)
+
+The Donald McGannon Communication Research Center was founded in 1986 and is named in memory of Donald H. McGannon, former CEO of Westinghouse Broadcasting Corporation (Group W) and a Fordham College graduate, Class of 1940.
+
+The McGannon Center is dedicated to furthering understanding of the ethical and social justice dimensions of media and communication technologies, particularly how such technologies affect the distribution of wealth, opportunities, and privileges within society. The Center engages in, sponsors, and promotes interdisciplinary academic research that provides an empirical foundation for informed technological development, policy-making, and debate. We are committed to diverse participation and representing an array of perspectives throughout our activities. McGannon serves as a hub at Fordham University for faculty, scholars, students, and visitors interested in the social, legal, political, economic, and cultural dimensions of communication technologies and emerging media. Our audience includes academics, policy-makers, and the broader public at local, regional, national, and international levels.
+
+The McGannon Center and its staff have served as a research resource to a wide range of governmental and non-governmental organizations, including: the Federal Communications Commission, the U.S. Government Accountability Office, the Federal Trade Commission, U.S. Department of State, the Senate Commerce Committee, the New York City Council, the Finnish Ministry of Transport and Communications, the Ford Foundation, the Center for American Progress, the Center for Creative Voices in Media, the National Association of Broadcasters, the National Cable and Telecommunications Association, the Minority Media and Telecommunications Council, the Office of Communication of the United Church of Christ, the Institute for Public Representation, the Phoebe Haas Charitable Trust, the Benton Foundation, the New America Foundation, Time Warner Cable, and the Social Science Research Council.
+
+The Center’s research has been featured in media outlets such as *Broadcasting & Cable,* the *Los Angeles Times, Media Week, Billboard, TV Week*, and the *Washington Times.*

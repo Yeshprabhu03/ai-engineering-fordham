@@ -1,0 +1,12 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2020-showcase-and-participants/charles-scheland
+
+# Charles Scheland '20
+
+![Charles Scheland](/media/review/content-assets/migrated/images/0F3A3595_2_1.jpg)
+
+
+**Major:** Dance and Economics**Bio: **Charles E. Scheland is a senior Bachelor's of Fine Arts candidate in the Ailey/Fordham program, double majoring in dance and economics. He dances professionally for RIOULT Dance NY and other companies, while satiating his academic interests in social justice centered microeconomics.
+
+**Title of Research: **Assessing Pink-Tax Variations and Price Discrimination
+
+**Mentor: **Dr. Sean Collins**Abstract:** This paper defines and explains the gender-based practice of price discrimination called the “pink-tax.” It goes into depth on the origins and justifications of this practice and explains how this form of differentiated pricing continues to persist, especially in the personal care product market. It then postulates that the pink-tax might operate in conjunction with a tax on poorer neighborhoods: since there is noticeable gendered price discrimination, is it possible that price discrimination might also be implemented against lower income consumers, based on location? If this hypothesis were true, it would be a doubly regressive tax on poor women. Based on past scholarship, preliminary research, and urban planning data, various New York City neighborhoods were chosen and multiple drug stores in those neighborhoods were visited using the price of disposable razors as a good for study. Various attributes of these goods were recorded into a panel of characteristic data, and per blade price for equivalent male and female products were compared. This price differential represents the pink-tax, and while no substantial evidence of the pink-tax was found at CVS or Walgreens stores, Rite-Aid did display the clear trend of higher prices for female goods. Following that initial analysis, the correlation between income and price differential was tested and the correlation was a weak positive correlation, suggesting that actually wealthier neighborhoods were subject to more aggressive pink-tax discrimination. Some extension topics as well as methodological shortcomings were also addressed.

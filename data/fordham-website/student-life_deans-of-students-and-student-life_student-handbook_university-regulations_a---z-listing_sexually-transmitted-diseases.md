@@ -1,0 +1,13 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/sexually-transmitted-diseases
+
+# Student Handbook: Sexually Transmitted Diseases
+
+Fordham University endorses the understanding of human sexuality that is consonant with Catholic tradition. This approach finds its central principles in a view that is inherently linked to mutual fidelity in family living. Although this perspective informs our programs at Fordham, it is not inconsistent with this outlook to also ensure that comprehensive information on human sexuality be made available to the University community. Fordham recognizes that responsible sexual behavior involves both a grasp of ethical and moral principles and a fully informed view of human sexuality.
+
+Fordham’s primary response to the justified concern about HIV/AIDS and sexually transmitted diseases is educational. The major goal is to provide current and accurate information concerning the etiology, onset, course, and treatment of these infectious diseases. Facts should be made available, and myths should be dispelled.
+
+In keeping with our tradition of the personal care of students, our student services are guided by a preventative model. Primary prevention consists of educating students regarding the diseases themselves and behaviors associated with the diseases that are considered medically at-risk.
+
+Educational programming efforts may be either active (workshops, speakers, panel discussions) or passive (brochures, posters, newspaper articles); they may be directed towards the entire University community or particular campus constituencies (undergraduates, graduate students, commuters, and so forth); they may be either responsive or proactive; they may either be new and self-standing or incorporated into preexisting educational programs sponsored by a variety of University offices (University Health Services, Counseling and Psychological Services, Residential Life, Campus Ministries, and so forth).
+
+Secondary prevention consists of providing testing in the University Health Services and/or referral information for testing and diagnosis. Tertiary prevention would consist of referral for appropriate medical, psychological, and pastoral care for those students afflicted with the diseases. Pastoral concern and loving support, not fear or prejudice, must characterize Fordham’s care of any individual with HIV/AIDS or a sexually transmitted disease.

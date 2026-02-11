@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/lectures-and-symposia/mental-health-and-crime-a-path-to-safety-for-all/panelists/monica-brooker
+
+# Monica Brooker, Ph.D.
+
+## Assistant Commissioner of the Behavioral Health Division, NYPD
+
+![Monica Brooker](/media/home/departments-centers-and-offices/conferences/brooker_img.jpg)
+
+**Monica Brooker, Ph.D.**, serves as the assistant commissioner of the behavioral health division at the New York City Police Department. She oversees the NYPD Co-Response Program, providing leadership and clinical guidance for pre- and post-crisis responses that combine mental health and law enforcement interventions for individuals experiencing significant psychiatric episodes. Brooker offers leadership and consultation services for various programs and training initiatives that focus on mental health, psychological assessment, and law enforcement practices. She began her NYPD career conducting psychological research on law enforcement training and workplace practices. She has held various roles, including the inaugural executive director of the Governance Structure & Assessments Unit and the inaugural assistant commissioner for the Office of Equity and Inclusion at the NYPD. Brooker, a licensed clinical psychologist and certified clinical trauma professional, specializes in psychological testing and assessment, trauma-informed care, treating psychotic disorders in minority populations, and clinically competent decision-making. She has published and presented research on early interventions for psychosis, severe mental illness, and forensic practices. Brooker earned a Master of Arts in the psychology of education from Teachers College, Columbia University, and a doctorate in clinical psychology from Columbia University.

@@ -1,0 +1,13 @@
+https://www.fordham.edu/about/campuses/lincoln-center-campus/fordhams-sculpture-walk/featured-artists/bruno-lucchesi
+
+# Artist: Bruno Lucchesi
+
+Navigate: [After Shopping](#sculpture-1) | [Woman Washing Foot](#sculpture-2) | [About the Artist](#artist)
+
+## About Bruno Lucchesi
+
+[Born in 1926 in the village of Fibbiano Montanino, Lucca, Italy, Bruno Lucchesi has been called “the last of the Renaissance sculptors.” At 10 years old, he left his home village to study at a monastery in Lucca, where he had his first exposure to sculpture as an art form. During World War II, he met a Yugoslavian refugee artist, who took Lucchesi under his wing, teaching him the basics of drawing and encouraging him to pursue more formal training. Lucchesi did so, enrolling in the Art Institute of Lucca in 1947, and completing the classical training there in 1950. Lucchesi moved to Florence and continued to study sculpture. He was appointed assistant professor of architecture at the Art Academy in Florence and o began a teaching career, which would continue in the United States at the New School for Social Research and the National Academy of Design.]
+
+Lucchesi moved to New York City in 1958, and in his first year in America, he worked a variety of jobs. He took to making small sculptures in his spare time, which he began selling through his father-in-law’s frame shop in Greenwich Village. His work soon found a faithful group of followers and he began to earn his living from sales of his artwork. In 1959, Lucchesi won the Helen Foster Barnett Prize for Sculpture from the National Academy of Design, and the following year had his sculpture *The Bather* selected for inclusion in the Whitney Annual. He returned to Florence to focus exclusively on his work for one year, coming back to New York City in 1961 to a one-man show at the newly-opened Forum Gallery. His relationship with Forum Gallery would continue for the next several decades, with a total of nine solo exhibitions during that time span.
+
+Lucchesi received a Guggenheim fellowship and a succession of awards and prominent commission work, including four Gold Medals for sculpture: two from the National Academy of Design (1970, 1974), one from the National Arts Club (1963) and one from the National Sculpture Society (1977). Commissioned sculptures by Lucchesi can be found at churches in Lucca, Italy, and in office buildings in Manhattan and various other locations throughout the U.S. and Italy. His work is included in following collections including the Metropolitan Museum of Art, the Dallas Museum of Art, and the Smithsonian’s Hirshhorn Museum and Sculpture Garden.

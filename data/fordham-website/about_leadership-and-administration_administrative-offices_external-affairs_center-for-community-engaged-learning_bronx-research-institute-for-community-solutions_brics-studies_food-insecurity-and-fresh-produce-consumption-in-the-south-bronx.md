@@ -1,0 +1,5 @@
+https://www.fordham.edu/about/leadership-and-administration/administrative-offices/external-affairs/center-for-community-engaged-learning/bronx-research-institute-for-community-solutions/brics-studies/food-insecurity-and-fresh-produce-consumption-in-the-south-bronx
+
+# Food Insecurity and Fresh Produce Consumption in the South Bronx
+
+The study "Food Insecurity and Fresh Produce Consumption in the South Bronx" focuses on enhancing access to fresh produce and supporting healthier eating habits in the community. By partnering with BronxWorks, the study leverages community strengths and local resources to promote sustainable changes in nutrition. Using a community-based participatory research approach, the project will assess the impact of fresh produce incentives on promoting healthier food choices through the BronxWorks Nutrition Incentive Program. This initiative aims to empower residents, contributing to improved well-being and long-term positive outcomes for the South Bronx.

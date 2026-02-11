@@ -1,0 +1,22 @@
+https://www.fordham.edu/academics/departments/computer-and-information-science/faculty-and-administration/phd-students
+
+# PhD Students
+
+**PhD Students**
+
+-
+
+**Research Interests:**Large Language Models (LLMs), AI for Network Security, Machine Learning, Computer Vision.**Personal website:**[https://alialfatemi.github.io/](https://alialfatemi.github.io/)**Contact:**[[email protected]](/cdn-cgi/l/email-protection#ceafafa2a8afbaaba3a78ea8a1bcaaa6afa3e0abaabb) -
+
+**Research Interests:**Blockchain, AI, Cybersecurity.**Contact:**[[email protected]](/cdn-cgi/l/email-protection#553f373c303b3c303e15333a27313d34387b303120) -
+
+**Research Interests:**Computer Vision, Control Systems, and Robotics.**Website:**[https://storm.cis.fordham.edu/~cking74](https://storm.cis.fordham.edu/~cking74)**Contact:**[[email protected]](/cdn-cgi/l/email-protection#a6c5cdcfc8c19192e6c0c9d4c2cec7cb88c3c2d3) -
+**Research Interests:**Trustworthy Machine Learning, AI Security, and Privacy**Personal Website:**[https://jessegator.github.io/](https://jessegator.github.io/)**Contact:**[[email protected]](/cdn-cgi/l/email-protection#3941550c795f564b5d515854175c5d4c) -
+**Bio:**Naseem Machlovi is a first-year Ph.D. student at Fordham University. He received his Master’s Degree in Data Science from Fordham University with a thesis on the interpretability and explainability of LLM models. He has extensive experience ranging from academic teaching to working with industry professionals. His research interests focus on the trustworthiness of LLMs and modern AI tools while maintaining a high level of transparency. He enjoys hiking trails, playing ping pong, and socializing.**Contact:**[[email protected]](/cdn-cgi/l/email-protection#c3aeaea2a0abafacb5aa83a5acb1a7aba2aeeda6a7b6) -
+
+**Research Interests:**Deep Reinforcement Learning, Representation Learning, AI for Science.**Personal Website:**[https://fernandoml.me/](https://fernandoml.me/)**Contact:**[[email protected]](/cdn-cgi/l/email-protection#c7a1aaa6b5b3aea9a2bdaba8b7a2bd87a1a8b5a3afa6aae9a2a3b2) -
+**Bio:**Miguel Palma is a first-year PhD student at Fordham University. He finished his Bachelors in Computer Science in Ateneo de Manila University and then worked as a data analyst and cloud software developer for 6 years. His main research interests are in algorithms, graph theory, and computational geometry and is currently looking to enter the intersection of distributed systems and quantum computing research. His hobbies include self-studying higher mathematics, playing badminton, as well as playing and programming video games. -
+**Bio:**Nasim Paykari, a third-year PhD candidate in computer science at Fordham University, is interested in a variety of research topics, including robotics, blockchain, computer vision, and artificial intelligence. He is highly committed to both research and teaching and finds joy in multiple-disciplinary work! Furthermore, he has over 12 years of industry experience, mostly in control system engineering, with knowledge in a wide range of FGS, ESD, DCS, and PLC technologies.**Contact:**[[email protected]](/cdn-cgi/l/email-protection#7f110f1e06141e0d163f19100d1b171e12511a1b0a) -
+**Bio:**Yuanhong Wu is a second-year PhD student at Fordham University. Before he came to Fordham, he studied statistics in the Statistics and Data Science department at University of Texas at El Paso for his Master's degree. His research interests mainly focus on Statistics, Machine Learning, and Natural Language Processing. In his leisure time, he likes lifting weights, cooking, and playing ping pong and badminton. -
+**Contact:**[jxu246@fordham.edu](/cdn-cgi/l/email-protection#7913010c4b4d4f391f160b1d111814571c1d0c)**Personal Webpage:**[https://storm.cis.fordham.edu/~jxu246](https://storm.cis.fordham.edu/~jxu246) -
+**Bio:**Zihan Zhang is a PhD student in Computer Science at Fordham University. Her research areas of interest include the Design and Analysis of Algorithms and Computational Complexity, more specifically, algorithms related to the disjunctive normal forms of Boolean functions. She is actively open to scientific collaborations.**Contact:**[[email protected]](/cdn-cgi/l/email-protection#c5bfbfada4aba2f6f3fd85a3aab7a1ada4a8eba0a1b0)

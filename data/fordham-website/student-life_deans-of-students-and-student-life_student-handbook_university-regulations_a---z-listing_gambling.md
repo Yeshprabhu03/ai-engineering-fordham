@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/gambling
+
+# Student Handbook: Gambling
+
+Fordham University expects students to comply with all laws prohibiting illegal gambling. Such prohibited activity includes but is not limited to: betting on, wagering on or selling pools on any athletic event, possessing on one's person or premises (e.g. room, residence unit, car) any card, book or other device for registering bets; knowingly permitting the use of one's premises or one's telephone or other electronic communications device for illegal gambling; knowingly receiving or delivering a letter, package or parcel related to illegal gambling; offering, soliciting or accepting a bribe to influence the outcome of an athletic event; and involvement in bookmaking or wagering pools with respect to sporting events. Students engaged in any of the aforementioned activities are subject to the student conduct process, up to and including suspension or expulsion from the University.

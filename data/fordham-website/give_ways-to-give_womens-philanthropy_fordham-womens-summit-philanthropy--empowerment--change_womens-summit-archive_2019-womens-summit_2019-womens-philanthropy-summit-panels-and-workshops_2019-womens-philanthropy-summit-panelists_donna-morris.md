@@ -1,0 +1,9 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2019-womens-summit/2019-womens-philanthropy-summit-panels-and-workshops/2019-womens-philanthropy-summit-panelists/donna-morris
+
+# Donna Morris
+
+![Donna Morris](/media/review/content-assets/migrated/images/Donna_Morris_WPS.jpg)
+
+Donna Morris, PAR
+
+Donna Morris is the chief human resources officer & executive vice president for employee experience at Adobe Systems Incorporated. “Disrupt or be disrupted” is her rallying cry. Whether it’s abolishing Adobe’s annual performance reviews, dramatically expanding its family leave policy, or, most recently, achieving global gender pay parity across all 32 countries where Adobe has employees, she has set an industry agenda that helps make Adobe a great place to work. Donna believes that people strategies empower successful business outcomes, and with Adobe being an IP-based company, people are its most important asset. In her current role, she leads all aspects of human resources, real estate, and security operations globally. Under her leadership, Adobe’s workforce has increased by 226% to more than 20,000 employees, and its real estate/facilities presence has grown to more than 75 locations around the globe. She holds a bachelor’s degree in political science from Carleton University, and her “north of the border” accent gives her away as a native of Ottawa, Canada. If Donna were not at Adobe, she would have a home-decorating show on HGTV. She would still be a proud Fordham parent and serve on the University’s President’s Council.

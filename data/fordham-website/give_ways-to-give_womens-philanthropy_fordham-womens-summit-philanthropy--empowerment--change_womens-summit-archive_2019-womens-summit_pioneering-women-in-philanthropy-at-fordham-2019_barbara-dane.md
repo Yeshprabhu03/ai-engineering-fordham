@@ -1,0 +1,13 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2019-womens-summit/pioneering-women-in-philanthropy-at-fordham-2019/barbara-dane
+
+# Barbara Dane
+
+![Barbara Dane](/media/review/content-assets/migrated/images/Barbara_Dane_WPS.jpg)
+
+Barbara Dane, Ph.D., GSS ’67, ’85
+
+Barbara Dane, Ph.D., GSS ’67, ’85, is a retired professor of clinical social work who has also been in private clinical practice with dying and grieving persons and their families since 1971. She began her studies at Holy Family College and graduated in 1965. She earned both her M.S.W. and her Ph.D. in gerontology from Fordham University. Barbara is a Board Certified Diplomate in Clinical Social Work, and she received postgraduate analytic training at Metropolitan Consultation Center. Her teaching career began at Fordham University, where she taught Crisis Intervention and Brief Treatment before joining the faculty of the Columbia University School of Social Work. She later taught at New York University until her retirement in 2005. At both Columbia and NYU, Barbara taught core classes and developed and taught courses on spirituality and social work practice as well as on acute, chronic, and life-threatening illness.
+
+Barbara has a substantial publishing record in social work, including three books and 24 articles, conference proceedings, and book chapters. She has been a frequent presenter at agencies and national and international conferences. Her research on Thai women coping with HIV/AIDS and the role of meditation was presented at the Seventh International Interdisciplinary Congress on Women in Tromsø, Norway. Barbara was awarded a summer fellowship from the National Institutes of Health to conduct research on aging. She was among the first recipients of a social work leadership grant from the Soros Foundation’s Project on Death in America. From this grant she developed and taught classes for a post-master’s certificate program on the topic and directed the Consortium of End of Life Care, a collaborative effort among NYU and 11 service agencies.
+
+Barbara coordinated a group of volunteers from NYU Medical School who served 400 meals a day, seven days a week, to 9/11 first responders. She has also worked extensively with the New York City Administration for Children’s Services, where she has trained case workers on issues surrounding secondary trauma, and with a foster care agency in Brooklyn, where she has helped recruit foster families for hard-to-place children.

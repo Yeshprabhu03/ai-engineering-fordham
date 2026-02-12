@@ -1,0 +1,176 @@
+https://www.fordham.edu/gabelli-school-of-business/faculty/academic-areas/marketing/careers-in-marketing/jobs-in-marketing-list
+
+# Jobs in Marketing List
+
+A list of jobs in marketing across the domains featured in this resource can be found below.
+
+-
+- Account Coordinator
+- Account Director
+- Account Executive
+- Account Managers
+- Account Supervisor/Manager
+- Account Supervisors
+- Assistant Account Executive
+- Assistant Media Buyer
+- Assistant Media Planner
+- Associate Media Buying Director
+- Associate/Assistant Project Manager
+- Digital Media Analyst
+- Digital Media Buyer
+- Digital Media Specialist
+- Media Buying Director
+- Media Director
+- Media Planner
+- Media Planning Supervisor
+- Programmatic Analyst
+- Programmatic Buyer/Specialist
+- Programmatic Media Manager
+- Project Manager
+- Strategic Account Planner or Strat
+
+-
+- Assistant Brand Manager
+- Brand Manager/Senior Brand Manager
+- Brand Marketing Director
+- Chief Product Development Officer
+- Junior Brand Manager/Specialist
+- Product Analyst/Specialist
+- Product Development Coordinator/Assistant
+- Product Manager/Product Design Manager
+- Product Marketing Manager
+
+-
+- Analytics Director
+- Business Intelligence (BI) Lead
+- Business Intelligence Analyst
+- Business Intelligence Developer
+- Business/Marketing Data Analyst
+- Data Entry Assistant/Specialist
+- Data Metrics/Data Reporting/Predictive Analyst
+- Data Science Director
+- Data/Marketing Engineer
+- Database Administrator
+- Database Coordinator/Associate
+- Database Management Specialist
+- Database Manager/Director
+- Individual Contributor/Senior Independent Contributor
+- Junior Data Scientist
+- Lead/Principal Analyst
+- Senior Data/Decision Scientist
+
+-
+- Consumer Insights Coordinator/Associate/Analyst
+- Consumer Insights Manager/Director
+- Data Analyst
+- Market Research Analyst
+- Market Research Manager/Director
+- Market Research Specialist/Consultant/Market Researcher/Qualitative/Quantitative Researcher
+- Marketing Intelligence Specialist
+
+-
+- Client Marketing/Retention Associate
+- Client/Customer Relations Manager/Director
+- Communications Coordinator/Assistant
+- Customer Relations Specialist/Consultant
+- Fundraising Manager
+- Internal Communications Manager
+- Internal/External Communications Specialist
+- Investor Relations Analyst
+- Investor Relations Assistant
+- Investor Relations Manager/Director
+- Media Relations Specialist
+- Media Relations/Communication Manager/Director
+- Public Relations/Corporate Communications Manager
+- Publicity Assistant/Public Affairs Specialist
+
+
+-
+- Business Development Associate/ Sales Consultant
+- Business Development Coordinator/ Sales Support
+- Business Development Manager
+- Business Outreach Coordinator/Partner
+- Chief Revenue Officer
+- Chief Sales Officer/Head of Sales/VP of Sales
+- Contract Manager
+- Customer Success Manager/Director
+- Market Development Analyst
+- Regional/National Sales Manager/Director
+- Relationship/Account Managers/Directors
+- Sales Manager/Director
+- Sales Operations Analyst/Audit Analyst
+- Sales Representative/Agent/Associate/Lead
+
+-
+- Affiliate Marketing Editor
+- Affiliate Marketing Manager/Director
+- Affiliate Marketing Specialist/Analyst
+- Content Marketing Director/Manager
+- Content Strategy Specialist/Creator
+- CRM Manager
+- Digital Account Manager
+- Digital Analytics and Insights Coordinator
+- Digital Broadcast Engineer
+- Digital Broadcast Traffic Specialist
+- Digital Broadcast/Media Specialist/Coordinator
+- Digital Broadcast/Webcast/Podcast/Producer
+- Digital Designer
+- Digital Marketing Assistant
+- Digital Marketing Content Creator/Specialist/ Associate, which may be Inbound, Outbound, or Both
+- Digital Marketing Director
+- Digital Marketing Senior Analyst
+- Digital Marketing Strategist
+- Display and Programmatic Specialist
+- Display Marketing/Advertising Director
+- Ecommerce Analyst
+- Ecommerce Associate/Specialist Ecommerce Director
+- Email Marketing Manager
+- Email/SMS Marketing Specialist/Analyst
+- Influencer Marketing Specialist/Associate/Coordinator/Assistant
+- Influencer Partnership/Marketing Manager
+- Mobile Marketing Analyst
+- Mobile Media Buyer
+- Online Community Manager
+- Paid Media Specialist
+- Paid Search Marketing Associate/ Manager/Negotiator
+- Search Engine Optimization (SEO)/ Paid Search Analyst
+- Social Media Analyst
+- Social Media Content Manager
+- Social Media Coordinator
+- Social Media Marketing Director
+- Web Content Manager
+- Web Content Specialist/Strategist
+- Web Developer/Designer/Producer
+- Webmaster/Web Developer Specialist
+- Website Project Manager
+
+-
+- Chief Marketing Officer (CMO)
+- Demand Generation Specialist/Analyst
+- Demand Generation/Growth Marketing Manager
+- Event Manager
+- Event Marketing Specialist /Coordinator
+- Growth Marketing Strategist
+- Marketing Consultant/Advisor
+- Marketing Operations Specialist
+- Marketing Technologist
+- Marketing/Project Associate/Coordinator/Assistant
+- Program Analyst
+- Program/Project Manager
+- Strategic Marketing Manager/Director of Strategy
+- Vice President of Marketing
+
+-
+- Retail Account Manager
+- Retail Analyst
+- Retail Sales Advisor/Associate/Coordinator/ Execution Specialist
+- Retail/Field Merchandiser
+- Retail/Store Manager
+
+-
+- Business Sustainability Strategy Director/Manager/ Specialist/Advisor/Coordinator
+- Chief Sustainability Officer/Vice President
+- Corporate Responsibility Associate/Officer/Manager
+- ESG Analyst
+- Market Research/Analyst
+- Marketing/Business Development for Gen-AI

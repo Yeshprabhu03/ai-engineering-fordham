@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2021-showcase-and-participants/nour-aborageh
+
+# Nour Aborageh '21
+
+![Nour Aborageh](/media/review/content-assets/migrated/images/nour__edit_.jpg)
+
+**Major: **Natural Science**Bio: **Nour is a fourth-year Natural Science Major at Fordham University on the pre-med track. Her love for science stemmed when she was a child and she hopes to continue her education in medical school. In her spare time, Nour works at Midwood EMS to help and connect with as many people as she can.
+
+**Title of Research: **Chitin Solubility in Lithium Chloride/Dimethylacetamide Solutions**Mentor: **Dr. Marie Thomas**Abstract: **Chitin is a cheap, renewable, and biodegradable polymer and resource that has the potential to decrease our reliance on fossil fuels. However, chitin is completely insoluble in many organic and inorganic solvents. Despite this, uses for this polymer have been found in many areas such as agriculture, medicine, and food. It is of interest to find greener solvents and/or methods for processing this material. We have used lithium chloride/dimethylacetamide (LiCl/DMA) solutions to dissolve chitin. Although it is a common solvent system for processing chitin, parameters involving its use appear to be limited in the literature. Therefore, we have studied the dissolution of chitin in LiCl/DMA solutions of various concentrations. In addition, we have varied the temperature, in an effort to decrease dissolution times. In almost all cases, we were able to dissolve chitin. The material could also be regenerated using a combination of methanol and water. The regenerated material was made into films and found to be more amorphous. Results from FTIR spectroscopy indicate that there are no modifications to the functional groups of chitin after dissolution and regeneration.

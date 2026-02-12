@@ -1,0 +1,14 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2022-participants-/elizabeth-breen
+
+# Elizabeth Breen ‘22
+
+![Elizabeth Breen](/media/home/schools/fordham-college-at-lincoln-center/Elizabeth-Breen.jpg)
+
+**Major:** Integrative Neuroscience, Theology**Bio: **Elizabeth is a Senior majoring in Integrative Neuroscience and Theology with a minor in Bioethics. She is also currently completing her Accelerated Master's degree in Ethics and Society with a concentration in Bioethics and Health Sciences. Elizabeth's research interests include dementia and other neurodegenerative diseases, health disparities, and medical ethics.
+
+**Title of Research:** Neurocognition and Functional Status Among Ethnocuturally Diverse Older Adults**Mentor:** Dr. Monica Rivera Mindt, Department of Psychology**Abstract:** Introduction. Alzheimer’s Disease (AD) is a late-onset neurodegenerative disease characterized by memory loss and decline in functional ability. AD presents a major public health concern for the coming decades, especially among ethnoculturally diverse populations. Monitoring neurocognition and functional status is important for clinical and research purposes in AD, and the two are often positively correlated, especially among ethnoculturally diverse older adults. Our aim was to characterize our sample’s neurocognition, functional status, and associations between measures of these two variables, and to examine between-group differences in these variables in a group of Latinx, Black, and NLW older adults.
+
+- Our study used data from the Alzheimer’s Disease Neuroimaging Initiative (ADNI). Neurocognition was measured using the Alzheimer's Disease Assessment Scale (ADAS), and functional status was measured using the Functional Activities Questionnaire (FAQ). 1537 older adults who completed baseline visits as part of ADNI were included in this study, 1333 of whom were non-Latinx White (NLW), 124 Black/African-American, and 81 Hispanic/Latinx.
+- Latinx and Black groups had significantly higher ADAS and FAQ total scores than the NLW group (Hs = 9.50-21.53, ps < .05). Spearman’s correlations revealed higher ADAS total scores were associated with higher FAQ total scores within Latinx (r=.61, p<.001), Black (r=.64, p<.001), and NLW (r=.65, p<.001) groups.
+
+**Discussion.** Findings indicate that neurocognition is positively associated with functional status across ethnocultural groups. Thus, the results of this study support the ecological validity of the ADAS for use in Black and Latinx populations.

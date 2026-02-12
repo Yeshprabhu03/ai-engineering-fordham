@@ -1,0 +1,9 @@
+https://www.fordham.edu/resources/policies/sexual-and-related-misconduct-policy-and-procedures/policy-statement
+
+# Policy Statement: Sexual and Related Misconduct Policy
+
+Fordham University ("Fordham" "the University") is committed to maintaining a community in which its members live, work, and learn in a safe and respectful environment that is free from all forms of sex- and gender-based discrimination. In furtherance of this commitment, and in accordance with federal, state and local laws, the University prohibits the following forms of sexual or related misconduct: sex and gender discrimination, sexual assault, sexual harassment, stalking, dating violence, domestic violence, prohibited consensual relationships, sexual exploitation and other sexual misconduct, and intimidation and/or retaliation.
+
+Fordham University is an Equal Opportunity Employer committed to the principle of equal opportunity in education and employment in compliance with Title IX of the Education Amendments of 1972, Section 504 of the Rehabilitation Act of 1973, Title VI and Title VII of the Civil Rights Act of 1964, the Age Discrimination Act of 1975, the Americans with Disabilities Act of 1990, the Violence Against Women Act, and other federal, state, and local laws.
+
+Sexual and related misconduct can occur between strangers, acquaintances, or people who know each other well, including people who are involved in an intimate or sexual relationship, and may be committed by anyone regardless of sex, gender, gender identity, gender expression, or sexual orientation. Fordham will take prompt and effective steps to end the sexual and related misconduct, eliminate the hostile environment, prevent its recurrence, and remedy its effects.

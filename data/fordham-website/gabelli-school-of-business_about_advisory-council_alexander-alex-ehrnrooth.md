@@ -1,0 +1,13 @@
+https://www.fordham.edu/gabelli-school-of-business/about/advisory-council/alexander-alex-ehrnrooth
+
+# Alexander “Alex” Ehrnrooth
+
+![Alexander “Alex” Ehrnrooth](/media/home/schools/gabelli-school-of-business/Alexander-“Alex”-Ehrnrooth.jpg)
+
+Since 1995, Alex Ehrnrooth has been the president and CEO of Virala Corporation, a family-owned industrial company founded in Finland in 1977. Under his leadership, Virala has evolved into an industrial group focused on core strategic ownerships which endure, grow, and evolve across generations. Virala has subsidiaries in Finland, Sweden, and the United States. Virala is a controlling or co-controlling shareholder in several publicly traded and private companies, including the original family business Fiskars (founded in 1649), Ahlstrom, Munksjö, YIT, Enersense, Betolar, Pila Pharma, and Greater Than. In 2024, the group’s main Core Strategic investments had combined net sales of EUR 6,3 billion, an adjusted EBITDA of EUR 450 million, and employed approximately 19,000 people. In addition, Virala has investments in more than 150 private equity and venture capital funds and over 30 direct investments.
+
+Currently, Ehrnrooth serves on the board of directors of Ahlstrom and holds numerous other private company board memberships and positions of trust. He has previously served on the boards of Fiskars, YIT, Purmo, and Wärtsilä to name a few. Additionally, Alex is a board observer in companies like Singularity University, EndlessAI, and Munksjö.
+
+Ehrnrooth also is actively involved in various foundations and advisory boards. He is a board member of the Louise & Göran Ehrnrooth Foundation, chairman of the board of the Family G.J. Ehrnrooth Foundation, and serves on the Weinert Center for Entrepreneurship’s WAVE advisory board at the University of Wisconsin Business School as well as on the Advisor Board of the Center for Family Enterprise at the House of Innovation at the Stockholm School of Business. He also is a board member of the Finnish American Chamber of Commerce in New York. And now most recently as an advisory council member for the Gabelli School of Business.
+
+His educational background includes a Master of Science degree in Economics (Finance) from the Hanken School of Economics in Helsinki (1998) and a Master of Business Administration degree in Entrepreneurship from the Wisconsin Business School (2000). He also received a Kellogg Executive Scholar degree at Northwestern University’s Kellogg School of Management in 2010. In 2018, he completed the Singularity University Executive Program and has recently completed executive programs in AI at MIT and IMD.

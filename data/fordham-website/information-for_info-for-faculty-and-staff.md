@@ -1,0 +1,15 @@
+https://www.fordham.edu/information-for/info-for-faculty-and-staff
+
+# Info for Faculty and Staff
+
+## Information for Faculty and Staff
+
+### Teaching Resources
+
+[Academic Calendars](/resources/academic-calendars/)[Blackboard](/information-technology/it-services/blackboard-learn/)[Bookstore](/student-life/bookstore/)[Copyright Policy](/resources/policies/intellectual-property-policy/)[Faculty Affairs](/about/leadership-and-administration/administrative-offices/office-of-the-provost/provost-office-units/faculty-affairs/)[Faculty Resources for Core Proposals](/academics/faculty/faculty-of-arts-and-sciences/faculty-resources/core-curriculum/)- Faculty Technology Centers
+[Fordham.edu](http://my.fordham.edu/)[Instructional Technology/Academic Computing](/information-technology/it-services/academic-technology/)[Library Reserves (ARES)](https://fordham.ares.atlas-sys.com/ares/)[Media Services](/information-technology/it-services/learning-spaces-and-events-management/)[Our Faculty](/about/leadership-and-administration/administrative-offices/office-of-the-provost/about-us/our-work/our-faculty/)[Technology Training](https://itnews.blog.fordham.edu/?post_type=tribe_events&tribe_event_display=month)[Undergraduate Bulletin Online](https://bulletin.fordham.edu/undergraduate/)[Undergraduate Faculty Handbook](/resources/policies/undergraduate-faculty-handbook/)[Undergraduate Final Exam Schedule](/about/leadership-and-administration/administrative-offices/enrollment-group/academic-records/final-exams-schedule-for-undergraduates/)[Undergraduate Policy on Academic Integrity](/resources/policies/academic-integrity-policy/)
+
+### Campus Resources
+
+[Campus Ministry](/about/living-the-mission/campus-ministry/)[Conference Services](/about/leadership-and-administration/administrative-offices/facilities-management/conference-services-and-facilities-rentals/)[Departments and Programs](/academics/departments/)[Directory](https://411.fordham.edu/)[Enrollment Group](/about/leadership-and-administration/administrative-offices/enrollment-group/)[Facilities Management](/about/leadership-and-administration/administrative-offices/facilities-management/)- Faculty Activity Reporting System
+[Faculty and Staff Email](https://login.fordham.edu/cas/login?service=http%3A%2F%2Fmail.google.com%2Fa%2Ffordham.edu)[Faculty Senate](/academics/faculty/faculty-senate/)[Fordham University Press](https://fordhampress.com/)[Information Technology](/information-technology/)[Institutional Research](/about/leadership-and-administration/administrative-offices/office-of-the-provost/provost-office-units/institutional-research-and-assessment/)[Integrity Hotline](https://secure.ethicspoint.com/domain/media/en/gui/22342/index.html)[Ram Van](/student-life/department-of-transportation/)[Out of Town Travel Policy](/about/leadership-and-administration/administrative-offices/office-of-finance/about-us/finance-groups/treasury-and-risk/travel-and-expense-reporting/)[Responding to Mental Health Emergencies](/student-life/deans-of-students-and-student-life/caring-for-students/cura-personalis-faculty-guides-to-student-behavior/)

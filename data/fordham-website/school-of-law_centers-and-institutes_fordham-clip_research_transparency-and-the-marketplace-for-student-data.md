@@ -1,0 +1,25 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/fordham-clip/research/transparency-and-the-marketplace-for-student-data
+
+# Transparency and the Marketplace for Student Data
+
+Report Summary
+
+Student lists are commercially available for purchase on the basis of ethnicity, affluence, religion, lifestyle, awkwardness, and even a perceived or predicted need for family planning services. This study seeks to provide an understanding of the commercial marketplace for student data and the interaction with privacy law. Over several years, Fordham CLIP reviewed publicly-available sources, made public records requests to educational institutions, and collected marketing materials received by high school students. The study uncovered and documents an overall lack of transparency in the student information commercial marketplace and an absence of law to protect student information.
+
+The study first describes the legal framework for data brokers selling student information and shows that existing privacy laws do not encompass these activities. Next, the study shows what this commercial ecosystem looks like. Specifically, the study maps the types of commercial solicitations students receive, the identities of data brokers confirmed to advertise the sale of student information, sources of student data in the commercial marketplace, the types of student data offered for sale, and the ways in which data brokers package it.
+
+Based upon on the research and the large gap in law and regulation of the commercial marketplace for student data, the study offers a set of recommendations as follows:
+
+1) The commercial marketplace for student information should not be a subterranean market. Parents, students, and the general public should be able to reasonably know (i) the identities of student data brokers, (ii) what lists and selects they are selling, and (iii) where the data for student lists and selects derives. A model like the Fair Credit Reporting Act (FCRA) should apply to compilation, sale, and use of student data once outside of schools and FERPA protections. If data brokers are selling information on students based on stereotypes, this should be transparent and subject to parental and public scrutiny.
+
+2) Brokers of student data should be required to follow reasonable procedures to assure maximum possible accuracy of student data. Parents and emancipated students should be able to gain access to their student data and correct inaccuracies. Student data brokers should be obligated to notify purchasers and other downstream users when previously-transferred data is proven inaccurate and these data recipients should be required to correct the inaccuracy.
+
+3) Parents and emancipated students should be able to opt out of uses of student data for commercial purposes unrelated to education or military recruitment.
+
+4) When surveys are administered to students through schools, data practices should be transparent, students and families should be informed as to any commercial purposes of surveys before they are administered, and there should be compliance with other obligations under the Protection of Pupil Rights Amendment (PPRA).
+
+Publication of the final paper is forthcoming in the Virginia Journal of Law and Technology in fall 2018. A gift from Sheila Kaplan to the Fordham Center on Law and Information Policy (Fordham CLIP) supported work on this study. The Fordham CLIP research team for the study consisted of Fordham CLIP Executive Director, N. Cameron Russell; Prof. Joel R. Reidenberg, Fordham CLIP Academic Director; Fordham CLIP Dean's Fellow, Elizabeth Martin (FLS '16); and Fordham CLIP Privacy Fellow, Thomas B. Norton (FLS '16).
+
+## Media and Blog Coverage
+
+[The Washington Post](https://www.washingtonpost.com/education/2019/08/20/legislators-ask-plus-firms-explain-how-they-use-vast-amount-data-they-collect-students-which-ones-facebook-google-blackboard-etc/), August 20, 2019[Fox News](http://video.foxnews.com/v/5827483330001/?#sp=show-clips), August 27, 2018[The New York Times](https://www.nytimes.com/2018/08/02/education/learning/school-websites-information-tracking.html), August 2, 2018[The New York Times](https://www.nytimes.com/2018/07/29/business/for-sale-survey-data-on-millions-of-high-school-students.html), July 29, 2018[The Journal](https://thejournal.com/articles/2018/07/02/student-data-brokers-shady-practices-put-private-student-data-on-the-open-market.aspx?m=1), July 2, 2018[LoHud](https://www.lohud.com/story/opinion/perspective/2018/06/18/new-york-educators-consider-student-data-privacy-parents-should-too/702483002/), June 18, 2018[Legaltech News](https://www.law.com/legaltechnews/2018/06/13/student-data-mining-is-a-black-box-finds-fordham-law-study/?slreturn=20180514111836), June 13, 2018[Education Week](http://blogs.edweek.org/edweek/DigitalEducation/2018/06/impenetrable_world_student_data_brokers_fordham.html), June 6, 2018[Future of Privacy Forum](https://fpf.org/2018/06/06/new-study-on-the-marketplace-for-student-data/), June 6, 2018

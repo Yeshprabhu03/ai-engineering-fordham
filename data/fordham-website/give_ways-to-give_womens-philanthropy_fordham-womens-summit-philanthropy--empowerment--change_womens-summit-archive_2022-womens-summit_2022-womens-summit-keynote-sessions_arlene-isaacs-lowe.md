@@ -1,0 +1,7 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2022-womens-summit/2022-womens-summit-keynote-sessions/arlene-isaacs-lowe
+
+# Arlene Isaacs-Lowe
+
+![Arlene Isaacs-Lowe](/media/home/departments-centers-and-offices/daur/Arlene_Isaacs-Lowe_400.jpg)
+
+**In June 2022, Arlene Isaacs-Lowe retired from Moody’s Corporation after a successful 24-year career spanning multiple roles and responsibilities. Most recently, she served as global head of corporate social responsibility for Moody’s Corporation and president of Moody’s Foundation. The latter role enabled Isaacs-Lowe to champion the integration of environmental, social, and governance considerations across Moody’s to align with stakeholder capitalism and as drivers of long-term value. Through innovative strategic initiatives, her leadership enhanced and differentiated Moody’s brand and reputation through authentic societal engagement that reflects the company’s culture, expertise, and the priorities of its stakeholders. In addition to being a CPA and a CFA, Isaacs-Lowe is recognized as a financial expert and has global, multifaceted experience developing and successfully executing enterprise-wide strategic plans. She is a skilled leader adept at productive collaboration and building and motivating, multidisciplinary teams. She received a B.B.A. from Howard University School of Business and an M.B.A. from Fordham University.**

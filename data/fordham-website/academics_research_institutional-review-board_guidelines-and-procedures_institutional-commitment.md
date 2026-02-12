@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/research/institutional-review-board/guidelines-and-procedures/institutional-commitment
+
+# Institutional Commitment
+
+The University is guided in all research with human subjects, whether funded or not, by the principles outlined in The [Belmont Report](https://www.hhs.gov/ohrp/humansubjects/guidance/belmont.html) of the National Commission for the Protection of Human Subjects of Biomedical and Behavioral Research (April 18, 1979). Briefly, three basic ethical principles are set forth in that Report:
+
+**Respect for Persons**. The principle of respect for persons...divides into two separate moral requirements: the requirements to acknowledge autonomy and to protect those with diminished autonomy.**Beneficence**. Two general rules have been formulated as complementary expressions of beneficent actions: (1) do no harm and (2) maximize possible benefits and minimize possible harms.**Justice**. Who ought to receive the benefits of research and bear its burdens? This is a question of justice in the sense of "fairness in distribution" or "what is deserved." An injustice occurs when some benefit to which a person is entitled is denied without good reason or when some burden is imposed unduly.
+
+The application of these principles to research requires that appropriate procedures be followed. **Respect for persons** requires that informed consent be obtained from all research subjects or their legal representatives, unless the research falls within an exempt category. **Beneficence** requires that the researcher assess risks and benefits to subjects. **Justice** requires that research subjects be selected in a fair and equitable manner.
+
+The following guidelines and procedures have been established to assist the University community in carrying out its commitment to ethical behavior in human subjects research. They are in compliance with [federal regulations (title 45 CFR Part 46)](https://www.hhs.gov/ohrp/humansubjects/guidance/45cfr46.html) and New York State law (Article 24-A of the Public Health Law).

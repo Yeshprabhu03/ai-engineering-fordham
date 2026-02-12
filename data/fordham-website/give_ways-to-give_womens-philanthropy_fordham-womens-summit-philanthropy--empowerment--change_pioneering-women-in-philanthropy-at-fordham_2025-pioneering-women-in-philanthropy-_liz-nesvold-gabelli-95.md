@@ -1,0 +1,11 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/pioneering-women-in-philanthropy-at-fordham/2025-pioneering-women-in-philanthropy-/liz-nesvold-gabelli-95
+
+# Liz Nesvold, GABELLI '95
+
+![](/media/home/departments-centers-and-offices/give/Screenshot-2025-07-01-at-12.04.47 PM.png)
+
+Liz Nesvold is vice chair of Emigrant Bank and chair of Emigrant Partners, working across the bank’s affiliates which serve the wealth management industry, including Emigrant Partners, New York Private Trust, Sarasota Private Trust, Cleveland Private Trust, Summitas, and Personal Risk Management Solutions. She also serves on the Emigrant Partners’ Investment Committee.
+
+With 30+ years of experience as an advisor, investment banker, and entrepreneur, Liz specializes in mergers and acquisitions (M&A), succession planning, strategic growth, compensation structuring, and business analysis. In 2007, she founded Silver Lane Advisors, a leading M&A boutique for the wealth and asset management sector, which she and her partners sold to a Fortune 500 company in 2019. In 2024, she shifted from investment banking to direct investing in the industries she has long served.
+
+A champion for women in financial services, Liz was named a Woman to Watch by *InvestmentNews*, received the M&A Advisor’s Leadership Award, and was inducted into the M&A Hall of Fame. She began her career at Berkshire Capital, where she co-founded the industry’s first dedicated M&A practice for registered investment advisors.

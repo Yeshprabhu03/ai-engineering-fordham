@@ -1,0 +1,3 @@
+https://www.fordham.edu/info/26853/human_resources_policies_and_guides/5793/collective_bargaining_agreements
+
+The policies, guides, and agreements listed below are designed to assist our employees in understanding their rights and responsibilities as part of the Fordham community. As One Fordham, our goal is to ensure a productive, fair, and safe workplace, as we embrace our mission to "care for the whole person" and the "work we do together."

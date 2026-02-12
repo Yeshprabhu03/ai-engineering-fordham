@@ -1,0 +1,13 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2022-participants-/ruben-analp
+
+# Ruben Çağınalp ‘21
+
+## Ruben Çağınalp ‘21
+
+![Ruben Çağınalp](/media/home/schools/fordham-college-at-lincoln-center/Ruben-ÃaÄÄ±nalp.jpg)
+
+**Major:** Comparative Literature**Bio: **Ruben Çağınalp, FCLC ‘21 is a scholar, advocate, and aspiring attorney. As a student at Fordham, he chaired the campus queer student organization, published research on trans politics, and interned as a paralegal at an LGBTQ+ civil rights law office. His thesis research, sponsored by a Dean's Summer Research Grant and a Campion Scholarship, examined the intersections of trans and disabled experiences. Ruben is currently a financial services writer at Red Ventures.
+
+**Title of Research:** Entropic Time: On Normative Rhetoric and Autistic Embodiment**Mentor:** Dr. Margaret Schwartz, Department of Communication and Media Studies**Abstract:** The purpose of this project is to disentangle the intersecting rhetorics about time and language that form popular depictions of autism and autistic people. As Remi Yergeau articulates in their seminal work Authoring Autism, the ages-old elision of humanity and normative speech casts autistic people as inhuman. In turn, I contend that this elision is responsible for a narrative that depicts autistic people as moving through time queerly. On the one hand, the concept of developmental disability stages autistics as lagging behind neurotypicals and belonging to the past, thereby invoking rhetorics of belatedness that originated in imperialist thought.
+
+Conversely, autistic embodiment is also depicted as a looming catastrophic future. To name one example, the proliferation of materials advertising the “red flags of autism” (autistic traits in young children) call upon parents to “catch it in time,” thereby locating the rhetorical corpus of autism in the future. Similarly, in the notorious film “Autism Every Day,” wherein mothers of autistic children mourn the heteroreproductive futures that they believe their children will not inhabit, autism as a phenomenon emerges as a haunting possible future. In consequence, the movement to cure autism can be thought of as a social intervention to resynchronize temporally deviant bodies, akin to the non-consensual sterilization procedures at the core of the infamous Ashley X case. Ultimately, I conclude that these imagined visions of autistic lives hold weight, and that exploring the divergence between those visions and the lived experiences of autistic people is a social justice project.

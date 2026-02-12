@@ -1,0 +1,10 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2017-womens-summit/pioneering-women-in-philanthropy-at-fordham-2017/emily-l-smith
+
+# Emily L. Smith
+
+**Emily L. Smith, GABELLI ’77**, retired as a managing director at Scudder, Stevens & Clark, where she was responsible for marketing, sales, and client service for equity, fixed income, and international products for institutional clients like the city of New York, the State of Mississippi, Colgate Palmolive, Ford Motor Company, Southern Company, Bristol Myers, and Columbia University. Prior to this position, Emily worked in Bankers Trust’s fixed income department before moving to client service for commingled institutional accounts.![Emily Smith pioneering in philanthropy](/media/review/content-assets/migrated/images/Emily_Smith.jpg)
+
+
+Emily received her bachelor’s degree from Smith College, where she majored in American studies, and her M.B.A. from Fordham University, where she focused on finance. She has served on several boards, including the Nonprofit Coordinating Committee of New York, the U.S. Realty Company, the Smith College Alumnae Finance Committee, and the Smith New York Board. She has also served in an advisory capacity to Fordham business education for many years, including her current role on the Gabelli School’s Board of Advisers. Her community involvement includes serving as an associate of the Museum of Modern Art’s drawing and print department, supporting NYU’s Institute of Fine Arts, serving as Smith College class president, and volunteering with New York Presbyterian Hospital.
+
+Emily and her husband, Bob, have three children. The Emily L. and Robert E. Smith Endowed Scholarship supports women graduate students in the Gabelli School of Business. To date, 13 women have benefited from their scholarship.

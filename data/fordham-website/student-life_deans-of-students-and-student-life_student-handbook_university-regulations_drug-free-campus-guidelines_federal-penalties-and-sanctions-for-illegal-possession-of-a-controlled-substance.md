@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/drug-free-campus-guidelines/federal-penalties-and-sanctions-for-illegal-possession-of-a-controlled-substance
+
+# Drug-Free Campus Guidelines: Federal Penalties and Sanctions for Illegal Possession of a Controlled Substance
+
+Section 484(r) of the Higher Education Amendments of 1998 provides that a student’s eligibility for federal student aid be suspended if that student is convicted under federal or state law of any offense involving the possession or sale of a controlled substance (not including alcohol or tobacco). The suspension of eligibility ranges from as much as one year to an indefinite period of time, depending upon the number and type of convictions. A student may regain eligibility early by completing a drug rehabilitation program that meets certain statutory and regulatory requirements or if the conviction is overturned.

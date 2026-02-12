@@ -1,0 +1,7 @@
+https://www.fordham.edu/about/living-the-mission/campus-ministry/justice-and-service/ignatian-family-teach-in-for-justice
+
+# Ignatian Family Teach-in for Justice
+
+Be part of the largest annual Jesuit, Catholic, social justice gathering in the United States! The Ignatian Family Teach-In for Justice, sponsored by the Ignatian Solidarity Network, is an opportunity for members of Jesuit schools and organizations to come together to learn, reflect, pray, network, and advocate in Washington DC in the context of social justice and solidarity. IFTJ is grounded in a rich history of honoring the Jesuits and their companions who were martyred in El Salvador in 1989 and has focused on social justice themes such as immigration reform, environmental justice, racial justice, and many others.
+
+The theme of IFTJ 2025 is "Pressing On" and will cultivate conversations surrounding the promise of a loving God amidst the stark realities of injustice. The teach-in will be held November 16-17 in Washington DC, and the keynote speaker is Fr. Greg Boyle. Students will reflect on the countercultural call to hope as they work for justice and strengthen the bonds of the IFTJ community. There will be breakout sessions on dozens of other social justice topics and reflection on how the Fordham delegation can bring back the fruits of the conference. Furthermore, there will be social justice follow-up programming in the spring semester. For more information about the Teach-in, please visit the [IFTJ 2025 website](https://ignatiansolidarity.net/iftj/).

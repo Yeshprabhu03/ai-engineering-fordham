@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2022-participants-/cathleen-freedman
+
+# Cathleen Freedman ‘22
+
+![Cathleen Freedman](/media/home/schools/fordham-college-at-lincoln-center/Cathleen-Freedman.jpg)
+
+**Major:** Political Science and Film & Television**Bio: **Cathleen Freedman is an ambidextrous writer from Houston,Texas. She graduated from the High School for the Performing and Visual Arts in the Creative Writing department and is currently a senior in the Honors Program at Fordham University at Lincoln Center.
+
+**Title of Research:** Self-Portrait of a Modest Woman: A Play about Adélaïde Labille-Guiard**Mentor:** Dr. Michele Prettyman, Department of Communication and Media Studies**Abstract:** Self-Portrait of a Modest Woman is a play about the life of Adélaïde Labille-Guiard. The eighteenth-century French artist not only defied gender expectations with her career but also taught a new generation of female painters. The play creatively considers Labille-Guiard’s story and expands upon her legacy, which has been overlooked by history and art critics alike. Inspired by Labille-Guiard’s painting Self-Portrait with Two Pupils, the play’s setting is divided between eighteenth-century France and the present-day Metropolitan Museum of Art’s gallery that holds Self-Portrait. Laura Auricchio’s book Artist in the Age of Revolution served as the basis for this project’s research. Originally a screenplay, Self-Portrait of a Modest Woman was adapted for the stage. Fabiola Arias and Julianna Jaworski directed the full reading at Fordham University at Lincoln Center in April 2022. While several centuries separate us from Adélaïde Labille-Guiard, her story of perseverance, diligence, and grit is timeless. When presented to the right audience, Labille-Guiard’s work continues to reverberate and resonate today.

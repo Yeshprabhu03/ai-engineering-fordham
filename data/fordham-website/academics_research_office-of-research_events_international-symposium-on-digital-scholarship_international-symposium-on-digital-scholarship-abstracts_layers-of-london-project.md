@@ -1,0 +1,5 @@
+https://www.fordham.edu/academics/research/office-of-research/events/international-symposium-on-digital-scholarship/international-symposium-on-digital-scholarship-abstracts/layers-of-london-project
+
+# Layers of London Project
+
+‘Layers of London’ is a digital public engagement project which seeks to uncover and map multiple histories of the city of London, is places and its inhabitants. At the centre of the project is a series of georectified maps of London, showing the city’s development from the medieval period to the present day. The project involves multiple heritage partners across London and beyond, as well as universities and community organisations. This presentation will discuss the progress of the project so far, focussing especially on the challenges and opportunities of georeferencing historic maps and aerial photographs, and the potential for linking them with curated and crowdsourced data.

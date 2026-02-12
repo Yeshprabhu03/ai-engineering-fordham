@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/departments/women-gender-and-sexuality-studies/about-us
+
+# About Women, Gender, and Sexuality Studies
+
+The Women, Gender, and Sexuality Studies program is a bi-campus, multidisciplinary program with a profound social justice goal: to understand how gender and sexuality shape our culture, daily lives, social institutions, and interactions. Our program brings together over 50 faculty from from 13 departments and programs across both campuses, professors whose research and teaching focus on women, gender, and/or sexuality. In addition to offering dozens of courses across the social sciences and humanities, the program serves as an intellectual center for faculty and students. Our faculty are central in bringing cross-disciplinary perspectives on women, gender, and sexuality both to the University community and to a wider public through our course offerings as well as by sponsoring conferences, lectures, movie screenings, performances, and other events.
+
+### History
+
+In May 1995, a group of faculty launched the bi-campus Women’s Studies program, which operated for two decades under the original program name. Over the years, our course offerings have expanded from exploring the diversity of women's experiences and their contributions historically and across cultures to concurrent emphases on gender and sexuality as primary categories of analysis. In 2015, the Women’s Studies program was renamed the Women, Gender, and Sexuality Studies program, capturing evolutionary changes in the academic discipline as well as better representing the offerings in this interdisciplinary area.

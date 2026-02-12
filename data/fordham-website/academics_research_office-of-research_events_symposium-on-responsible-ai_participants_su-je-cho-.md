@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/su-je-cho-
+
+# Su-Je Cho
+
+**Bio:**
+
+Dr. Su-Je Cho has been engaged in exploring how artificial intelligence can be integrated into education in responsible, ethical, and equitable ways. Building on decades of work in special education and teacher preparation, Dr. Cho has expanded research to AI literacy for educators, ensuring that students in K–12 schools and higher education have the knowledge and critical perspective to use AI tools effectively and ethically. Dr. Cho’s projects demonstrate how AI can act as a supportive tutor while also addressing broader concerns about equity, access, and the digital divide. At the same time, Dr. Cho emphasizes the importance of governance, privacy, and bias mitigation, recognizing that responsible AI adoption requires collaboration across disciplines. Through research, program design, and mentorship, Dr. Cho highlights AI’s potential to expand opportunities for students while preparing teachers to navigate emerging technologies with confidence.
+
+**Abstract:**
+
+This session presents a research project investigating how artificial intelligence (AI) can support students in learning new foreign languages. We piloted the use of ChatGPT as a writing assistant in a high school setting to examine its potential for enhancing language learning. Over a short intervention period, students demonstrated increased confidence, stronger writing skills, and described the AI as a supportive tutor accessible beyond the classroom. Findings suggest that, when introduced responsibly, AI tools can expand access to language practice, provide individualized feedback, and address equity gaps by offering resources to students who may not otherwise have access to tutoring. The study highlights AI’s broader potential to complement classroom instruction, foster learner engagement, and promote more equitable opportunities in language education. During this session, we will share data from the pilot study and provide practical strategies for educators interested in using AI as a tool for language teaching and learning.

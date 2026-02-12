@@ -1,0 +1,5 @@
+https://www.fordham.edu/gabelli-school-of-business/about/advisory-council/valerie-leeder-
+
+# Valerie Leeder, GABELLI ‘09
+
+Valerie Leeder is managing director and global head of HR platform, risk and infrastructure at BlackRock. In this role, she is responsible for the strategic planning and implementation of HR technology and services to employees across the firm. Prior to joining BlackRock, Leeder spent 23 years at Goldman Sachs, where she held several leadership positions focused on business development, and operational and regulatory oversight. Most recently, Leeder was the chief risk officer of Human Capital Management (HCM), head of HCM Operations, and head of Mergers & Acquisitions People Strategy. Valerie earned a B.A. in economics and management science from the State University of New York College at Cortland, a B. S. in accounting from Mount Saint Mary College, and an M.B. A. from Fordham University.

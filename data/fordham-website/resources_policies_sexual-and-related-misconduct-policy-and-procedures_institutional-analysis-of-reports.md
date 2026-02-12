@@ -1,0 +1,5 @@
+https://www.fordham.edu/resources/policies/sexual-and-related-misconduct-policy-and-procedures/institutional-analysis-of-reports
+
+# Institutional Analysis of Reports: Sexual and Related Misconduct Policy
+
+Upon receipt of a report of prohibited conduct, the University will perform an initial assessment of the report. As part of this assessment, the University will: (1) determine whether the reported conduct falls within the scope of the Policy; and (2) assign an Administrative Support Person to a student-complainant as appropriate. The University will also conduct an individualized safety and risk analysis to determine whether there is: (1) an immediate threat to the physical health or safety of any community member; and/or (2) serious and immediate harm to the respondent or others. Upon completion of the initial assessment, the University will determine the next steps.

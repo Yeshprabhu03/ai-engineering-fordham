@@ -1,0 +1,11 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2020-showcase-and-participants/aiza-bhuiyan
+
+# Aiza Bhuiyan '21
+
+![Aiza Bhuiyan](/media/review/content-assets/migrated/images/Aiza_Bhuiyan.jpg)
+
+**Major: **Anthropology**Bio:** From a young age Aiza Bhuiyan developed an interest in science and reading. During her time at Fordham, she was able to combine these passions by major and minor.
+
+**Title of Research: **Airborne Microplastics: An Investigation into Methods for Collection and Analysis
+
+**Mentor: **Dr. Guy Robinson**Abstract:** Globally, plastics production reached 348 million metric tonnes by 2017 and continues to increase at 3% per year. Plastic debris has become one of the key environmental issues of our time and is felt most acutely in countries where facilities for management and disposal of plastic waste are poor or non-existent. Microplastics are defined as plastic fragments less than 5 mm in length. The study of microplastic waste is recognized as an emerging field worldwide. The contamination of soil, aquatic and marine ecosystems with plastic particles have been documented and quantified to some degree, but very little work has focused on plastic waste in the atmosphere. As a part of a pollen monitoring program carried out in collaboration with the New York City Department of Health (NYCDoH), we deployed air monitors at 45 sites throughout New York City for two consecutive years. Although designed as pollen traps, these monitors also collect other airborne material such as mineral dust, fungal spores, soot particles, and tire rubber. To date, no standard protocols have been developed for evaluating levels of airborne microplastics. However, we are testing our residues with Nile Red stain, which causes plastic fragments to fluoresce when viewed under a compound microscope. All our pollen traps were mounted on street poles, and therefore adjacent to paved surfaces, but preliminary findings from this work indicate that the built environment in the neighborhood of each trap had a strong influence on the amount of airborne plastic debris. Higher levels of airborne plastic occur in areas characterized by a high density of buildings and hard surfaces.

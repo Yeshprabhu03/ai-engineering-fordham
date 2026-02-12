@@ -1,0 +1,5 @@
+https://www.fordham.edu/resources/policies/sexual-and-related-misconduct-policy-and-procedures/appeal-of-dismissals-or-determinations
+
+# Appeal of Dismissals or Determinations: Sexual and Related Misconduct Policy
+
+This section addresses the appeal process for: (1) [the dismissal of a Formal Complaint](/resources/policies/sexual-and-related-misconduct-policy-and-procedures/appeal-of-dismissals-or-determinations/other-sexual-and-related-misconduct---student-respondent/); (2) [the dismissal of any allegations in a Formal Complaint or Notice of Allegations](/resources/policies/sexual-and-related-misconduct-policy-and-procedures/appeal-of-dismissals-or-determinations/title-ix-prohibited-conduct---student-respondent/); and (3) [determinations regarding responsibility](/resources/policies/sexual-and-related-misconduct-policy-and-procedures/appeal-of-dismissals-or-determinations/title-ix-prohibited-conduct---employee-respondent/).

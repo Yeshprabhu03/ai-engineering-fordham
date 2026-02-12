@@ -1,0 +1,13 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/brendan-moore-trial-advocacy-center/diversity-and-inclusion
+
+# Brendan Moore Advocates Antidiscrimination and DEI Statement
+
+## The Brendan Moore Trial Advocacy Center is committed to cultivating and preserving a culture of inclusion and connectedness.
+
+We are able to grow and learn better together with a diverse team of advocates. The collective sum of the individual differences, life experiences, knowledge, innovation, self-expression, and talent that our advocates bring represents not only part of our culture, but our reputation and achievement as well. In recruiting for the Brendan Moores, we welcome the unique contributions that you can bring in terms of your education, opinions, culture, ethnicity, race, sex, gender identity and expression, nation of origin, age, languages spoken, veteran’s status, color, religion, disability, sexual orientation, and beliefs. Please see below for a note from the Diversity, Equity, and Inclusion editors on our board.
+
+As much as we try to mitigate discrimination in our advocacy, bias is pervasive, and does happen, in our law school and on our teams.
+
+Brendan Moore advocates, coaches, and alumni are encouraged to [report bias-related incidents to the DEI team](https://docs.google.com/forms/d/e/1FAIpQLSd08gSDj0aF57pbpBY4GKc9EWfmFgrGWJT5DOqSbKQsTa9IlQ/viewform). We deeply regret how people subject to prejudice and discrimination are often the ones responsible for reporting such incidents and navigating the response, but we've tried to streamline that process for you as much as possible by creating the DEI Hotline. The [DEI Hotline](https://docs.google.com/forms/d/e/1FAIpQLSd08gSDj0aF57pbpBY4GKc9EWfmFgrGWJT5DOqSbKQsTa9IlQ/viewform) allows you to submit bias-related incidents to the DEI editors, protects the anonymity of submissions (if requested), and includes the reporting party in the response that we prepare and execute. Through the [DEI Hotline](https://docs.google.com/forms/d/e/1FAIpQLSd08gSDj0aF57pbpBY4GKc9EWfmFgrGWJT5DOqSbKQsTa9IlQ/viewform), you can simply notify us of a situation that makes you uncomfortable, or you can join us in confronting an issue with the relevant parties. You can report a specific incident, a recurring pattern of behavior, or a suspicion that you or another is being discriminated against in your advocacy; we ask that you report all incidents, big and small, so that we can work to make the Moores more inclusive for everyone. And that requires your help.
+
+"An individual has not started living until he can rise above the narrow confines of his individualistic concerns to the broader concerns of all humanity." - Martin Luther King, Jr.,

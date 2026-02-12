@@ -1,0 +1,7 @@
+https://www.fordham.edu/graduate-school-of-arts-and-sciences/student-resources/graduate-student-council/charter-groups/lgbtq
+
+# GSAS Graduate Student Council LGBTQ+
+
+The Graduate Student LGBTQ+ Group is dedicated to fostering a welcoming and supportive community for LGBTQ+ graduate students and their allies at Fordham’s GSAS. Our mission is to create an inclusive and safe environment where students of all gender identities and sexual orientations feel a sense of belonging in academia. While the group is centered on the LGBTQ+ experience, we welcome all those invested in queer dignity, whether or not they identify as part of the LGBTQ+ community. What sets our events apart from typical graduate socials is our focus on creating a space where students can openly discuss the unique challenges they face in academia as queer individuals.
+
+As an interdepartmental group, we bring together students from diverse academic backgrounds, strengthening the LGBTQ+ presence within the graduate student community. Our events—such as board game nights, movie screenings, and informal gatherings— encourage social interaction and friendship among members. Additionally, we connect our members to LGBTQ+ events in the broader New York City community, creating opportunities to engage with and contribute to the wider LGBTQ+ network.

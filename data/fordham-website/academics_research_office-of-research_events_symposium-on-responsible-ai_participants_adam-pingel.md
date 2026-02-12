@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/adam-pingel
+
+# Adam Pingel
+
+Adam leads the AI Alliance's Applications and Tools working group which is focused on responsibly building foundational AI technology. Adam Pingel is an AI advocate and technology leader, currently serving as IBM Head of Open Tools and Applications for the AI Alliance, where he co-chairs efforts on AI applications and tools. He has a strong background in AI-powered legal technology from his time as CTO of Global Platforms at LexisNexis and VP of Engineering at Ravel Law, and he has contributed to open source and responsible AI initiatives across the tech industry. Adam holds degrees in computer science from Stanford University and UCLA and is recognized for his work driving collaboration around open, safe, and responsible AI.
+
+![](/media/home/departments-centers-and-offices/research/image001.jpg)
+
+**Abstract:**
+
+Semiont is a new open-source framework from the AI Alliance that enables humans and intelligent agents to co-create shared knowledge — governed by you and built to last. At its core, Semiont supports the simultaneous co-creation of a wiki and a knowledge graph, allowing text and structured relationships to evolve side by side. On top of this foundation, Semiont provides powerful retrieval and contextualization drawing on the principles of GraphRAG (Graph-based Retrieval-Augmented Generation). By weaving together collaborative editing with graph-grounded semantics, Semiont provides a durable framework for meaning-making that goes beyond static documentation or siloed AI memory. Humans and intelligent agents can jointly annotate, connect, and refine entities and relationships, while operators retain full control over what is shared and preserved. In this talk, I will introduce the core principles behind Semiont, demonstrate its workflows, review its roadmap, and explore the broader implications for sustainable knowledge infrastructure in the age of AI.

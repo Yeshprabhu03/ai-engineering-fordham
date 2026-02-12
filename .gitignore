@@ -25,3 +25,8 @@ ENV/
 # OS
 .DS_Store
 Thumbs.db
+
+# Custom
+data/processed_fordham.pkl
+data/*.png
+data/*.svg

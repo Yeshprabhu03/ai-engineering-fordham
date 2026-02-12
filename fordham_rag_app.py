@@ -122,14 +122,129 @@ st.markdown(f"""
 </div>
 """, unsafe_allow_html=True)
 
+# --- 1. Data Loading & Preparation ---
+@st.cache_resource
+def load_data():
+    # Path to pre-computed data
+    data_path = 'data/processed_fordham.pkl'
+    
+    if os.path.exists(data_path):
+        return pd.read_pickle(data_path)
+    
+    # If not found, generate it!
+    st.warning("Pre-computed data not found. Generating embeddings... This may take a minute.")
+    
+    # Check for source zip
+    zip_path = 'data/fordham-website.zip'
+    source_dir = 'data/fordham-website'
+    
+    # Unzip if needed
+    if not os.path.exists(source_dir):
+        if os.path.exists(zip_path):
+            with st.spinner("Unzipping source data..."):
+                with zipfile.ZipFile(zip_path, 'r') as z:
+                    z.extractall("data/")
+        else:
+            st.error(f"Source data not found! Please ensure '{zip_path}' exists in the repo.")
+            st.stop()
+            
+    # Load raw markdown files
+    data = []
+    with st.spinner("Loading markdown files..."):
+        # Walk through directory
+        for root, dirs, files in os.walk(source_dir):
+            for file in files:
+                if file.endswith(".md"):
+                    file_path = os.path.join(root, file)
+                    try:
+                        with open(file_path, 'r', encoding='utf-8') as f:
+                            lines = f.readlines()
+                            if not lines: continue
+                            url = lines[0].strip()
+                            content = "".join(lines[1:]).strip()
+                            data.append({
+                                "filename": file,
+                                "url": url,
+                                "content": content
+                            })
+                    except Exception:
+                        continue
+                        
+    df = pd.DataFrame(data)
+    
+    # Chunking function
+    def chunk_text(text, chunk_size=800, overlap=150):
+        chunks = []
+        if not text: return chunks
+        start = 0
+        text_len = len(text)
+        while start < text_len:
+            end = start + chunk_size
+            chunk = text[start:end]
+            chunks.append(chunk)
+            step = chunk_size - overlap
+            if step <= 0: step = 1
+            start += step
+        return chunks
+
+    # Chunking
+    chunked_data = []
+    with st.spinner(f"Chunking {len(df)} documents..."):
+        for index, row in df.iterrows():
+            content = row.get('content', '')
+            if not isinstance(content, str): content = ""
+            text_chunks = chunk_text(content)
+            for i, chunk_content in enumerate(text_chunks):
+                if not chunk_content.strip(): continue
+                chunked_data.append({
+                    "chunk_id": f"{row['filename']}_{i}",
+                    "source_url": row['url'],
+                    "content": chunk_content.strip(),
+                    "filename": row['filename'],
+                    "url": row['url'] # Redundant but safe
+                })
+    
+    df_chunks = pd.DataFrame(chunked_data)
+    
+    # Embeddings
+    if not os.environ.get("OPENAI_API_KEY"):
+        st.error("OpenAI API Key needed for data generation!")
+        st.stop()
+        
+    client = openai.OpenAI()
+    
+    # Batch processing
+    batch_size = 100 # Safe for OpenAI
+    embeddings = []
+    
+    progress_bar = st.progress(0)
+    total_chunks = len(df_chunks)
+    
+    for i in range(0, total_chunks, batch_size):
+        batch = df_chunks.iloc[i:i+batch_size]['content'].tolist()
+        try:
+            response = client.embeddings.create(input=batch, model="text-embedding-3-small")
+            batch_embeddings = [data.embedding for data in response.data]
+            embeddings.extend(batch_embeddings)
+            
+            # Update progress
+            progress = min(1.0, (i + batch_size) / total_chunks)
+            progress_bar.progress(progress)
+            
+        except Exception as e:
+            st.error(f"Error generating embeddings: {e}")
+            st.stop()
+            
+    df_chunks['embedding'] = embeddings
+    
+    # Save for next time
+    df_chunks.to_pickle(data_path)
+    
+    st.success("Data generation complete! Reloading...")
+    return df_chunks
+
 # Load Data
-if os.path.exists('data/processed_fordham.pkl'):
-    # Optimize loading time by skipping spinner if already in memory (Streamlit cache handles this, but UI effect is good)
-    # We'll just load it quietly
-    df_chunks = load_cached_data()
-else:
-    st.error("Pre-computed data not found! Please run 'python3 prepare_data.py' to generate 'data/processed_fordham.pkl'.")
-    st.stop()
+df_chunks = load_data()
 
 # Initialize Chat History
 if "messages" not in st.session_state:

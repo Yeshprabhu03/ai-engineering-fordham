@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/fordham-name-use-of-name-seal-and-insignia
+
+# Student Handbook: Fordham Name-Use of Name, Seal and Insignia
+
+The University name and seal are owned by Fordham University. Faculty, students, staff and alumni share in the reputational benefits associated with them, and also share in the responsibility to ensure correct use. Students may use Fordham's name to identify their attendance at Fordham and in connection with the University-sanctioned clubs and organizations registered with the Office for Student Involvement. (Recognized student club names cannot include "Fordham," "Ram," or anything Fordham related except if "at Fordham" is attached to the end of the club name to designate location). Students may not use their University status or the University's name, trademarks, seals, emblem, insignia or facilities in any manner which could be construed as implying University endorsement of any product, project, group or service.

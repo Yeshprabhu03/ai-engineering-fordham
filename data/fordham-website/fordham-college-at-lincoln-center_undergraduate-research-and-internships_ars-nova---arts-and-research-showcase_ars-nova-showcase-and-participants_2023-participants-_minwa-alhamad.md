@@ -1,0 +1,13 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2023-participants-/minwa-alhamad
+
+# Minwa Alhamad
+
+**Major:** Anthropology, Political Science
+
+**Biography:** Minwa Alhamad was born and raised in Kuwait before moving to Boston, Massachusetts in 2011. She is a Senior graduating in May 2023 majoring in Anthropology and Political Science. Her inquiry into the lives and experiences of Queer Arabs began in her freshman year when she took an Anthropology of Gender and Sexuality class. After graduating, Minwa plans to continue working on this ethnographic research in hopes of getting a PhD in Anthropology.
+
+**Project Title:** Forging Community: The Experiences of Queer Arab International Students in the United States
+
+**Faculty Mentor:** Aseel Sawalha, Department of Anthropology
+
+**Abstract:** In the beginning, this research project was about non-belongingness and the feelings of constant displacement, whether Queer Arab international students were in the US or in their home countries. Using interviews as the main method of this ethnography, interviewees transformed the project from being about non-belongingness to being about forging communities. Social media was a big factor in this, particularly snapchat, where Queer and Trans Arabs, who felt comfortable in the privacy it entailed, were able to express themselves and find other Queer Arabs they could interact with. Queer Arab international students struggled expressing their queerness with other Arab international students and their “Arabness” with Queer American students. Yet, each interviewee recounted that they had several other Queer Arab friends. These friendships were first fostered through queer arab slang, a niche meme culture, and a common shared understanding of each other’s experiences. Queer Arab international students are constantly fostering communities and relationships with one another whether in the US or in their home countries. They have a constant desire to feel seen, not by the masses, but by a group of people who understood and shared their positionality and experience. This project also attempts to explore what post-identity could look like. While the identities of “Queer” and “Arab” and their intersections were a vital aspect in answering the research questions, it also opened the discussion of how interviewees could be reduced to a set of basic identities by an ethnographer. This research project does not create or explore an entirely new framework but attempts to critique the emphasis on identity while simultaneously questioning and needing identity to answer the main question.

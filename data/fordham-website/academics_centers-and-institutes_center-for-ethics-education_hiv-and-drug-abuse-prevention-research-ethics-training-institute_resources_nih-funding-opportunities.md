@@ -1,0 +1,5 @@
+https://www.fordham.edu/academics/centers-and-institutes/center-for-ethics-education/hiv-and-drug-abuse-prevention-research-ethics-training-institute/resources/nih-funding-opportunities
+
+# NIH Funding Opportunities
+
+[The Ethical, Legal and Social Implications (ELSI) Research Program Funding Opportunities](http://www.genome.gov/ELSI/#al-3)[Office of Research Integrity, Research on Research Integrity Program](https://ori.hhs.gov/extramural-research)[The Fogarty International Center](https://www.fic.nih.gov/Funding/Pages/Fogarty-Funding-Opps.aspx)[High Priority HIV and Substance Use Research (R01 Clinical Trial Optional)](https://grants.nih.gov/grants/guide/rfa-files/RFA-DA-22-040.html)[The Greenwall Foundation (Funding Bioethics Research)](https://greenwall.org/)[The Gilead Foundation](https://www.gilead.com/purpose/giving/funding-requests/apply-north-america)[Arcus Foundation](https://www.arcusfoundation.org/our-support/)[National Science Foundation](https://beta.nsf.gov/funding)[National Institutes of Health Grants and Funding](https://www.nih.gov/grants-funding)[Substance Abuse and Mental Health Services Administration (SAMHSA)](https://www.samhsa.gov/)

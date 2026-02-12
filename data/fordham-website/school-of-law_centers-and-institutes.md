@@ -1,0 +1,15 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes
+
+# School of Law Centers and Institutes
+
+Shaping Law and Policy
+
+Whether advancing scholarship on critical legal issues, providing hands-on training for future lawyers, or delivering much-needed legal advice to the vulnerable and underrepresented, our centers, institutes, and programs make a real difference. These efforts are central to [our mission as a Jesuit institution](https://www.fordham.edu/about/mission-statement/) and connect us to a long Catholic tradition of study, service, and impact. Our faculty engages closely with students on a wide range of topics, from fashion law to privacy controversies born of the internet age, social justice, racial and gender inequality, complex and evolving intellectual property matter, national security, corporate law, and human rights.
+
+![Neuroscience and Law Center event w Prof. Denno](/media/home/schools/school-of-law/Neuro-center-8693-pc-2000x1333.jpg)
+
+
+[Brendan Moore Trial Advocacy Center](/school-of-law/centers-and-institutes/brendan-moore-trial-advocacy-center/)[Center for Judicial Events & Clerkships](/school-of-law/centers-and-institutes/center-for-judicial-events--clerkships/)[Center on Asian Americans and the Law](/school-of-law/centers-and-institutes/center-on-asian-americans-and-the-law/)[Center on European Union Law](/school-of-law/centers-and-institutes/center-on-european-union-law/)[Center on Race, Law and Justice](/school-of-law/centers-and-institutes/center-on-race-law-and-justice/)[Competition Law Institute](/school-of-law/centers-and-institutes/competition-law-institute/)[Conflict Resolution and Alternative Dispute Resolution Program](/school-of-law/centers-and-institutes/conflict-resolution-and-alternative-dispute-resolution-program/)[Corporate Law Center](/school-of-law/centers-and-institutes/corporate-law-center/)[Fashion Law Institute](https://fashionlawinstitute.com/)
+
+-
+[Feerick Center for Social Justice](/school-of-law/centers-and-institutes/feerick-center-for-social-justice/) [Fordham CLIP](/school-of-law/centers-and-institutes/fordham-clip/)[Institute on Religion, Law and Lawyer's Work](/school-of-law/centers-and-institutes/institute-on-religion-law-and-lawyers-work/)[Intellectual Property Institute](https://fordhamipinstitute.com/)[Leitner Center for International Law and Justice](https://www.leitnercenter.org/)[National Center for Access to Justice](https://ncaj.org/)[Neuroscience and Law Center](/school-of-law/centers-and-institutes/neuroscience-and-law-center/)[Public Interest Resource Center](/school-of-law/centers-and-institutes/public-interest-resource-center/)[Stein Center for Law and Ethics](/school-of-law/centers-and-institutes/stein-center-for-law-and-ethics/)[Urban Law Center](https://www.urbanlawcenter.org/)[Voting Rights and Democracy Project](https://fordhamdemocracyproject.com)

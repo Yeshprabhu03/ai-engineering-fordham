@@ -1,0 +1,7 @@
+https://www.fordham.edu/academics/departments/theatre/faculty/adjunct-faculty/john-johnson
+
+# John Johnson
+
+Nine-time Tony Award–winning producer who has worked on over 60 Broadway productions including *Vanya and Sonia and Masha and* *Spike; A Gentleman’s Guide to Love &* *Murder; A Raisin in the Sun; A View From the* *Bridge; Skylight; The Humans; Hello, Dolly!;* *The Lehman Trilogy; *and the most Tony nominated play of all time, *Stereophonic*.
+
+Other highlights include *Good Night and Good Luck *(the highest grossing Broadway play of all time), *John Proctor Is The Villain* (a play that "ignited its own cultural moment"), a foursome of productions that were part of the "commercial off-Broadway renaissance" *Danny and the Deep Blue Sea*, *Hold on to Me Darling,* *VANYA* and *Gruesome Playground Injuries* and *To Kill A Mockingbird* at Madison Square Garden (the only Broadway production to play the World's Most Famous Arena). This Season: *Oedipus*; *All Out*; *Dog Day Afternoon* (Broadway); *John Proctor Is The Villain *(The Royal Court) Next Season: *Dreamgirls*. Graduate and professor: Fordham University at Lincoln Center. Co-founder of WJP, a Broadway producing, management and live events company. @WJPLive

@@ -1,0 +1,15 @@
+https://www.fordham.edu/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/strategic-research-consortium-on-global-studies/affiliates/clara-e-rodriguez
+
+# Clara E. Rodriguez
+
+Professor, Sociology and Anthropology Department, Arts and Sciences
+
+![](/media/home/departments-centers-and-offices/research-consortium-on-global-studies/clara-rodriguez-180x180.jpg)
+
+Areas of Research:
+
+Impact of US TV media in other countries, Environmental Issues in Puerto Rico and the Canary Islands, Latinos/as, Hollywood & Latin American film stars in other countries
+
+Dr. [Clara E. Rodríguez](/academics/departments/sociology-and-anthropology/faculty/clara-e-rodriguez/) is a Professor of Sociology at Fordham University's College at Lincoln Center. She is the author of numerous books including: *Heroes, Lovers and Others* (Washington, D. C.: Oxford University Press, 2008; Smithsonian Institution Press, 2004); *Changing Race: Latinos, The Census and the History of Ethnicity in the United States* (New York: New York University Press, 2000); *Hispanics in the Labor Force: Issues and Policies*, with Meléndez, E. and Barry Figueroa, J., eds. (New York: Plenum Press, 1991); Puerto Ricans: Born in the USA (Boulder, CO.: Westview Press, 1991); and *Latin Looks: Images of Latinas and Latinos in U.S. Media* (Boulder, CO: Westview Press, 1997). She is the recipient of numerous research and teaching awards, including the American Sociological Association’s Award for Distinguished Contributions to Research in the Field of Latina/o Studies, her university’s Award for Distinguished Teaching in the Social Sciences, and she was designated “Distinguished Lecturer” by the Organization of American Historians.
+
+She has been a Visiting Professor at Columbia University, MIT, and Yale University. She has also been a Visiting Scholar at the Russell Sage Foundation and a Senior Fellow at the Smithsonian Institution’s National Museum of American History. Previously, she was the Dean of Fordham University's College of Liberal Studies. She has written numerous articles on Latinos in the United States and is co-author of The Culture and Commerce of Publishing in the 21st Century, Stanford University Press (2007) which received the Sigma Nu National Jesuit Book Award in 2007 and was translated into Chinese. She has also been a consultant to a number of television shows and documentaries, most recently, “Dora, the Explorer” and “Sesame Street.” She was elected to a three-year term on the American Sociological Association’s Governing Council and was selected as one of the “100 Most Influential Hispanics in the nation” by Hispanic Business, October 2007. She was also appointed to the Citizens’ Stamp Advisory Committee for a three-year term by the Postmaster General and is a member of the National Council of La Raza Board of Directors.

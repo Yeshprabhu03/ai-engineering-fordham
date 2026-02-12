@@ -1,0 +1,30 @@
+https://www.fordham.edu/academics/departments/psychology/about-us/research-lab-groups/culture-migration-and-community/meet-the-cmc-research-group
+
+# Meet the CMC Research Group
+
+![Group of colleagues sitting around picnic table on a balcony](/media/home/departments-centers-and-offices/psychology/PXL_20230506_215420879.jpg)
+
+
+![CMC at SPSSI 2018 in San Diego, CA](/media/review/content-assets/migrated/images/CMC_at_SPSSI_2018_in_San_Diego__CA.jpg)
+
+
+![CMC lab at SPSSI conference](/media/review/content-assets/migrated/images/CMC_meet_the_lab_1.jpg)
+
+
+**Zahara Shidad** joined the Clinical Research Methods program in 2022. Her interests lie in Global Mental Health, where she plans to delve into the intricate interplay of sociocultural processes, ecological factors, trauma, health disparities, and the profound role of resilience in nurturing the mental well-being of diverse populations. With particular interest in immigrant communities, asylum seekers, and refugees, aiming to shed light on their mental health outcomes and overall well-being. Currently, Zahara is working on her Master's Thesis, which centers on the subjective well-being of West African Youth in a vibrant Bronx-based community center. Her research aims to uncover valuable insights into their perspectives that shape their mental health and overall wellbeing.
+
+**Rebeca Bayeh **joined the Clinical Psychology Doctoral Program in 2022. Her research interests center on the field of cultural-clinical psychology, with an emphasis on the interconnections between culture, sociopolitical factors, and narratives surrounding mental health. Currently, she is interested in understanding the experiences of neurodivergent immigrants in the US through an intersectional, postcolonial, neurodiversity-affirming lens. Prior to Fordham, Rebeca completed her M.A. at Concordia University (Montreal, Canada), where she explored experiences of discrimination and the psychological distress experienced by university students with self-reported neurodivergencies.
+
+**Laís Granemann** joined the Clinical Psychology Doctoral Program in 2020. Originally from Brazil, she obtained her master's degree in Social-Organizational Psychology from the University of Brasilia, where she studied the acculturation of Brazilian mothers and fathers raising their children in foreign countries. As a recipient of the Emerging Leaders in the Americas Program scholarship, she worked at the University of Windsor, Canada on a research project on post-migration factors associated with mental and physical health in Syrian refugees. Her career goals include combining research and clinical work to promote culturally sensitive health interventions to refugees, immigrants, and other ethnic minority individuals.
+
+**Erzulie Coquillon** joined the Clinical Psychology doctoral program in 2019. Her research interests include global mental health, trauma, and the intersections of law and psychology. Prior to Fordham, she completed a master's degree in Counseling Psychology and a J.D. and worked in private sector and non-profit organizations.
+
+**Ujunwa Anakwenze** entered the Clinical Psychology Doctoral Program in 2018 as a student in the child and family major area of study. Her research and clinical interests include race and culture, global mental health, trauma, bipolar disorder, and interpersonal factors. Ujunwa’s recent projects examine intergenerational transmission of trauma in West African migrants and the role of stigma in generating Black-White disparities in bipolar disorder. Her aim is to become a culturally competent clinician who produces research that promotes the wellbeing of racial/ethnic minorities and other disadvantaged populations.
+
+**Michelle Leon** joined the Clinical Psychology Doctoral Program in 2018. She is interested in investigating the ethnic and cultural factors that affect immigrants’, refugees’, and other underserved minority groups’ wellbeing. Furthermore, she is interested in investigating cultural concepts of psychological distress, specifically, trauma. Her master’s research explores cross-cultural and cross-national differences in self-reported post-traumatic stress symptoms in individuals from a Mexican sample and a U.S. sample. Prior to Fordham, she worked at NYU’s Department of Population Health on an RCT investigation of a technology-based medication adherence intervention for low-income individuals in New York City. Her career goals include promoting cultural competence in psychological assessment and intervention through research and hopes to work with vulnerable, underserved, and marginalized trauma-affected families.
+
+**Aïcha Cissé **entered the Clinical Psychology doctoral program in 2016. She is interested in social and cultural factors that affect mental health and wellbeing among immigrant and ethnic minority populations, especially at-risk youths and their families. Her master's thesis research project is a qualitative study of parent-child acculturation dissonance among West African immigrant families. Aïcha's theoretical orientation in psychotherapy is eclectic, leaning towards humanistic and integrative approaches. One of her main goals as a scholar and future clinician is to promote social justice and cultural sensitivity in psychology research and practice.
+
+**CMC Alumni:**
+
+**Camille Zolopa, M.S.**(2021-2023). Now in the*Counseling Psychology Ph.D. program at McGill University*(Montreal, Canada)**Sagal Ahmed, Ph.D.**(2015 - 2021). Now in the*Department of Psychiatry, Icahn School of Medicine at Mount Sinai***Sara Romero, Ph.D.**(2013 - 2019). Now in the*Department of Global Health and Social Medicine, Harvard Medical School, Harvard University***Candace Mootoo, Ph.D.**(2014 - 2019). Now working as a Psychotherapist at*Judith S. Kaye High School/Co-Op Tech***Sonia Roubeni, Ph.D.**(2012 - 2015). Now working as the VP of Insights and Behavioral Science at*Yawye.ai*

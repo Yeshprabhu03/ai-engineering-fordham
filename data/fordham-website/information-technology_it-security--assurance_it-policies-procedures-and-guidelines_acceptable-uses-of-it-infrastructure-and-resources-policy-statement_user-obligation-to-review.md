@@ -1,0 +1,5 @@
+https://www.fordham.edu/information-technology/it-security--assurance/it-policies-procedures-and-guidelines/acceptable-uses-of-it-infrastructure-and-resources-policy-statement/user-obligation-to-review
+
+# User Obligation to Review
+
+The University will periodically update this Policy. By accessing and using the IT Resources, each User represents and acknowledges that the User is obligated to review the Policy and any subsequent revisions. Failure to read this Policy and review any revisions may result in the revocation of IT Resources privileges. Changes to the Policy are noted in the [Revision History](/information-technology/it-security--assurance/it-policies-procedures-and-guidelines/acceptable-uses-of-it-infrastructure-and-resources-policy-statement/implementation-information-and-revision-history/#d.en.117868) table.

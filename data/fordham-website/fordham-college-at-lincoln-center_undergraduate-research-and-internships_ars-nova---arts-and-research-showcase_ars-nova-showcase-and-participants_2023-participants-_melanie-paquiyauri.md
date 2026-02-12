@@ -1,0 +1,15 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2023-participants-/melanie-paquiyauri
+
+# Melanie Paquiyauri
+
+![Melanie Paquiyauri](/media/home/schools/fordham-college-at-lincoln-center/Melanie-Paquiyauri.jpg)
+
+**Major:** Digital Technologies and Emerging Media, Spanish Studies
+
+**Biography:** Melanie Paquiyauri is a senior completing a B.A. in Digital Media and Emerging Technologies and a B.A. in Spanish Studies. She has also studied abroad at the Universidad del Salvador in Buenos Aires, Argentina. As a recipient of the Dean's Summer Research Grant, she conducted qualitative research on unequal access to digital devices and skills among Bronx residents. As the development intern at Network 20/20, she utilizes digital media to streamline fundraising and donor relations.
+
+**Project Title:** Digital Inequalities in the Bronx
+
+**Faculty Mentor:** Dr. Jessica Baldwin-Philippi, Department of Communication and Media Studies
+
+**Abstract:** About 93% of U.S. adults had access to the Internet in 2021 (Pew Research Center, 2021). However, access to a computer or smartphone does not automatically ensure effective use of the Internet. Effective Internet use, known as "digital competencies” include activities such as job searches online and content creation; these are necessary for success in today's job markets, educational institutions, and social networks (Vuorikari et al., 2022). The disparities between those who have or do not have “digital competencies” reflect traditional socio-economic disparities (Battle, 1999; Robinson et al., 2015). This study explores how one online career readiness program, “Grow with Google”, a program that is funded as a partnership between Google and the City University of New York (CUNY), teaches students at Bronx Community College (BCC) digital literacy. As significant portions of BCC students are Black and Hispanic/Latinx (93%), financial aid recipients (72%), and first-generation students (46%) (Bronx Community College, 2020), the program offers an ideal sample for a study of “digital competencies”. Through semi-constructed interviews with past and current participants, I ask students about (1) their perceptions of “digital competencies” necessary to succeed as a student and job seeker, (2) their perceptions of the digital competencies they believe they have, and (3) their expectations, experiences, reflections, and feedback on Google’s program. Students generally emphasized information seeking, data literacy, and communication (finding information and fact-checking) as necessary; they also claimed this as one of their stronger skills. They tended to feel less confident about digital content creation, specifically editing photos and videos. Ultimately students agreed that the most useful skill they learned was resume creation and they hope that the program continues to focus on career readiness.

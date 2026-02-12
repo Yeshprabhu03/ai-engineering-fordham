@@ -1,0 +1,15 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2021-showcase-and-participants/paloma-rodriguez-paramo
+
+# Paloma Rodriguez Paramo '21
+
+![Paloma Rodriguez Paramo](/media/review/content-assets/migrated/images/Paloma_Rodriguez_Paramo.jpg)
+
+**Major: **Integrative Neuroscience**Bio: **I am a Senior at Fordham University Lincoln Center majoring in Cellular and Molecular Neuroscience and minoring in Business Administration and Bioinformatics. I am originally from Madrid, Spain, but I have been living in the USA for 6 years now. My family currently lives in Houston, TX. I work as an EMT and for the NeuroRights Initiative at Columbia University.
+
+**Title of Research:**
+
+[Investigating the Therapeutic Effects of Injectable Hydrogel for Controlled Release of Thrombin-Inhibitor after Spinal Cord Injury](https://docs.google.com/presentation/d/11sKyOKmwPMKJJBj50mmhy57AGliZ7Uxcvd5jSHIH70Q/edit?usp=sharing)
+
+**Mentor:**Dr. Martin Di Grandi
+
+**Abstract:**After spinal cord injury (SCI), a coagulation cascade becomes activated and the levels of one of its most important components, thrombin, become significantly elevated for several days. It was found that thrombin produces histological changes that mimic inflammation and scar tissue formation by glial cells when injected into healthy rat brains. Therefore, non-controlled levels of thrombin could reduce neural circuitry recovery following SCI. The Horner lab hypothesized that controlled thrombin inhibition after SCI will lead to reduced glial cell activation and faster recovery in rats. A common thrombin inhibitor is the protein Bivalirudin. A peptide that represents a part of the amino acid sequence of Bivalirudin was generated and the sequence was tested for its ability to inhibit thrombin and was optimized for maximal inhibition. In this study, rats were trained to perform forelimb reaching and gait tasks and then the rats’ dominant paw movement was inhibited through an induced spinal cord injury. There was a control group with a SCI injury and a surgical control (n=7), an experimental group with a SCI injury and a hydrogel injection (n=7), and an experimental group with a SCI injury, a hydrogel injection, and a thrombin inhibitor (n=8). After recovery, the lesion tissue was analyzed and behavioral data was collected and recorded on video through the reaching and gait tasks outlined above. Originally, my project within the lab would have been to help generate data in this study, however, due to COVID-19, I have been analyzing the videos with the behavioral data, performing statistical analysis, and writing a literature review that will analyze the previous and current research performed at the Horner lab.

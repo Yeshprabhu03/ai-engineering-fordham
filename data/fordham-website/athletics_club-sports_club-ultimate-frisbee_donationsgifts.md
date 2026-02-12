@@ -1,0 +1,23 @@
+https://www.fordham.edu/athletics/club-sports/club-ultimate-frisbee/donationsgifts
+
+# Donate to Club Ultimate Frisbee
+
+## Keep in Touch with Club Ultimate Frisbee
+
+![Fordham Ram Logo](/media/review/content-assets/migrated/images/fordham_ram.jpg)
+
+**Stay Updated**
+
+[Update Your Contact Information](http://forever.fordham.edu/s/1362/rd/index.aspx?sid=1362&gid=1&pgid=94&cid=256%23/PersonalProfile)
+
+Fill in your contact information to receive regular updates from the Office of Alumni Relations.
+
+Interested in Giving a Gift to Fordham Ultimate Frisbee?
+
+[Make a Gift](https://www.givecampus.com/campaigns/28357/donations/new)
+
+Select the Fund Category "Athletics"
+
+Select the Fund "Club Sports - Ultimate Frisbee"
+
+If Alumni are interested in connecting with the current Fordham Club Ultimate Frisbee players, contact the President of Fordham Club Ultimate Frisbee, who is responsible for Alumni Relations.

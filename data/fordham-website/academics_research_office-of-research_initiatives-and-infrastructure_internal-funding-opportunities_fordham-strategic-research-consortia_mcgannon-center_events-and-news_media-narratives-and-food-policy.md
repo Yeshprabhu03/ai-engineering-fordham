@@ -1,0 +1,15 @@
+https://www.fordham.edu/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/mcgannon-center/events-and-news/media-narratives-and-food-policy
+
+# Media Narratives and Food Policy
+
+![Media Narratives and Food Policy](/media/review/content-assets/migrated/images/Screen_Shot_2020_06_15_at_5.26.08_PM.png)
+
+Join the McGannon Center staff for lunch and a discussion by Garrett Broad on media narratives and food policy on Friday, January 26, 2018. We’ll be in room 3-08 at Fordham’s Law School, located at 150 West 62nd St., New York, NY 10023. Lunch will be served at 12:30 p.m. with discussion to follow.
+
+**Synopsis**: Philanthrocapitalism has been conceptualized as a new way of doing philanthropy, a strategy that takes business-thinking from the for-profit capitalist world and applies it to social projects and programs, spurring innovation and scaling-up solutions to global challenges along the way. This talk explores the intersections between philanthrocapitalism and media, using the work of the Bill and Melinda Gates Foundation and other major power-players in the humanitarian world as examples, with a particular focus on food and agricultural policy. From the use of celebrity partnerships to the funding of specific filmmaking and journalistic endeavors, philanthrocapitalists have worked hard to set the media and policy agendas in a way that matches their social concerns and aligns with their metrics-oriented and technologically-savvy styles.
+
+More of Broad’s work on this topic can be found in the [Routledge Companion to Media and Humanitarian Action](https://www.routledge.com/Routledge-Companion-to-Media-and-Humanitarian-Action/Andersen-de-Silva/p/book/9781138688575), edited by Fordham’s own [Robin Andersen](https://faculty.fordham.edu/andersen/).
+
+**Special Preview:** [Click here to read Chapter 2 of his book, More Than Just Food: Food Justice and Community Change](http://www.mcgannoncenter.com/wp-content/uploads/2018/01/Broad_More_Than_Just_Food_Ch2_Food_Systems.pdf)
+
+** Garrett Broad** is an Assistant Professor in the Department of Communication and Media Studies at Fordham University in New York City. His research investigates the role of storytelling and communication technology in promoting networked movements for social justice. Much of his work focuses on local and global food systems as he explores how food can best contribute to improved neighborhood health, environmental sustainability, and the rights and welfare of animals. An engaged scholar, Professor Broad produces theoretical and empirical work for academic audiences, develops collaborative research projects with community-based organizations, and strives for teaching excellence in the classroom and across digital spaces.

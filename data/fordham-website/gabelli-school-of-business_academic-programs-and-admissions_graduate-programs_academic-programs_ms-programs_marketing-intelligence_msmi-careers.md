@@ -1,0 +1,43 @@
+https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/marketing-intelligence/msmi-careers
+
+# M.S.M.I. Careers
+
+
+At M.S.M.I., we’ve seized the opportunity to train marketing professionals with the combination of laser-focused skills and big-picture thinking that employers are looking for.
+
+![Masters in Marketing Intelligence Triangle](/media/home/schools/gabelli-school-of-business/Masters-in-Marketing-Intelligence-Triangle.jpg)
+
+The approach seems to be working. Our graduates certainly are.
+
+## Proven success
+
+Our graduates have been hired for marketing positions across a wide range of companies, from large multinational companies to smaller start-ups.
+
+- Accenture
+- American Express
+- Amazon
+- Bank of New York
+- Booz Allen Hamilton
+- BrandTuitive Branding Agency
+- Digitas
+- Estee Lauder
+- FCB Health
+- GAP, Inc
+- GroupM (WPP Group)
+- Grubhub
+- IBM
+- Initiative Media (Interpublic Group)
+- Kantar Research – Healthcare
+- Kraft Foods
+- L'Oréal
+- McCann Worldgroup (IPG)
+- Media.Monks (S4)
+- Mindshare (WPP Group)
+- NBCUniversal
+- Reckitt Benckiser
+- Rocket Fuel Digital
+- UM Worldwide (Interpublic Group)
+
+### Job opportunities
+
+With your Master of Science in Marketing Intelligence (M.S.M.I.) degree from the Gabelli School, you will be qualified for opportunities across a variety of marketing-related fields. For detailed job descriptions in these areas, please refer to [Careers in Marketing](/gabelli-school-of-business/faculty/academic-areas/marketing/careers-in-marketing/). You will find over 100 types of positions to help you plan a career path.

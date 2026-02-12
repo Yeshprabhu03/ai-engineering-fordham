@@ -1,0 +1,8 @@
+https://www.fordham.edu/academics/departments/theatre/faculty/denzel-washington-endowed-chairs-in-theatre/dominique-morisseau
+
+# Dominique Morisseau
+
+![Dominique Morisseau](/media/home/departments-centers-and-offices/theatre/Dominique-Morisseau-th.jpg)
+
+
+**Dominique Morisseau** is the author of *The Detroit Project, *a three-play cycle that includes* Skeleton Crew (*Atlantic Theater Company/Broadway, Tony Award nominee for Best Play), *Paradise Blue *(Signature Theatre), and *Detroit ’67 *(Public Theater, Classical Theatre of Harlem and NBT). Additional plays include: *Confederates* (Signature Theatre), *Pipeline* (Lincoln Center Theatre), *Sunset Baby (*LAByrinth Theatre), *Blood at the Root *(National Black Theatre), and *Follow Me To Nellie's* (Premiere Stages). She is the Tony Award–nominated book writer on the Broadway musical *Ain’t Too Proud: The Life and Times of the Temptations* (Imperial Theatre) and is currently working on her latest, *Hippest Trip: The Soul Train Musical *(ACT). Her TV/Film credits include: co-producer on *Shameless* (Showtime), the film adaptation of the documentary *STEP* (Fox Searchlight), and consultant on the Netflix animated feature, *Tunga*. She is the recipient of a PoNY Fellowship, a Ford Foundation Art of Change Fellowship, *Variety’s* Women of Impact for 2018, and a MacArthur "Genius" Grant recipient. Her awards include the TEER Trailblazer Award, the Steinberg Playwright Award, Audelco Awards, the NBTF August Wilson Playwriting Award, the Wyndham Campbell Prize, the Edward M. Kennedy Prize for Drama, and two OBIE Awards. In 2022, Dominique was awarded the key to the city by the mayor of Detroit.

@@ -1,0 +1,11 @@
+https://www.fordham.edu/info/25380/undergraduate_academic_integrity_policy
+
+# Academic Integrity Policy
+
+A university, by its nature, strives to foster and recognize originality of thought, which can be recognized only when people produce work that is theirs alone, properly acknowledging information and ideas that are obtained from the work of others. It is therefore important that students must maintain the highest standards with regard to honesty, effort, and performance.
+
+As a Jesuit, Catholic university, Fordham is committed to ensuring that all members of the academic community strive not only for excellence in scholarship but also for integrity of character. In the pursuit of knowledge and personal development, it is imperative that students present their own ideas and insights for evaluation, critique, and eventual reformulation. As part of this process, each student must acknowledge the intellectual contributions of others.
+
+## Policy Sections
+
+[1. The Academic Integrity Statement](/resources/policies/academic-integrity-policy/academic-integrity-statement/)[2. Standards of Academic Integrity](/resources/policies/academic-integrity-policy/standards-of-academic-integrity/)[3. The Academic Integrity Committee](/resources/policies/academic-integrity-policy/the-academic-integrity-committee/)[4. Procedures and Timeline for Academic Integrity Violation Reporting](/resources/policies/academic-integrity-policy/procedures-and-timeline-for-academic-integrity-violation-reporting/)[5. Procedure for a Student to Report an Academic Violation](/resources/policies/academic-integrity-policy/procedure-for-a-student-to-report-an-academic-violation/)[6. Sanctions for Violations of Academic Integrity](/resources/policies/academic-integrity-policy/sanctions-for-violations-of-academic-integrity/)[7. The Right to Grieve Grades in Relationship to Violations of Academic Integrity](/resources/policies/academic-integrity-policy/the-right-to-grieve-grades-in-relationship-to-violations-of-academic-integrity/)

@@ -1,0 +1,12 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2020-showcase-and-participants/liam-doolan
+
+# Liam Doolan '19
+
+![Liam Doolan](/media/review/content-assets/migrated/images/Doolan_photo_1.jpg)
+
+
+**Major:** English and Spanish Language and Literature**Bio:** Liam Doolan hails from Guilford, Connecticut. An English and Spanish major interested in all things musical, he splits his schedule working part-time, music directing the Fordham F#’s, and continuing his research with the University Honors Program. He intends to stay in the city after graduation in an as-of-yet undisclosed (read: unknown) role.
+
+**Title of Research:** The Hunt for the Showstopper: An Approach to Broadway's Biggest Songs
+
+**Mentor:** Dr. Kirk Quinsland**Abstract: **The Showstopper is a phenomenon of musical theatre. It is a number that sticks with the audience and worms its way into the ears and voices of the theatrically literate public. Yet there is no great depth of studies about these curious performance pieces. Rather, the theatre community acknowledges their existence and continues to debate what qualifies as a showstopper without questioning the significance of the act itself. This thesis grapples with the concept of the showstopper, defines its parameters, explains the various ways in which the performance act is achieved, and strives to explain how the showstopper does the work that makes it. The project centers around five watershed musicals: *Show Boat* (1927), *Oklahoma!* (1943), *West Side Story* (1957), *Gypsy* (1959), and *Fiddler on the Roof* (1964). Each musical has one showstopper studied in this project, save for *Fiddler on the Roof*, which has two. This research compounds the fields of musicology, performance theory, and linguistics to introduce a new perspective on an unrecognized cultural experience. The significance of this project lies in the use of theory to explain the differing forms of work done on the viewing audience, which in turn creates the showstopper. The findings of this project are as diverse as the works that constitute it: rather than identifying a ‘formula’ of a successful showstopper, the research suggests a multilayered approach to ‘good’ musical theatre, which in turn is exposed to the subjectivity of the Broadway audience, where the showstopper can occur (or not).

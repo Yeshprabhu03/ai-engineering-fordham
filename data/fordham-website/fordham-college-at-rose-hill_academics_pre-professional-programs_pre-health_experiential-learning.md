@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-rose-hill/academics/pre-professional-programs/pre-health/experiential-learning
+
+# Pre-Health Professions Experiential Learning
+
+High academic achievement and exam scores are not the only important factors for admission into a health profession program. The AAMC notes 15 [core competencies](https://students-residents.aamc.org/real-stories-demonstrating-premed-competencies/premed-competencies-entering-medical-students) for entering medical students (although these translate to any student entering a health-related program), which fall into four broad categories: Interpersonal, Intrapersonal, Thinking and Reasoning, and Science. These skills are developed through an intentional dedication of your time and effort to relevant experiences that interest you. Gaining hands-on clinical experience and getting involved in your community can bolster these competencies and provide you with insight about the real-world operations of the health profession.
+
+Gaining clinical experience is extremely important for both strengthening your application to a professional school as well as helping you discern where your interests, strengths, and weaknesses lie in your particular health-related profession. Shadowing and volunteering opportunities, in which you interface with patient populations, are particularly helpful for your development as a health professional. The AAMC offers [suggestions](https://students-residents.aamc.org/applying-medical-school/article/shadowing-doctor/) about securing and making the most of your shadowing opportunities.
+
+Shadowing is not the only avenue for gaining clinical experience. You may also consider volunteering as a caregiver or other direct care professional. The AAMC provides [additional suggestions](https://students-residents.aamc.org/choosing-medical-career/article/five-ways-gain-experience-without-shadowing/) for clinical experience other than shadowing.

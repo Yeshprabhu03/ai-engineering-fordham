@@ -1,0 +1,13 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2018-womens-summit/pioneering-women-in-philanthropy-at-fordham-2018/brenda-l-gill
+
+# Brenda L. Gill
+
+![Brenda Gill](/media/review/content-assets/migrated/images/Brenda_Gill.jpg)
+
+Brenda L. Gill, LAW ’95
+
+Brenda L. Gill is the deputy general counsel at Sandata Technologies LLC. She joined the company in September 2018 after serving as a partner at Burgher Gray, where she created the law firm’s technology and intellectual property practice group. She has more than 23 years of business and legal experience, having worked in large corporate law firms, as a trusted in-house legal and business adviser, as well as in various capacities as a business executive in her own right. She leverages her unique mix of experience for the benefit of her clients to solve complex business and legal challenges with strategic simplicity. She has represented clients in numerous corporate and commercial transactions, with a focus on information technology, data analytics, IP licensing, and large outsourcing deals. She has also provided legal advice and counsel in numerous mergers, acquisitions, divestitures, and leveraged buyouts involving public and private companies, both from a law firm and an in-house perspective.
+
+Prior to joining Burgher Gray, Gill was employed by RGP, a global business consulting firm, where she served as a national business development director structuring consulting deals. She also worked for more than six years at Thomson Reuters in both legal and business roles, first serving as vice president and principal legal counsel for global accounts, with a focus on complex market data and IP licensing deals, and then as head of strategy for the finance and risk global sales channel. Prior to working at Thomson Reuters, she served as assistant general counsel at Horizon Healthcare Services Inc., where she focused on large technology and IP licensing deals.
+
+She began her legal career as a corporate and M&A associate, most recently at Sidley Austin in New York City. She was also an adjunct professor at CUNY and St. Joseph’s College. A graduate of Fordham Law School, she currently serves on the board of directors of the Fordham Law Alumni Association and is the founder and chair of school’s Alumni Attorneys of Color affinity group.

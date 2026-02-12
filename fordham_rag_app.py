@@ -143,7 +143,7 @@ def load_data():
         if os.path.exists(zip_path):
             with st.spinner("Unzipping source data..."):
                 with zipfile.ZipFile(zip_path, 'r') as z:
-                    z.extractall("data/")
+                    z.extractall(".")
         else:
             st.error(f"Source data not found! Please ensure '{zip_path}' exists in the repo.")
             st.stop()

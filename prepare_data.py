@@ -95,19 +95,28 @@ def generate_embeddings(df_chunks):
     print(f"Processing {len(texts)} chunks in {total_batches} batches...")
     
     for i in range(0, len(texts), batch_size):
-        time.sleep(0.2) # Rate limit safety
-        batch = texts[i:i + batch_size]
-        try:
-            response = client.embeddings.create(input=batch, model=MODEL_NAME)
-            batch_embeddings = [item.embedding for item in response.data]
-            embeddings.extend(batch_embeddings)
-            print(f"Batch {i//batch_size + 1}/{total_batches} done.")
-        except Exception as e:
-            print(f"Error in batch {i}: {e}")
-            # Try individually as fallback or retry logic could be added here
-            # For simplicity, we might just fail or fill with zeros, but failing is better to know.
-            raise e
-            
+        # Retry logic
+        max_retries = 5
+        for attempt in range(max_retries):
+            try:
+                time.sleep(0.2) # Base rate limit safety
+                batch = texts[i:i + batch_size]
+                response = client.embeddings.create(input=batch, model=MODEL_NAME)
+                batch_embeddings = [item.embedding for item in response.data]
+                embeddings.extend(batch_embeddings)
+                print(f"Batch {i//batch_size + 1}/{total_batches} done.")
+                break # Success
+            except Exception as e:
+                err_str = str(e).lower()
+                if "rate_limit" in err_str or "429" in err_str:
+                     if attempt < max_retries - 1:
+                        wait = 2 ** attempt * 5
+                        print(f"Rate limit hit. Retrying in {wait}s...")
+                        time.sleep(wait)
+                        continue
+                print(f"Error in batch {i}: {e}")
+                raise e
+                
     return embeddings
 
 def main():

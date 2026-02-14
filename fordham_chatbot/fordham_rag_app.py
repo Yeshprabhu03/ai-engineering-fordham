@@ -1,3 +1,4 @@
+print(">>> SCRIPT LOADING: Starting imports...")
 import streamlit as st
 import pandas as pd
 import os

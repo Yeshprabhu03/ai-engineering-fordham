@@ -22,4 +22,5 @@ dependencies = [
     "tenacity>=9.1.2",
     "torch==2.2.2",
     "numpy<2",
+    "audio-recorder-streamlit>=0.0.10",
 ]

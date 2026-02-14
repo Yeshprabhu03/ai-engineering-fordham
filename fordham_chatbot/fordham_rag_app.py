@@ -151,10 +151,19 @@ st.markdown(f"""
         transition: all 0.2s ease;
         width: 100%;
     }}
+    /* Constrain the Chat Input to match the main content width */
+    .stChatInput {{
+        max-width: 800px;
+        margin-left: auto;
+        margin-right: auto;
+        left: 0;
+        right: 0;
+    }}
+
     /* Floating Microphone Positioning */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
-        bottom: 28px; /* Fine-tuned vertical alignment */
+        bottom: 28px;
         z-index: 999999;
         width: auto !important;
         height: 0px !important;
@@ -162,27 +171,22 @@ st.markdown(f"""
         overflow: visible !important;
     }}
     
-    /* Desktop (Width > 800px): Anchor to the right edge of the 800px container */
+    /* Desktop: Calculate position based on the centered 800px container */
     @media (min-width: 801px) {{
         div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
             /* 
-               Logic: Screen Center (50vw) 
-               + Half Container (400px) = Right Edge of Container
-               - Offset inside (60px) 
-               But 'right' CSS property measures from Window Right Edge.
-               So: Window Right (0) to Container Right is (50vw - 400px).
-               We want to be 60px further left (inside).
-               So Right Value = (50vw - 400px) + 60px.
+               Right Distance = (Window Width - Container Width) / 2 + Offset from right of container
+               Offset: we want it ~60px left of the container's right edge.
             */
-            right: calc(50vw - 400px + 65px) !important;
+            right: calc((100vw - 800px) / 2 + 55px) !important;
             left: auto !important;
         }}
     }}
     
-    /* Mobile/Tablet (Width <= 800px): Anchor effectively to right window edge */
+    /* Mobile: Simply anchor to right */
     @media (max-width: 800px) {{
         div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
-            right: 65px !important;
+            right: 60px !important;
             left: auto !important;
         }}
     }}

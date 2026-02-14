@@ -28,8 +28,22 @@ def load_cached_data():
 # --- Main App Logic ---
 
 # Check/Load Logo
-# Logo URL
-logo_src = "https://www.fordham.edu/images/Fordham_University_Logo_Maroon_RGB.png"
+import base64
+
+def get_base64_encoded_image(image_path):
+    with open(image_path, "rb") as img_file:
+        return base64.b64encode(img_file.read()).decode('utf-8')
+
+# Paths (Relative to this script)
+current_dir = os.path.dirname(os.path.abspath(__file__))
+logo_path = os.path.join(current_dir, 'data', 'fordham_logo.png')
+
+# Fallback to URL if local file doesn't exist (though we just downloaded it)
+if os.path.exists(logo_path):
+    logo_base64 = get_base64_encoded_image(logo_path)
+    logo_src = f"data:image/png;base64,{logo_base64}"
+else:
+    logo_src = "https://www.fordham.edu/images/Fordham_University_Logo_Maroon_RGB.png"
 
 # Custom CSS for Fordham Theme
 # Custom CSS for "Oat" Theme (Minimalist)

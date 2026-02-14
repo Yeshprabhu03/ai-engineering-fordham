@@ -148,10 +148,20 @@ model = "gpt-4o-mini"
 
 # Main Header
 # Centered Logo and Title
-col1, col2, col3 = st.columns([1, 2, 1])
+col1, col2, col3 = st.columns([1, 1, 1])
 with col2:
     if os.path.exists(logo_path):
-        st.image(logo_path, use_column_width=True)
+        # Use fixed width instead of column width to keep it small
+        # Centering trigger: we use a nested column or just markdown 
+        # Easier: Just put it in a narrower center column or use st.image with width
+        # Let's try making the columns narrower to force centering
+        pass
+    
+# Actually, let's just use a single centered image approach with specific width
+if os.path.exists(logo_path):
+    col1, col2, col3 = st.columns([3, 1, 3])
+    with col2:
+        st.image(logo_path, width=80)
 
 st.markdown("<h1 style='text-align: center; color: #860038;'>Fordham University AI</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; font-size: 1.1em; color: #555;'>Ask anything about programs, faculty, or campus life.</p>", unsafe_allow_html=True)

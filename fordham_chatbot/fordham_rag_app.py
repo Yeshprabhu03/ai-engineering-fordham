@@ -106,20 +106,23 @@ st.markdown(f"""
         transition: all 0.2s ease;
         width: 100%;
     }}
-    .stButton>button:hover {{
-        background-color: #a00043;
-        transform: translateY(-1px);
-        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }}
-    
     /* Floating Microphone Hack */
     /* Target the container holding the audio recorder */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
-        bottom: 60px; /* Adjust to sit inside/near the input bar */
-        right: 80px;  /* Adjust to sit left of the send button */
-        z-index: 99999;
+        bottom: 50px; /* Sits just above the bottom edge */
+        left: 20px;  /* Moves to the LEFT side to avoid Send button */
+        z-index: 999999; /* Ensure it's on top of everything */
         width: auto !important;
+        height: 0px !important; /* Collapse ghost space */
+        margin: 0px !important;
+        overflow: visible !important;
+    }}
+    
+    /* Make the iframe itself visible despite container height 0 */
+    iframe[title="audio_recorder_streamlit.audio_recorder"] {{
+        height: 60px !important; /* Force height for the button */
+        width: 60px !important;
     }}
 </style>
 """, unsafe_allow_html=True)
@@ -210,7 +213,8 @@ audio_bytes = audio_recorder(
     neutral_color="#6aa36f",
     icon_name="microphone",
     icon_size="2x",
-    pause_threshold=2.0
+    pause_threshold=2.0,
+    key="voice_input_fixed" # Unique key to prevent re-render loss
 )
 
 voice_prompt = None

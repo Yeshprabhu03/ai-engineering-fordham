@@ -13,7 +13,7 @@ from dotenv import load_dotenv
 load_dotenv()
 
 # Page Config
-st.set_page_config(page_title="Fordham RAG", layout="wide")
+st.set_page_config(page_title="Fordham RAG", layout="wide", initial_sidebar_state="collapsed")
 print(">>> APP START: Page config set")
 
 # --- Main App Logic ---
@@ -110,7 +110,7 @@ st.markdown(f"""
     /* Target the container holding the audio recorder */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
-        bottom: 25px; /* Lowered closer to bottom to align with input center */
+        bottom: 10px; /* Sits at the very bottom, inside the padding of the input bar */
         right: 60px;  /* Left of the send button */
         z-index: 999999; /* Ensure it's on top of everything */
         width: auto !important;
@@ -127,36 +127,18 @@ st.markdown(f"""
 </style>
 """, unsafe_allow_html=True)
 
-# Sidebar Layout
-with st.sidebar:
-    # Logo
-    if os.path.exists(logo_path):
-        st.image(logo_path, width=120)
-    
-    st.markdown("### Fordham AI Assistant")
-    
-    # Model Selection (Hidden/Hardcoded)
-    model = "gpt-4o-mini"
-    
-    st.markdown("---")
-    
-    st.markdown("""
-    **About**
-    
-    This AI assistant uses RAG (Retrieval-Augmented Generation) to answer questions about Fordham University using official documentation.
-    
-    **Features:**
-    - 📚 Knowledge from ~49k documents
-    - 🧠 Context-aware conversations
-    - 🔗 Source citations
-    """)
-    
-    st.markdown("---")
     
     # Clear Chat Button
     if st.button("Clear Conversation", type="primary"):
         st.session_state.messages = []
         st.rerun()
+
+# Sidebar Layout (Removed)
+# with st.sidebar:
+#     ... (Removed)
+
+# Model Selection (Hidden/Hardcoded)
+model = "gpt-4o-mini"
 
 # Main Header
 st.title("Fordham University AI Assistant")

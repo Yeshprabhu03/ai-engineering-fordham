@@ -48,8 +48,51 @@ st.markdown(f"""
     /* Center the main block */
     .main .block-container {{
         max_width: 800px;
-        padding-top: 2rem;
-        padding-bottom: 4rem;
+        padding-top: 4rem; /* Increased to prevent logo clipping on mobile */
+        padding-bottom: 6rem; /* Space for chat input */
+    }}
+
+    /* Mobile-Optimized Facts Container */
+    .facts-container {{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        gap: 10px;
+        margin-bottom: 20px;
+        flex-wrap: nowrap; /* Force horizontal on mobile */
+    }}
+    .fact-card {{
+        background: #fafafa;
+        border: 1px solid #eee;
+        border-radius: 8px;
+        padding: 10px 5px;
+        text-align: center;
+        flex: 1; /* Equal width */
+        min-width: 0; /* Allow shrinking */
+    }}
+    .fact-icon {{
+        font-size: 1.5rem;
+        margin-bottom: 5px;
+    }}
+    .fact-title {{
+        font-weight: 700;
+        font-size: 0.85rem;
+        margin: 0;
+        color: #333;
+        white-space: nowrap;
+    }}
+    .fact-sub {{
+        font-size: 0.7rem;
+        color: #666;
+        margin: 0;
+    }}
+
+    /* Mobile adjustments for mic */
+    @media (max-width: 640px) {{
+        div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
+            bottom: 35px !important;
+            right: 50px !important;
+        }}
     }}
     
     /* Typography */
@@ -166,34 +209,26 @@ if os.path.exists(logo_path):
 st.markdown("<h1 style='text-align: center; color: #860038;'>Fordham University AI</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; font-size: 1.1em; color: #555;'>Ask anything about programs, faculty, or campus life.</p>", unsafe_allow_html=True)
 
-# 3 Key Facts / Features
-f_col1, f_col2, f_col3 = st.columns(3)
-with f_col1:
-    st.markdown("""
-    <div style="text-align: center; padding: 10px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
-        <h3 style="margin: 0; color: #860038;">📚</h3>
-        <p style="margin: 5px 0 0 0; font-weight: 600; font-size: 0.9em;">~49k Docs</p>
-        <p style="margin: 0; font-size: 0.8em; color: #666;">Official Knowledge</p>
+# 3 Key Facts / Features (CSS Flexbox for Mobile Stability)
+st.markdown("""
+<div class="facts-container">
+    <div class="fact-card">
+        <div class="fact-icon">📚</div>
+        <p class="fact-title">~49k Docs</p>
+        <p class="fact-sub">Official Data</p>
     </div>
-    """, unsafe_allow_html=True)
-
-with f_col2:
-    st.markdown("""
-    <div style="text-align: center; padding: 10px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
-        <h3 style="margin: 0; color: #860038;">🔗</h3>
-        <p style="margin: 5px 0 0 0; font-weight: 600; font-size: 0.9em;">Verifiable</p>
-        <p style="margin: 0; font-size: 0.8em; color: #666;">With Citations</p>
+    <div class="fact-card">
+        <div class="fact-icon">🔗</div>
+        <p class="fact-title">Verifiable</p>
+        <p class="fact-sub">Citations</p>
     </div>
-    """, unsafe_allow_html=True)
-
-with f_col3:
-    st.markdown("""
-    <div style="text-align: center; padding: 10px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
-        <h3 style="margin: 0; color: #860038;">🎙️</h3>
-        <p style="margin: 5px 0 0 0; font-weight: 600; font-size: 0.9em;">Voice Input</p>
-        <p style="margin: 0; font-size: 0.8em; color: #666;">Speak Naturally</p>
+    <div class="fact-card">
+        <div class="fact-icon">🎙️</div>
+        <p class="fact-title">Voice</p>
+        <p class="fact-sub">Input</p>
     </div>
-    """, unsafe_allow_html=True)
+</div>
+""", unsafe_allow_html=True)
 
 st.markdown("---")
 

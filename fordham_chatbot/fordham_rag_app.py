@@ -13,18 +13,6 @@ load_dotenv()
 # Page Config
 st.set_page_config(page_title="Fordham RAG", layout="wide")
 
-# --- 1. Data Loading (Optimized) ---
-@st.cache_resource
-def load_cached_data():
-    return pd.read_pickle('data/processed_fordham.pkl')
-
-# --- 2. Model Loading (Simplified) ---
-# We don't need to load a heavy model anymore, just use OpenAI client
-
-# --- Main App Logic ---
-
-# --- Main App Logic ---
-
 # --- Main App Logic ---
 
 # Check/Load Logo

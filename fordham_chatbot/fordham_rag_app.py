@@ -132,13 +132,8 @@ with st.sidebar:
     
     st.markdown("### Fordham AI Assistant")
     
-    # Model Selection (Cost Optimization)
-    model = st.selectbox(
-        "Model", 
-        ["gpt-4o-mini", "gpt-4o"], 
-        index=0,
-        help="gpt-4o-mini is faster and cheaper. Use gpt-4o for complex reasoning."
-    )
+    # Model Selection (Hidden/Hardcoded)
+    model = "gpt-4o-mini"
     
     st.markdown("---")
     

@@ -28,22 +28,9 @@ def load_cached_data():
 # --- Main App Logic ---
 
 # Check/Load Logo
-import base64
-
-def get_base64_encoded_image(image_path):
-    with open(image_path, "rb") as img_file:
-        return base64.b64encode(img_file.read()).decode('utf-8')
-
 # Paths (Relative to this script)
 current_dir = os.path.dirname(os.path.abspath(__file__))
 logo_path = os.path.join(current_dir, 'data', 'fordham_logo.png')
-
-# Fallback to URL if local file doesn't exist (though we just downloaded it)
-if os.path.exists(logo_path):
-    logo_base64 = get_base64_encoded_image(logo_path)
-    logo_src = f"data:image/png;base64,{logo_base64}"
-else:
-    logo_src = "https://www.fordham.edu/images/Fordham_University_Logo_Maroon_RGB.png"
 
 # Custom CSS for Fordham Theme
 # Custom CSS for "Oat" Theme (Minimalist)
@@ -78,19 +65,6 @@ st.markdown(f"""
         padding: 20px 0 40px 0;
         border-bottom: 1px solid #E6E6E6;
         margin-bottom: 30px;
-    }}
-    .fordham-shield-icon {{
-        max-width: 300px;
-        width: 100%;
-        height: auto;
-        margin-bottom: 10px;
-    }}
-    .fordham-title {{
-        font-family: 'Georgia', serif;
-        font-size: 28px;
-        color: #860038; /* Fordham Maroon Accent */
-        letter-spacing: 1px;
-        margin: 0;
     }}
     .fordham-subtitle {{
         font-family: 'Inter', sans-serif;
@@ -149,13 +123,21 @@ st.markdown(f"""
         box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }}
 </style>
-
-<!-- Minimal Header HTML -->
-<div class="fordham-header-minimal">
-    <img src="{logo_src}" class="fordham-shield-icon" alt="Fordham Logo">
-    <div class="fordham-subtitle">AI Assistant</div>
-</div>
 """, unsafe_allow_html=True)
+
+# Minimal Header (Streamlit Native)
+col1, col2, col3 = st.columns([1, 2, 1])
+with col2:
+    if os.path.exists(logo_path):
+        st.image(logo_path, use_container_width=True)
+    else:
+        st.error("Logo file not found locally.")
+    
+    st.markdown("""
+        <div style="text-align: center; margin-top: -10px; margin-bottom: 30px;">
+            <div class="fordham-subtitle">AI Assistant</div>
+        </div>
+    """, unsafe_allow_html=True)
 
 # --- 1. Data Loading & Preparation ---
 @st.cache_resource

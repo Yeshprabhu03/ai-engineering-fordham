@@ -111,6 +111,16 @@ st.markdown(f"""
         transform: translateY(-1px);
         box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }}
+    
+    /* Floating Microphone Hack */
+    /* Target the container holding the audio recorder */
+    div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
+        position: fixed;
+        bottom: 60px; /* Adjust to sit inside/near the input bar */
+        right: 80px;  /* Adjust to sit left of the send button */
+        z-index: 99999;
+        width: auto !important;
+    }}
 </style>
 """, unsafe_allow_html=True)
 
@@ -198,16 +208,15 @@ for message in st.session_state.messages:
 # Handle both text input and voice input
 
 # Place microphone just before chat input
-col1, col2 = st.columns([0.1, 0.9])
-with col1:
-    audio_bytes = audio_recorder(
-        text="",
-        recording_color="#e8b62c",
-        neutral_color="#6aa36f",
-        icon_name="microphone",
-        icon_size="2x",
-        pause_threshold=2.0
-    )
+# The CSS above handles the positioning, so we just render it here
+audio_bytes = audio_recorder(
+    text="",
+    recording_color="#e8b62c",
+    neutral_color="#6aa36f",
+    icon_name="microphone",
+    icon_size="2x",
+    pause_threshold=2.0
+)
 
 voice_prompt = None
 if audio_bytes:

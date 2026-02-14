@@ -87,13 +87,8 @@ st.markdown(f"""
         margin: 0;
     }}
 
-    /* Mobile adjustments for mic */
-    @media (max-width: 640px) {{
-        div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
-            bottom: 35px !important;
-            right: 50px !important;
-        }}
-    }}
+    /* Mobile adjustments for mic (Covered by main media query now) */
+    /* @media (max-width: 640px) {{ ... }} */
     
     /* Typography */
     h1, h2, h3 {{
@@ -156,17 +151,31 @@ st.markdown(f"""
         transition: all 0.2s ease;
         width: 100%;
     }}
-    /* Floating Microphone Hack */
-    /* Target the container holding the audio recorder */
+    /* Floating Microphone Positioning */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
-        bottom: 30px; /* Centered vertically in the standard input bar */
-        right: 55px;  /* Left of the send button */
-        z-index: 999999; /* Ensure it's on top of everything */
+        bottom: 30px;
+        z-index: 999999;
         width: auto !important;
-        height: 0px !important; /* Collapse ghost space */
+        height: 0px !important;
         margin: 0px !important;
         overflow: visible !important;
+    }}
+    
+    /* Desktop: Anchor to the centered 800px container */
+    @media (min-width: 850px) {{
+        div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
+            left: calc(50% + 400px - 90px); /* Center + Half Width - Offset into bar */
+            right: auto !important;
+        }}
+    }}
+    
+    /* Mobile: Anchor to the right edge */
+    @media (max-width: 849px) {{
+        div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
+            right: 55px !important;
+            left: auto !important;
+        }}
     }}
     
     /* Make the iframe itself visible despite container height 0 */

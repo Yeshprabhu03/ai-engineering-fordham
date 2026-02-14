@@ -1,3 +1,4 @@
+print(">>> SCRIPT LOADING: Starting imports...")
 import streamlit as st
 import pandas as pd
 import os
@@ -12,6 +13,7 @@ load_dotenv()
 
 # Page Config
 st.set_page_config(page_title="Fordham RAG", layout="wide")
+print(">>> APP START: Page config set")
 
 # --- Main App Logic ---
 
@@ -161,9 +163,12 @@ def load_data():
     embeddings_path = os.path.join(current_dir, 'data', 'embeddings.npy')
     
     if os.path.exists(corpus_path) and os.path.exists(embeddings_path):
+        print(f">>> DATA LOADING: Found files. Starting read...")
         with st.spinner("Loading data..."):
             df = pd.read_pickle(corpus_path)
+            print(f">>> DATA LOADING: Corpus loaded ({len(df)} rows)")
             embeddings = np.load(embeddings_path)
+            print(f">>> DATA LOADING: Embeddings loaded ({embeddings.shape})")
             return df, embeddings
     else:
         st.error(f"Data files not found at {corpus_path}! Please run `prepare_data.py` locally to generate data.")
@@ -172,6 +177,7 @@ def load_data():
 
 # Load Data
 df_chunks, embeddings_array = load_data()
+print(">>> DATA LOADING: Complete")
 
 # Robustness check: Ensure length match
 if len(df_chunks) != len(embeddings_array):

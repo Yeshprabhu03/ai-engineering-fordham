@@ -6,6 +6,7 @@ import pathlib
 import numpy as np
 from sentence_transformers import SentenceTransformer
 import openai
+from audio_recorder_streamlit import audio_recorder
 from dotenv import load_dotenv
 
 load_dotenv()
@@ -153,6 +154,43 @@ with st.sidebar:
     """)
     
     st.markdown("---")
+
+    # Voice Input
+    st.write("### 🎙️ Ask with your voice")
+    audio_bytes = audio_recorder(
+        text="",
+        recording_color="#e8b62c",
+        neutral_color="#6aa36f",
+        icon_name="microphone",
+        icon_size="2x",
+        pause_threshold=2.0
+    )
+    
+    # Transcribe if audio is captured
+    voice_prompt = None
+    if audio_bytes:
+        with st.spinner("Transcribing..."):
+            try:
+                # Save to temp file
+                temp_audio_path = "temp_audio.mp3"
+                with open(temp_audio_path, "wb") as f:
+                    f.write(audio_bytes)
+                
+                # Transcribe with Whisper
+                client = openai.OpenAI()
+                with open(temp_audio_path, "rb") as audio_file:
+                    transcript = client.audio.transcriptions.create(
+                        model="whisper-1", 
+                        file=audio_file,
+                        response_format="text"
+                    )
+                
+                voice_prompt = transcript
+                os.remove(temp_audio_path)
+            except Exception as e:
+                st.error(f"Transcription failed: {e}")
+
+    st.markdown("---")
     
     # Clear Chat Button
     if st.button("Clear Conversation", type="primary"):
@@ -200,7 +238,13 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # Chat Input
-if prompt := st.chat_input("Ask a question about Fordham..."):
+# Handle both text input and voice input
+prompt = st.chat_input("Ask a question about Fordham...")
+
+if voice_prompt:
+    prompt = voice_prompt
+
+if prompt:
     # Check API Key
     if not os.environ.get("OPENAI_API_KEY"):
          st.error("OpenAI API Key not found! Please check your .env file.")

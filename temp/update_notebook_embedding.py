@@ -7,20 +7,27 @@ notebook_path = '/Users/yeshwanth/Desktop/ai-engineering-fordham/5.you-can-just-
 embedding_code = """from sentence_transformers import SentenceTransformer
 import numpy as np
 
-# Initialize the model
+# 1. Initialize the model
+# 'all-MiniLM-L6-v2' is a small, fast model great for local use
 model = SentenceTransformer('all-MiniLM-L6-v2')
 
-# Get the list of texts to embed
+# 2. Sample 10% of the data to speed up processing
+print(f"Original dataframe size: {len(df_chunks)}")
+# Use a fixed random state for reproducibility
+df_chunks = df_chunks.sample(frac=0.1, random_state=42).reset_index(drop=True)
+print(f"Sampled dataframe size: {len(df_chunks)}")
+
+# 3. Get the list of texts to embed
+# We use the 'content' column of our chunks dataframe
 chunk_texts = df_chunks['content'].tolist()
 
 print(f"Embedding {len(chunk_texts)} chunks...")
 
-# Embed the chunks
-# show_progress_bar=True is nice but might not show up well in non-interactive run, but good for notebook
+# 4. Embed the chunks
+# The model handles batching automatically
 embeddings = model.encode(chunk_texts, show_progress_bar=True)
 
-# Add embeddings to the dataframe 
-# We can store them as a list/array in a new column
+# 5. Add embeddings to the dataframe 
 df_chunks['embedding'] = list(embeddings)
 
 print("Embedding complete.")

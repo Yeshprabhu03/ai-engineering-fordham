@@ -29,7 +29,7 @@ def load_cached_data():
 
 # Check/Load Logo
 # Logo URL
-logo_src = "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fordham_University_Seal.svg"
+logo_src = "https://www.fordham.edu/images/Fordham_University_Logo_Maroon_RGB.png"
 
 # Custom CSS for Fordham Theme
 # Custom CSS for "Oat" Theme (Minimalist)

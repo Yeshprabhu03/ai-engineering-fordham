@@ -12,9 +12,6 @@ load_dotenv()
 
 # Page Config
 st.set_page_config(page_title="Fordham RAG", layout="wide")
-st.title("Fordham University AI Assistant 🐏")
-
-st.markdown("**Your personal AI guide to everything Fordham.** Ask me anything!")
 
 # --- 1. Data Loading (Optimized) ---
 @st.cache_resource

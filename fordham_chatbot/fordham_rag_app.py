@@ -40,9 +40,16 @@ st.markdown(f"""
     
     /* Global Styles */
     .stApp {{
-        background-color: #FBFBF8;
+        background-color: #fcfcfc; /* Oat-like clean white */
         font-family: 'Lato', sans-serif;
-        color: #2A2A2A;
+        color: #1a1a1a;
+    }}
+    
+    /* Center the main block */
+    .main .block-container {{
+        max_width: 800px;
+        padding-top: 2rem;
+        padding-bottom: 4rem;
     }}
     
     /* Typography */
@@ -140,8 +147,14 @@ if st.button("Clear Conversation", type="primary"):
 model = "gpt-4o-mini"
 
 # Main Header
-st.title("Fordham University AI Assistant")
-st.markdown("Ask anything about Fordham's programs, faculty, or campus life.")
+# Centered Logo and Title
+col1, col2, col3 = st.columns([1, 2, 1])
+with col2:
+    if os.path.exists(logo_path):
+        st.image(logo_path, use_column_width=True)
+
+st.markdown("<h1 style='text-align: center; color: #860038;'>Fordham University AI</h1>", unsafe_allow_html=True)
+st.markdown("<p style='text-align: center; font-size: 1.1em; color: #555;'>Ask anything about programs, faculty, or campus life.</p>", unsafe_allow_html=True)
 st.markdown("---")
 
 # --- 1. Data Loading & Preparation ---

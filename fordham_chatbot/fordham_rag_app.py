@@ -110,8 +110,8 @@ st.markdown(f"""
     /* Target the container holding the audio recorder */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
-        bottom: 10px; /* Sits at the very bottom, inside the padding of the input bar */
-        right: 60px;  /* Left of the send button */
+        bottom: 45px; /* Moved up to be inside the input bar */
+        right: 55px;  /* Left of the send button */
         z-index: 999999; /* Ensure it's on top of everything */
         width: auto !important;
         height: 0px !important; /* Collapse ghost space */

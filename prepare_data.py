@@ -147,10 +147,18 @@ def main():
     print(f"Generated {len(df)} chunks.")
     
     embeddings = generate_embeddings(df)
-    df['embedding'] = embeddings
+    print(f"Converting embeddings to numpy array (float32)...")
+    embeddings_array = np.array(embeddings, dtype=np.float32)
     
-    print(f"Saving {len(df)} records to {OUTPUT_PATH}...")
-    df.to_pickle(OUTPUT_PATH)
+    # Save Embeddings separately
+    np.save('data/embeddings.npy', embeddings_array)
+    print(f"Saved embeddings to data/embeddings.npy")
+    
+    # Save DataFrame without embeddings (lightweight)
+    df_corpus = df.drop(columns=['embedding'], errors='ignore')
+    df_corpus.to_pickle('data/corpus.pkl')
+    print(f"Saved {len(df_corpus)} text records to data/corpus.pkl")
+    
     print("Done!")
 
 if __name__ == "__main__":

@@ -33,9 +33,11 @@ current_dir = os.path.dirname(os.path.abspath(__file__))
 logo_path = os.path.join(current_dir, 'data', 'fordham_logo.svg')
 
 # Custom CSS for Fordham Theme
-# Custom CSS for "Oat" Theme (Minimalist)
 st.markdown(f"""
 <style>
+    /* Import Google Fonts */
+    @import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Playfair+Display:wght@600;700&display=swap');
+
     /* Remove default Streamlit top padding */
     .stApp > header {{
         display: none;
@@ -45,61 +47,55 @@ st.markdown(f"""
         padding-bottom: 2rem;
     }}
     
-    /* Global Styles - Oat/Paper Aesthetic */
+    /* Global Styles */
     .stApp {{
         background-color: #FBFBF8;
-        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        font-family: 'Lato', sans-serif;
         color: #2A2A2A;
     }}
     
     /* Typography */
     h1, h2, h3 {{
-        font-family: 'Georgia', serif;
-        color: #1A1A1A;
-        font-weight: 600;
+        font-family: 'Playfair Display', serif;
+        color: #860038; /* Fordham Maroon */
+        font-weight: 700;
     }}
     
-    /* Custom Header styling - Minimal */
-    .fordham-header-minimal {{
-        text-align: center;
-        padding: 20px 0 40px 0;
-        border-bottom: 1px solid #E6E6E6;
-        margin-bottom: 30px;
+    /* Sidebar Styling */
+    section[data-testid="stSidebar"] {{
+        background-color: #F5F5F5;
+        border-right: 1px solid #E0E0E0;
     }}
-    .fordham-subtitle {{
-        font-family: 'Inter', sans-serif;
-        font-size: 14px;
-        color: #666;
-        text-transform: uppercase;
-        letter-spacing: 2px;
-        margin-top: 5px;
-    }}
-
-    /* Chat Styling - Clean & distinct */
+    
+    /* Chat Styling */
     .stChatMessage {{
         background-color: transparent;
         border: none;
-        padding: 15px 0;
-        border-bottom: 1px solid #F0F0F0;
-    }}
-    div[data-testid="stChatMessageContent"] {{
-        font-family: 'Inter', sans-serif;
-        line-height: 1.6;
-        color: #333;
+        padding: 1.5rem;
+        border-radius: 10px;
+        margin-bottom: 1rem;
     }}
     
-    /* User Message Specific (if targeting is possible, otherwise general) */
+    /* User Message */
+    .stChatMessage[data-testid="stChatMessage"]:nth-child(odd) {{
+        background-color: #ffffff;
+        border: 1px solid #E0E0E0;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.02);
+    }}
+    
+    /* Assistant Message */
     .stChatMessage[data-testid="stChatMessage"]:nth-child(even) {{
-        background-color: #F5F5F5; /* Slight gray for contrast if needed, or keep transparent */
+        background-color: #F9F9F9;
+        border: 1px solid #F0F0F0;
     }}
-    
-    /* Input Field - Clean border, no shadow */
+
+    /* Input Field */
     .stTextInput > div > div > input {{
         background-color: #FFFFFF;
         border: 1px solid #E0E0E0;
         border-radius: 8px;
         color: #333;
-        font-family: 'Inter', sans-serif;
+        font-family: 'Lato', sans-serif;
         box-shadow: none;
     }}
     .stTextInput > div > div > input:focus {{
@@ -107,15 +103,17 @@ st.markdown(f"""
         box-shadow: 0 0 0 1px #860038;
     }}
     
-    /* Button Styling - Minimal Accent */
+    /* Buttons */
     .stButton>button {{
         background-color: #860038;
         color: white;
         border-radius: 6px;
         border: none;
         padding: 0.5rem 1rem;
-        font-weight: 500;
+        font-weight: 600;
+        font-family: 'Lato', sans-serif;
         transition: all 0.2s ease;
+        width: 100%;
     }}
     .stButton>button:hover {{
         background-color: #a00043;
@@ -125,19 +123,37 @@ st.markdown(f"""
 </style>
 """, unsafe_allow_html=True)
 
-# Minimal Header (Streamlit Native)
-col1, col2, col3 = st.columns([1, 2, 1])
-with col2:
+# Sidebar Layout
+with st.sidebar:
+    # Logo
     if os.path.exists(logo_path):
-        st.image(logo_path, use_container_width=True)
-    else:
-        st.error("Logo file not found locally.")
+        st.image(logo_path, width=120)
+    
+    st.markdown("### Fordham AI Assistant")
+    st.markdown("---")
     
     st.markdown("""
-        <div style="text-align: center; margin-top: -10px; margin-bottom: 30px;">
-            <div class="fordham-subtitle">AI Assistant</div>
-        </div>
-    """, unsafe_allow_html=True)
+    **About**
+    
+    This AI assistant uses RAG (Retrieval-Augmented Generation) to answer questions about Fordham University using official documentation.
+    
+    **Features:**
+    - 📚 Knowledge from ~49k documents
+    - 🧠 Context-aware conversations
+    - 🔗 Source citations
+    """)
+    
+    st.markdown("---")
+    
+    # Clear Chat Button
+    if st.button("Clear Conversation", type="primary"):
+        st.session_state.messages = []
+        st.rerun()
+
+# Main Header
+st.title("Fordham University AI Assistant")
+st.markdown("Ask anything about Fordham's programs, faculty, or campus life.")
+st.markdown("---")
 
 # --- 1. Data Loading & Preparation ---
 @st.cache_resource

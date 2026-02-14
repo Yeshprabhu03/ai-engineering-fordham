@@ -154,7 +154,7 @@ st.markdown(f"""
     /* Floating Microphone Positioning */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
-        bottom: 30px;
+        bottom: 28px; /* Fine-tuned vertical alignment */
         z-index: 999999;
         width: auto !important;
         height: 0px !important;
@@ -162,18 +162,27 @@ st.markdown(f"""
         overflow: visible !important;
     }}
     
-    /* Desktop: Anchor to the centered 800px container */
-    @media (min-width: 850px) {{
+    /* Desktop (Width > 800px): Anchor to the right edge of the 800px container */
+    @media (min-width: 801px) {{
         div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
-            left: calc(50% + 400px - 90px); /* Center + Half Width - Offset into bar */
-            right: auto !important;
+            /* 
+               Logic: Screen Center (50vw) 
+               + Half Container (400px) = Right Edge of Container
+               - Offset inside (60px) 
+               But 'right' CSS property measures from Window Right Edge.
+               So: Window Right (0) to Container Right is (50vw - 400px).
+               We want to be 60px further left (inside).
+               So Right Value = (50vw - 400px) + 60px.
+            */
+            right: calc(50vw - 400px + 65px) !important;
+            left: auto !important;
         }}
     }}
     
-    /* Mobile: Anchor to the right edge */
-    @media (max-width: 849px) {{
+    /* Mobile/Tablet (Width <= 800px): Anchor effectively to right window edge */
+    @media (max-width: 800px) {{
         div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
-            right: 55px !important;
+            right: 65px !important;
             left: auto !important;
         }}
     }}

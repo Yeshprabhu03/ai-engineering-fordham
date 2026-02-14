@@ -127,11 +127,10 @@ st.markdown(f"""
 </style>
 """, unsafe_allow_html=True)
 
-    
-    # Clear Chat Button
-    if st.button("Clear Conversation", type="primary"):
-        st.session_state.messages = []
-        st.rerun()
+# Clear Chat Button
+if st.button("Clear Conversation", type="primary"):
+    st.session_state.messages = []
+    st.rerun()
 
 # Sidebar Layout (Removed)
 # with st.sidebar:

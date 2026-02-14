@@ -4,7 +4,7 @@ import os
 import zipfile
 import pathlib
 import numpy as np
-from sentence_transformers import SentenceTransformer
+# from sentence_transformers import SentenceTransformer (Unused, removed to speed up build)
 import openai
 from audio_recorder_streamlit import audio_recorder
 from dotenv import load_dotenv

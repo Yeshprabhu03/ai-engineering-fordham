@@ -153,150 +153,26 @@ st.markdown(f"""
 # --- 1. Data Loading & Preparation ---
 @st.cache_resource
 def load_data():
-    # Path to pre-computed data
-    data_path = 'data/processed_fordham.pkl'
+    # Paths
+    corpus_path = 'data/corpus.pkl'
+    embeddings_path = 'data/embeddings.npy'
     
-    if os.path.exists(data_path):
-        return pd.read_pickle(data_path)
-    
-    # If not found, generate it!
-    st.warning("Pre-computed data not found. Generating embeddings... This may take a minute.")
-    
-    # Check for source zip
-    zip_path = 'data/fordham-website.zip'
-    source_dir = 'data/fordham-website'
-    
-    # Unzip if needed
-    if not os.path.exists(source_dir):
-        if os.path.exists(zip_path):
-            with st.spinner("Unzipping source data..."):
-                with zipfile.ZipFile(zip_path, 'r') as z:
-                    z.extractall(".")
-        else:
-            st.error(f"Source data not found! Please ensure '{zip_path}' exists in the repo.")
-            st.stop()
-            
-    # Load raw markdown files
-    data = []
-    with st.spinner("Loading markdown files..."):
-        # Walk through directory
-        for root, dirs, files in os.walk(source_dir):
-            for file in files:
-                if file.endswith(".md"):
-                    file_path = os.path.join(root, file)
-                    try:
-                        with open(file_path, 'r', encoding='utf-8') as f:
-                            lines = f.readlines()
-                            if not lines: continue
-                            url = lines[0].strip()
-                            content = "".join(lines[1:]).strip()
-                            data.append({
-                                "filename": file,
-                                "url": url,
-                                "content": content
-                            })
-                    except Exception:
-                        continue
-                        
-    df = pd.DataFrame(data)
-    
-    # Chunking function
-    def chunk_text(text, chunk_size=800, overlap=150):
-        chunks = []
-        if not text: return chunks
-        start = 0
-        text_len = len(text)
-        while start < text_len:
-            end = start + chunk_size
-            chunk = text[start:end]
-            chunks.append(chunk)
-            step = chunk_size - overlap
-            if step <= 0: step = 1
-            start += step
-        return chunks
-
-    # Chunking
-    chunked_data = []
-    with st.spinner(f"Chunking {len(df)} documents..."):
-        for index, row in df.iterrows():
-            content = row.get('content', '')
-            if not isinstance(content, str): content = ""
-            text_chunks = chunk_text(content)
-            for i, chunk_content in enumerate(text_chunks):
-                if not chunk_content.strip(): continue
-                chunked_data.append({
-                    "chunk_id": f"{row['filename']}_{i}",
-                    "source_url": row['url'],
-                    "content": chunk_content.strip(),
-                    "filename": row['filename'],
-                    "url": row['url'] # Redundant but safe
-                })
-    
-    df_chunks = pd.DataFrame(chunked_data)
-    
-    # Embeddings
-    if not os.environ.get("OPENAI_API_KEY"):
-        st.error("OpenAI API Key needed for data generation!")
+    if os.path.exists(corpus_path) and os.path.exists(embeddings_path):
+        with st.spinner("Loading data..."):
+            df = pd.read_pickle(corpus_path)
+            embeddings = np.load(embeddings_path)
+            return df, embeddings
+    else:
+        st.error("Data files not found! Please run `prepare_data.py` locally to generate `data/corpus.pkl` and `data/embeddings.npy`.")
         st.stop()
-        
-    client = openai.OpenAI()
-    
-    # Batch processing
-    batch_size = 100 # Safe for OpenAI
-    embeddings = []
-    
-    progress_bar = st.progress(0)
-    total_chunks = len(df_chunks)
-    
-    for i in range(0, total_chunks, batch_size):
-        batch = df_chunks.iloc[i:i+batch_size]['content'].tolist()
-        try:
-            # Retry logic with exponential backoff
-            max_retries = 5
-            for attempt in range(max_retries):
-                try:
-                    response = client.embeddings.create(input=batch, model="text-embedding-3-small")
-                    batch_embeddings = [data.embedding for data in response.data]
-                    embeddings.extend(batch_embeddings)
-                    break # Success, exit retry loop
-                except Exception as e:
-                    if "rate_limit" in str(e).lower() or "429" in str(e):
-                        if attempt < max_retries - 1:
-                            wait_time = 2 ** attempt * 5 # 5, 10, 20, 40s...
-                            st.warning(f"Rate limit hit. Retrying in {wait_time} seconds...")
-                            import time
-                            time.sleep(wait_time)
-                            continue
-                    raise e # Re-raise if not rate limit or max retries reached
-            
-            # Update progress
-            progress = min(1.0, (i + batch_size) / total_chunks)
-            progress_bar.progress(progress)
-            
-        except Exception as e:
-            st.error(f"Error generating embeddings: {e}")
-            st.stop()
-            
-    df_chunks['embedding'] = embeddings
-    
-    # Save for next time
-    df_chunks.to_pickle(data_path)
-    
-    st.success("Data generation complete! Reloading...")
-    return df_chunks
+        return None, None
 
 # Load Data
-df_chunks = load_data()
+df_chunks, embeddings_array = load_data()
 
-# Robustness check: filter out rows with None embeddings
-if 'embedding' in df_chunks.columns:
-    initial_len = len(df_chunks)
-    df_chunks = df_chunks.dropna(subset=['embedding'])
-    if len(df_chunks) < initial_len:
-        print(f"Warning: Dropped {initial_len - len(df_chunks)} rows with missing embeddings.")
-
-if df_chunks.empty:
-    st.error("No valid data found. Please run data preparation again.")
+# Robustness check: Ensure length match
+if len(df_chunks) != len(embeddings_array):
+    st.error(f"Data Mismatch! Corpus has {len(df_chunks)} rows but embeddings has {len(embeddings_array)} rows. Please regenerate data.")
     st.stop()
 
 # Initialize Chat History
@@ -333,11 +209,12 @@ if prompt := st.chat_input("Ask a question about Fordham..."):
                 response = client.embeddings.create(input=prompt, model="text-embedding-3-small")
                 query_embedding = response.data[0].embedding
             
-                # Stack embeddings
-                embeddings = np.stack(df_chunks['embedding'].values)
+                # Stack embeddings (Now it is already a numpy array)
+                embeddings = embeddings_array
                 
                 # Normalize
                 query_norm = query_embedding / np.linalg.norm(query_embedding)
+                # embeddings is already a numpy array from load_data
                 embeddings_norm = embeddings / np.linalg.norm(embeddings, axis=1)[:, np.newaxis]
                 
                 # Dot product

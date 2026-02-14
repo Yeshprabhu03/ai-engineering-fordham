@@ -165,6 +165,36 @@ if os.path.exists(logo_path):
 
 st.markdown("<h1 style='text-align: center; color: #860038;'>Fordham University AI</h1>", unsafe_allow_html=True)
 st.markdown("<p style='text-align: center; font-size: 1.1em; color: #555;'>Ask anything about programs, faculty, or campus life.</p>", unsafe_allow_html=True)
+
+# 3 Key Facts / Features
+f_col1, f_col2, f_col3 = st.columns(3)
+with f_col1:
+    st.markdown("""
+    <div style="text-align: center; padding: 10px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
+        <h3 style="margin: 0; color: #860038;">📚</h3>
+        <p style="margin: 5px 0 0 0; font-weight: 600; font-size: 0.9em;">~49k Docs</p>
+        <p style="margin: 0; font-size: 0.8em; color: #666;">Official Knowledge</p>
+    </div>
+    """, unsafe_allow_html=True)
+
+with f_col2:
+    st.markdown("""
+    <div style="text-align: center; padding: 10px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
+        <h3 style="margin: 0; color: #860038;">🔗</h3>
+        <p style="margin: 5px 0 0 0; font-weight: 600; font-size: 0.9em;">Verifiable</p>
+        <p style="margin: 0; font-size: 0.8em; color: #666;">With Citations</p>
+    </div>
+    """, unsafe_allow_html=True)
+
+with f_col3:
+    st.markdown("""
+    <div style="text-align: center; padding: 10px; border: 1px solid #eee; border-radius: 8px; background: #fafafa;">
+        <h3 style="margin: 0; color: #860038;">🎙️</h3>
+        <p style="margin: 5px 0 0 0; font-weight: 600; font-size: 0.9em;">Voice Input</p>
+        <p style="margin: 0; font-size: 0.8em; color: #666;">Speak Naturally</p>
+    </div>
+    """, unsafe_allow_html=True)
+
 st.markdown("---")
 
 # --- 1. Data Loading & Preparation ---

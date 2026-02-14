@@ -35,6 +35,7 @@ def load_cached_data():
 logo_src = "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fordham_University_Seal.svg"
 
 # Custom CSS for Fordham Theme
+# Custom CSS for "Oat" Theme (Minimalist)
 st.markdown(f"""
 <style>
     /* Remove default Streamlit top padding */
@@ -42,83 +43,110 @@ st.markdown(f"""
         display: none;
     }}
     .main .block-container {{
-        padding-top: 0;
-        margin-top: 0;
+        padding-top: 2rem;
+        padding-bottom: 2rem;
     }}
     
-    /* Global Styles */
+    /* Global Styles - Oat/Paper Aesthetic */
     .stApp {{
-        background-color: #FFFFFF;
-        font-family: 'Georgia', serif;
+        background-color: #FBFBF8;
+        font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
+        color: #2A2A2A;
     }}
     
-    /* Custom Header styling */
-    .fordham-header {{
-        background-color: #860038;
-        padding: 40px 20px;
+    /* Typography */
+    h1, h2, h3 {{
+        font-family: 'Georgia', serif;
+        color: #1A1A1A;
+        font-weight: 600;
+    }}
+    
+    /* Custom Header styling - Minimal */
+    .fordham-header-minimal {{
         text-align: center;
-        border-bottom: 5px solid #b20e3e;
+        padding: 20px 0 40px 0;
+        border-bottom: 1px solid #E6E6E6;
         margin-bottom: 30px;
     }}
-    .fordham-logo-text {{
-        color: white;
+    .fordham-shield-icon {{
+        width: 60px;
+        height: auto;
+        margin-bottom: 10px;
+    }}
+    .fordham-title {{
         font-family: 'Georgia', serif;
-        font-size: 42px;
-        font-weight: bold;
-        letter-spacing: 2px;
-        text-transform: uppercase;
+        font-size: 28px;
+        color: #860038; /* Fordham Maroon Accent */
+        letter-spacing: 1px;
         margin: 0;
     }}
-    /* Removed Subtext */
-    
-    /* Top thin bar */
-    .top-bar {{
-        background-color: #4a001f;
-        height: 10px;
-        width: 100%;
+    .fordham-subtitle {{
+        font-family: 'Inter', sans-serif;
+        font-size: 14px;
+        color: #666;
+        text-transform: uppercase;
+        letter-spacing: 2px;
+        margin-top: 5px;
     }}
 
-    /* Chat Styling */
+    /* Chat Styling - Clean & distinct */
     .stChatMessage {{
-        border-radius: 10px;
-        padding: 10px;
-        border: 1px solid #eee;
+        background-color: transparent;
+        border: none;
+        padding: 15px 0;
+        border-bottom: 1px solid #F0F0F0;
     }}
     div[data-testid="stChatMessageContent"] {{
-        font-family: 'Arial', sans-serif;
+        font-family: 'Inter', sans-serif;
+        line-height: 1.6;
+        color: #333;
     }}
     
-    /* Button Styling */
+    /* User Message Specific (if targeting is possible, otherwise general) */
+    .stChatMessage[data-testid="stChatMessage"]:nth-child(even) {{
+        background-color: #F5F5F5; /* Slight gray for contrast if needed, or keep transparent */
+    }}
+    
+    /* Input Field - Clean border, no shadow */
+    .stTextInput > div > div > input {{
+        background-color: #FFFFFF;
+        border: 1px solid #E0E0E0;
+        border-radius: 8px;
+        color: #333;
+        font-family: 'Inter', sans-serif;
+        box-shadow: none;
+    }}
+    .stTextInput > div > div > input:focus {{
+        border-color: #860038;
+        box-shadow: 0 0 0 1px #860038;
+    }}
+    
+    /* Button Styling - Minimal Accent */
     .stButton>button {{
         background-color: #860038;
         color: white;
-        border-radius: 5px;
+        border-radius: 6px;
         border: none;
+        padding: 0.5rem 1rem;
+        font-weight: 500;
+        transition: all 0.2s ease;
     }}
     .stButton>button:hover {{
         background-color: #a00043;
-        color: white;
+        transform: translateY(-1px);
+        box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }}
 </style>
 
-<!-- Custom Header HTML -->
-<div class="top-bar"></div>
-<div class="fordham-header">
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<!-- Inline SVG Logo -->
-<svg width="400" height="80" viewBox="0 0 400 80" xmlns="http://www.w3.org/2000/svg">
-<!-- Shield Group -->
-<g transform="translate(10, 5)">
-<!-- Shield Shape -->
-<path d="M 5 5 L 65 5 L 65 25 C 65 60 35 75 35 75 C 35 75 5 60 5 25 Z" fill="#860038" stroke="white" stroke-width="2"/>
-<!-- The 'F' -->
-<text x="35" y="55" font-family="'Times New Roman', serif" font-weight="bold" font-size="50" fill="white" text-anchor="middle">F</text>
-</g>
-<!-- University Text -->
-<text x="80" y="52" font-family="'Georgia', serif" font-weight="bold" font-size="34" fill="white" letter-spacing="2">FORDHAM</text>
-<text x="80" y="75" font-family="'Arial', sans-serif" font-weight="bold" font-size="14" fill="white" letter-spacing="4">UNIVERSITY</text>
-</svg>
-</div>
+<!-- Minimal Header HTML -->
+<div class="fordham-header-minimal">
+    <!-- SVG Shield Icon -->
+    <svg class="fordham-shield-icon" viewBox="0 0 70 80" xmlns="http://www.w3.org/2000/svg">
+        <path d="M 5 5 L 65 5 L 65 25 C 65 60 35 75 35 75 C 35 75 5 60 5 25 Z" fill="#860038"/>
+        <text x="35" y="55" font-family="'Times New Roman', serif" font-weight="bold" font-size="50" fill="white" text-anchor="middle">F</text>
+    </svg>
+    <div class="fordham-title">FORDHAM UNIVERSITY</div>
+    <div class="fordham-subtitle">AI Assistant</div>
 </div>
 """, unsafe_allow_html=True)
 
@@ -143,7 +171,7 @@ def load_data():
         if os.path.exists(zip_path):
             with st.spinner("Unzipping source data..."):
                 with zipfile.ZipFile(zip_path, 'r') as z:
-                    z.extractall("data/")
+                    z.extractall(".")
         else:
             st.error(f"Source data not found! Please ensure '{zip_path}' exists in the repo.")
             st.stop()
@@ -223,9 +251,23 @@ def load_data():
     for i in range(0, total_chunks, batch_size):
         batch = df_chunks.iloc[i:i+batch_size]['content'].tolist()
         try:
-            response = client.embeddings.create(input=batch, model="text-embedding-3-small")
-            batch_embeddings = [data.embedding for data in response.data]
-            embeddings.extend(batch_embeddings)
+            # Retry logic with exponential backoff
+            max_retries = 5
+            for attempt in range(max_retries):
+                try:
+                    response = client.embeddings.create(input=batch, model="text-embedding-3-small")
+                    batch_embeddings = [data.embedding for data in response.data]
+                    embeddings.extend(batch_embeddings)
+                    break # Success, exit retry loop
+                except Exception as e:
+                    if "rate_limit" in str(e).lower() or "429" in str(e):
+                        if attempt < max_retries - 1:
+                            wait_time = 2 ** attempt * 5 # 5, 10, 20, 40s...
+                            st.warning(f"Rate limit hit. Retrying in {wait_time} seconds...")
+                            import time
+                            time.sleep(wait_time)
+                            continue
+                    raise e # Re-raise if not rate limit or max retries reached
             
             # Update progress
             progress = min(1.0, (i + batch_size) / total_chunks)
@@ -245,6 +287,17 @@ def load_data():
 
 # Load Data
 df_chunks = load_data()
+
+# Robustness check: filter out rows with None embeddings
+if 'embedding' in df_chunks.columns:
+    initial_len = len(df_chunks)
+    df_chunks = df_chunks.dropna(subset=['embedding'])
+    if len(df_chunks) < initial_len:
+        print(f"Warning: Dropped {initial_len - len(df_chunks)} rows with missing embeddings.")
+
+if df_chunks.empty:
+    st.error("No valid data found. Please run data preparation again.")
+    st.stop()
 
 # Initialize Chat History
 if "messages" not in st.session_state:
@@ -310,14 +363,22 @@ if prompt := st.chat_input("Ask a question about Fordham..."):
                 "Always cite your sources if possible. "
                 "If the context doesn't contain the answer, say you don't know."
             )
-            user_message = f"Context:\n{context_block}\n\nQuestion: {prompt}"
+            
+            # Construct messages with history
+            messages = [{"role": "system", "content": system_message}]
+            
+            # Add last few exchanges for context (optional, but good for "it", "they")
+            # We limit this to avoid hitting token limits with strict RAG context
+            for m in st.session_state.messages[-4:]: 
+                messages.append({"role": m["role"], "content": m["content"]})
+            
+            # Add current RAG context and question
+            # We treat the context as a system/user injection for the current turn
+            messages.append({"role": "user", "content": f"Context:\n{context_block}\n\nQuestion: {prompt}"})
             
             chat_completion = client.chat.completions.create(
                 model="gpt-4o",
-                messages=[
-                    {"role": "system", "content": system_message},
-                    {"role": "user", "content": user_message}
-                ],
+                messages=messages,
                 stream=True
             )
             

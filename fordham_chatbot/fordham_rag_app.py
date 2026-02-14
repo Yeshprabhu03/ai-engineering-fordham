@@ -110,8 +110,8 @@ st.markdown(f"""
     /* Target the container holding the audio recorder */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
-        bottom: 50px; /* Sits just above the bottom edge */
-        left: 20px;  /* Moves to the LEFT side to avoid Send button */
+        bottom: 38px; /* Align with the text input box */
+        right: 60px;  /* Sit just to the left of the "Send" arrow */
         z-index: 999999; /* Ensure it's on top of everything */
         width: auto !important;
         height: 0px !important; /* Collapse ghost space */
@@ -121,8 +121,8 @@ st.markdown(f"""
     
     /* Make the iframe itself visible despite container height 0 */
     iframe[title="audio_recorder_streamlit.audio_recorder"] {{
-        height: 60px !important; /* Force height for the button */
-        width: 60px !important;
+        height: 50px !important; /* Slightly smaller to fit nicely */
+        width: 50px !important;
     }}
 </style>
 """, unsafe_allow_html=True)
@@ -212,7 +212,7 @@ audio_bytes = audio_recorder(
     recording_color="#e8b62c",
     neutral_color="#6aa36f",
     icon_name="microphone",
-    icon_size="2x",
+    icon_size="1x", # Smaller icon to fit the bar
     pause_threshold=2.0,
     key="voice_input_fixed" # Unique key to prevent re-render loss
 )

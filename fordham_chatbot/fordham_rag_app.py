@@ -30,7 +30,7 @@ def load_cached_data():
 # Check/Load Logo
 # Paths (Relative to this script)
 current_dir = os.path.dirname(os.path.abspath(__file__))
-logo_path = os.path.join(current_dir, 'data', 'fordham_logo.png')
+logo_path = os.path.join(current_dir, 'data', 'fordham_logo.svg')
 
 # Custom CSS for Fordham Theme
 # Custom CSS for "Oat" Theme (Minimalist)

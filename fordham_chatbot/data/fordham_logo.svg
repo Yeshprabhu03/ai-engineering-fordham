@@ -1,0 +1,4 @@
+<svg width="300" height="300" viewBox="0 0 70 80" xmlns="http://www.w3.org/2000/svg">
+    <path d="M 5 5 L 65 5 L 65 25 C 65 60 35 75 35 75 C 35 75 5 60 5 25 Z" fill="#860038"/>
+    <text x="35" y="55" font-family="'Times New Roman', serif" font-weight="bold" font-size="50" fill="white" text-anchor="middle">F</text>
+</svg>

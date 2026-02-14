@@ -150,9 +150,10 @@ st.markdown(f"""
 # --- 1. Data Loading & Preparation ---
 @st.cache_resource
 def load_data():
-    # Paths
-    corpus_path = 'data/corpus.pkl'
-    embeddings_path = 'data/embeddings.npy'
+    # Paths (Relative to this script)
+    current_dir = os.path.dirname(os.path.abspath(__file__))
+    corpus_path = os.path.join(current_dir, 'data', 'corpus.pkl')
+    embeddings_path = os.path.join(current_dir, 'data', 'embeddings.npy')
     
     if os.path.exists(corpus_path) and os.path.exists(embeddings_path):
         with st.spinner("Loading data..."):
@@ -160,7 +161,7 @@ def load_data():
             embeddings = np.load(embeddings_path)
             return df, embeddings
     else:
-        st.error("Data files not found! Please run `prepare_data.py` locally to generate `data/corpus.pkl` and `data/embeddings.npy`.")
+        st.error(f"Data files not found at {corpus_path}! Please run `prepare_data.py` locally to generate data.")
         st.stop()
         return None, None
 

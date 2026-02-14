@@ -130,6 +130,15 @@ with st.sidebar:
         st.image(logo_path, width=120)
     
     st.markdown("### Fordham AI Assistant")
+    
+    # Model Selection (Cost Optimization)
+    model = st.selectbox(
+        "Model", 
+        ["gpt-4o-mini", "gpt-4o"], 
+        index=0,
+        help="gpt-4o-mini is faster and cheaper. Use gpt-4o for complex reasoning."
+    )
+    
     st.markdown("---")
     
     st.markdown("""
@@ -260,7 +269,7 @@ if prompt := st.chat_input("Ask a question about Fordham..."):
             messages.append({"role": "user", "content": f"Context:\n{context_block}\n\nQuestion: {prompt}"})
             
             chat_completion = client.chat.completions.create(
-                model="gpt-4o",
+                model=model,
                 messages=messages,
                 stream=True
             )

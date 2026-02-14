@@ -66,7 +66,8 @@ st.markdown(f"""
         margin-bottom: 30px;
     }}
     .fordham-shield-icon {{
-        width: 60px;
+        max-width: 300px;
+        width: 100%;
         height: auto;
         margin-bottom: 10px;
     }}
@@ -137,12 +138,7 @@ st.markdown(f"""
 
 <!-- Minimal Header HTML -->
 <div class="fordham-header-minimal">
-    <!-- SVG Shield Icon -->
-    <svg class="fordham-shield-icon" viewBox="0 0 70 80" xmlns="http://www.w3.org/2000/svg">
-        <path d="M 5 5 L 65 5 L 65 25 C 65 60 35 75 35 75 C 35 75 5 60 5 25 Z" fill="#860038"/>
-        <text x="35" y="55" font-family="'Times New Roman', serif" font-weight="bold" font-size="50" fill="white" text-anchor="middle">F</text>
-    </svg>
-    <div class="fordham-title">FORDHAM UNIVERSITY</div>
+    <img src="{logo_src}" class="fordham-shield-icon" alt="Fordham Logo">
     <div class="fordham-subtitle">AI Assistant</div>
 </div>
 """, unsafe_allow_html=True)

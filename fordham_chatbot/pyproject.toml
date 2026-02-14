@@ -1,0 +1,26 @@
+[project]
+name = "ai-engineering-fordham"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "anthropic>=0.76.0",
+    "google-genai>=1.59.0",
+    "instructor>=1.14.4",
+    "ipykernel>=7.1.0",
+    "jupyter>=1.1.1",
+    "litellm>=1.81.1",
+    "matplotlib>=3.10.8",
+    "openai>=2.15.0",
+    "pandas>=2.3.3",
+    "pillow>=12.1.0",
+    "pydantic>=2.12.5",
+    "pystemmer>=3.0.0",
+    "sentence-transformers>=3.0.0",
+    "python-dotenv>=1.2.1",
+    "tenacity>=9.1.2",
+    "torch==2.2.2",
+    "numpy<2",
+    "audio-recorder-streamlit>=0.0.10",
+]

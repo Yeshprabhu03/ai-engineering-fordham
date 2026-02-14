@@ -1,4 +1,3 @@
-print(">>> SCRIPT LOADING: Starting imports...")
 import streamlit as st
 import pandas as pd
 import os
@@ -7,14 +6,12 @@ import pathlib
 import numpy as np
 # from sentence_transformers import SentenceTransformer (Unused, removed to speed up build)
 import openai
-from audio_recorder_streamlit import audio_recorder
 from dotenv import load_dotenv
 
 load_dotenv()
 
 # Page Config
 st.set_page_config(page_title="Fordham RAG", layout="wide")
-print(">>> APP START: Page config set")
 
 # --- 1. Data Loading (Optimized) ---
 @st.cache_resource
@@ -157,43 +154,6 @@ with st.sidebar:
     
     st.markdown("---")
 
-    # Voice Input
-    st.write("### 🎙️ Ask with your voice")
-    audio_bytes = audio_recorder(
-        text="",
-        recording_color="#e8b62c",
-        neutral_color="#6aa36f",
-        icon_name="microphone",
-        icon_size="2x",
-        pause_threshold=2.0
-    )
-    
-    # Transcribe if audio is captured
-    voice_prompt = None
-    if audio_bytes:
-        with st.spinner("Transcribing..."):
-            try:
-                # Save to temp file
-                temp_audio_path = "temp_audio.mp3"
-                with open(temp_audio_path, "wb") as f:
-                    f.write(audio_bytes)
-                
-                # Transcribe with Whisper
-                client = openai.OpenAI()
-                with open(temp_audio_path, "rb") as audio_file:
-                    transcript = client.audio.transcriptions.create(
-                        model="whisper-1", 
-                        file=audio_file,
-                        response_format="text"
-                    )
-                
-                voice_prompt = transcript
-                os.remove(temp_audio_path)
-            except Exception as e:
-                st.error(f"Transcription failed: {e}")
-
-    st.markdown("---")
-    
     # Clear Chat Button
     if st.button("Clear Conversation", type="primary"):
         st.session_state.messages = []
@@ -213,12 +173,9 @@ def load_data():
     embeddings_path = os.path.join(current_dir, 'data', 'embeddings.npy')
     
     if os.path.exists(corpus_path) and os.path.exists(embeddings_path):
-        print(f">>> DATA LOADING: Found files. Starting read...")
         with st.spinner("Loading data..."):
             df = pd.read_pickle(corpus_path)
-            print(f">>> DATA LOADING: Corpus loaded ({len(df)} rows)")
             embeddings = np.load(embeddings_path)
-            print(f">>> DATA LOADING: Embeddings loaded ({embeddings.shape})")
             return df, embeddings
     else:
         st.error(f"Data files not found at {corpus_path}! Please run `prepare_data.py` locally to generate data.")
@@ -227,7 +184,6 @@ def load_data():
 
 # Load Data
 df_chunks, embeddings_array = load_data()
-print(">>> DATA LOADING: Complete")
 
 # Robustness check: Ensure length match
 if len(df_chunks) != len(embeddings_array):
@@ -244,11 +200,7 @@ for message in st.session_state.messages:
         st.markdown(message["content"])
 
 # Chat Input
-# Handle both text input and voice input
 prompt = st.chat_input("Ask a question about Fordham...")
-
-if voice_prompt:
-    prompt = voice_prompt
 
 if prompt:
     # Check API Key

@@ -160,41 +160,37 @@ st.markdown(f"""
         right: 0;
     }}
 
-    /* Floating Microphone Positioning */
+    /* Floating Microphone Positioning - Centered Overlay Strategy */
     div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
         position: fixed;
         bottom: 28px;
+        left: 50%;
+        transform: translateX(-50%);
+        width: 100%;
+        max-width: 800px; /* Matches the chat input width */
         z-index: 999999;
-        width: auto !important;
         height: 0px !important;
         margin: 0px !important;
         overflow: visible !important;
+        pointer-events: none; /* Allow clicks to pass through the container to the text input */
+        display: flex;
+        justify-content: flex-end; /* Align items to the right */
+        padding-right: 60px; /* Offset from the right edge (space for Send button) */
     }}
     
-    /* Desktop: Calculate position based on the centered 800px container */
-    @media (min-width: 801px) {{
-        div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
-            /* 
-               Right Distance = (Window Width - Container Width) / 2 + Offset from right of container
-               Offset: we want it ~60px left of the container's right edge.
-            */
-            right: calc((100vw - 800px) / 2 + 55px) !important;
-            left: auto !important;
-        }}
-    }}
-    
-    /* Mobile: Simply anchor to right */
-    @media (max-width: 800px) {{
-        div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
-            right: 60px !important;
-            left: auto !important;
-        }}
-    }}
-    
-    /* Make the iframe itself visible despite container height 0 */
+    /* Make the iframe clickable and visible */
     iframe[title="audio_recorder_streamlit.audio_recorder"] {{
-        height: 50px !important; /* Slightly smaller to fit nicely */
+        height: 50px !important;
         width: 50px !important;
+        pointer-events: auto; /* Re-enable clicks on the mic itself */
+    }}
+
+    /* Mobile adjustments: Adjust padding for smaller screens */
+    @media (max-width: 640px) {{
+        div.element-container:has(iframe[title="audio_recorder_streamlit.audio_recorder"]) {{
+            padding-right: 50px;
+            bottom: 35px;
+        }}
     }}
 </style>
 """, unsafe_allow_html=True)

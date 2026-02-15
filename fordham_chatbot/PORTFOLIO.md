@@ -1,5 +1,5 @@
 # Fordham University AI Assistant: An Engineering Case Study
-
+Click here to view: https://ai-engineering-fordham-chatbot.streamlit.app/
 ## **Executive Summary**
 I engineered a production-ready **Retrieval-Augmented Generation (RAG)** system that serves as an intelligent guide for Fordham University. The goal was to transform ~49,000 unstructured documents into a responsive, verifiable, and cost-efficient AI agent.
 

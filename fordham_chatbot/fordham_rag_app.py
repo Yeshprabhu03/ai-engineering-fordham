@@ -9,6 +9,8 @@ import numpy as np
 import openai
 from audio_recorder_streamlit import audio_recorder
 from dotenv import load_dotenv
+import pickle
+from rank_bm25 import BM25Okapi
 
 load_dotenv()
 
@@ -265,14 +267,26 @@ def load_data():
             print(f">>> DATA LOADING: Corpus loaded ({len(df)} rows)")
             embeddings = np.load(embeddings_path)
             print(f">>> DATA LOADING: Embeddings loaded ({embeddings.shape})")
-            return df, embeddings
+            
+            # Load BM25
+            bm25 = None
+            bm25_path = os.path.join(current_dir, 'data', 'bm25_index.pkl')
+            if os.path.exists(bm25_path):
+                with open(bm25_path, 'rb') as f:
+                    bm25 = pickle.load(f)
+                print(">>> DATA LOADING: BM25 index loaded")
+            else:
+                print(">>> WARNING: BM25 index not found. Hybrid search disabled.")
+                
+            return df, embeddings, bm25
+    else:
     else:
         st.error(f"Data files not found at {corpus_path}! Please run `prepare_data.py` locally to generate data.")
         st.stop()
         return None, None
 
 # Load Data
-df_chunks, embeddings_array = load_data()
+df_chunks, embeddings_array, bm25_index = load_data()
 print(">>> DATA LOADING: Complete")
 
 # Robustness check: Ensure length match
@@ -301,7 +315,9 @@ audio_bytes = audio_recorder(
     icon_name="microphone",
     icon_size="1x", # Smaller icon to fit the bar
     pause_threshold=2.0,
-    key="voice_input_fixed" # Unique key to prevent re-render loss
+    # Dynamic key to force re-render after every message. 
+    # This fixes the "disappearing button" bug by resetting the component state.
+    key=f"voice_input_{len(st.session_state.messages)}"
 )
 
 voice_prompt = None
@@ -351,25 +367,38 @@ if prompt:
         try:
             client = openai.OpenAI()
             
-            # 1. Retrieve
+            # 1. Retrieve (Hybrid or Vector)
             with st.spinner("Searching Fordham's knowledge base..."):
+                # A. Vector Search
                 response = client.embeddings.create(input=prompt, model="text-embedding-3-small")
                 query_embedding = response.data[0].embedding
-            
-                # Stack embeddings (Now it is already a numpy array)
-                embeddings = embeddings_array
                 
-                # Normalize
+                # Normalize & Dot Product
                 query_norm = query_embedding / np.linalg.norm(query_embedding)
-                # embeddings is already a numpy array from load_data
-                embeddings_norm = embeddings / np.linalg.norm(embeddings, axis=1)[:, np.newaxis]
+                embeddings_norm = embeddings_array / np.linalg.norm(embeddings_array, axis=1)[:, np.newaxis]
+                vector_scores = np.dot(embeddings_norm, query_norm)
                 
-                # Dot product
-                scores = np.dot(embeddings_norm, query_norm)
+                # B. Hybrid Search logic
+                if bm25_index:
+                    # BM25 Search
+                    tokenized_query = prompt.lower().split()
+                    bm25_scores = bm25_index.get_scores(tokenized_query)
+                    
+                    # Normalize BM25 scores (0-1) to match Cosine Similarity
+                    if bm25_scores.max() > 0:
+                        bm25_scores = bm25_scores / bm25_scores.max()
+                    
+                    # Weighted Fusion: 70% Vector + 30% Keyword
+                    # This gives better precision for specific codes (BM25) 
+                    # while keeping general understanding (Vector) dominant.
+                    alpha = 0.3 
+                    final_scores = (vector_scores * (1 - alpha)) + (bm25_scores * alpha)
+                else:
+                    final_scores = vector_scores
                 
                 # Top K
                 top_k = 5
-                top_k_indices = np.argsort(scores)[::-1][:top_k]
+                top_k_indices = np.argsort(final_scores)[::-1][:top_k]
                 results = df_chunks.iloc[top_k_indices]
                 
                 # Context
@@ -386,6 +415,7 @@ if prompt:
                 "Answer the user's question concisely using the provided context. "
                 "Always cite your sources if possible. "
                 "If the context doesn't contain the answer, say you don't know."
+                "If the user asks for an opinion (e.g., 'best campus'), provide a neutral comparison based on the features of each option in the context."
             )
             
             # Construct messages with history

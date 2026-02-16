@@ -280,7 +280,6 @@ def load_data():
                 
             return df, embeddings, bm25
     else:
-    else:
         st.error(f"Data files not found at {corpus_path}! Please run `prepare_data.py` locally to generate data.")
         st.stop()
         return None, None

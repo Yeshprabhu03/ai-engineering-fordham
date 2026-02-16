@@ -4,3 +4,5 @@ pandas>=2.0.0
 python-dotenv>=1.0.0
 streamlit>=1.30.0
 audio-recorder-streamlit>=0.0.10
+rank_bm25>=0.2.2
+# Force rebuild for new dependency

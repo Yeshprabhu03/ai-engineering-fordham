@@ -11,6 +11,8 @@ from audio_recorder_streamlit import audio_recorder
 from dotenv import load_dotenv
 import pickle
 from rank_bm25 import BM25Okapi
+import gc
+
 
 load_dotenv()
 
@@ -286,7 +288,9 @@ def load_data():
 
 # Load Data
 df_chunks, embeddings_array, bm25_index = load_data()
-print(">>> DATA LOADING: Complete")
+# Force GC to clear any temp artifacts from loading
+gc.collect()
+print(">>> DATA LOADING: Complete, GC run.")
 
 # Robustness check: Ensure length match
 if len(df_chunks) != len(embeddings_array):
@@ -364,6 +368,9 @@ if prompt:
         full_response = ""
         
         try:
+            # Force GC before heavy lifting
+            gc.collect()
+            
             client = openai.OpenAI()
             
             # 1. Retrieve (Hybrid or Vector)

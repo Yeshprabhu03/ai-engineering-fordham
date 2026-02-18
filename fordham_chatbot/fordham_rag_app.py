@@ -421,7 +421,8 @@ if prompt:
                 "Answer the user's question concisely using the provided context. "
                 "Always cite your sources if possible. "
                 "If the context doesn't contain the answer, say you don't know."
-                "If the user asks for an opinion (e.g., 'best campus'), provide a neutral comparison based on the features of each option in the context."
+                "If the user asks for an opinion (e.g., 'best campus'), provide a neutral comparison based on the features of each option in the context. "
+                "If the context contains valid data (even if formatted as a messy table), try to extract the relevant answer."
             )
             
             # Construct messages with history

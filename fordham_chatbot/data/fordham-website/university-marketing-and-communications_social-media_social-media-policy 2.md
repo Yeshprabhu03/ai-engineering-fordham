@@ -1,0 +1,22 @@
+https://www.fordham.edu/university-marketing-and-communications/social-media/social-media-policy
+
+# Fordham University Social Media Policy
+
+Fordham University’s social media presence serves to engage with our community, share important updates, and foster meaningful conversations. To ensure that all interactions align with our mission and values, we have established the following policies for users of our social media channels as well as University account administrators.
+
+**Content and Engagement**
+
+**Authenticity and Respect**: Content should be genuine, respectful, and foster constructive dialogue. Avoid posting material that is threatening, obscene, or disparaging to any individual or group. **Accuracy and Attribution**: Ensure all information shared is accurate and, when applicable, credit original sources. Promptly correct any errors to maintain credibility. **Confidentiality**: Do not disclose confidential or proprietary information about the university, its students, staff, or faculty. This includes adhering to policies related to FERPA, HIPAA, and other privacy regulations. **Compliance and Legal Considerations:**All social media activities must comply with applicable laws, including copyright, privacy, and harassment statutes, as well as university policies. **Media Usage:**University account administrators are prohibited from posting any photos, videos, or music on Fordham’s social media channels unless they have secured the necessary rights or explicit permission for their use. This includes, but is not limited to, copyrighted images, stock photos without proper licenses, and song snippets.**Platform Terms of Service**: Users must familiarize themselves and comply with the terms of service of each social media platform they utilize. **Right to Moderate and Delete Content**: Fordham University reserves the right to monitor, moderate, and remove content that:- Violates university policies or applicable laws
+- Contains hate speech, harassment, or threats
+- Includes misinformation or false claims
+- Promotes commercial products/services unrelated to Fordham University
+- Is spam or disruptive to meaningful discussion
+**Right to Block**: Users who repeatedly violate these guidelines may be restricted or blocked from engaging with Fordham-affiliated accounts.
+
+**Account Management**
+
+**Administrative Oversight**: Each official social media account must have at least two administrators: a primary and a secondary. While students may assist in managing accounts, they should not hold the highest administrative rights. This ensures continuity and security in account management and avoids abandoned accounts. **Official Contact Information**: Accounts should be registered using official Fordham University email addresses, ensuring they are tied to the institution rather than personal emails.**Account Registration:**Administrators should also register their official University accounts with University Marketing and Communications to facilitate collaboration between social media administrators. Registered accounts will be included in the University’s social media directory. Administrators can register their account or request a new account at[fordham.edu/social](http://fordham.edu/social).**Representation and Disclaimers**- Personal vs. Professional: When discussing university-related matters on personal accounts, employees and students should clarify that their opinions are their own and not reflective of Fordham University's official stance.
+- Official Voice: Only authorized individuals may post on behalf of the university. Ensure that all official communications align with Fordham University's mission and values.
+**Monitoring and Enforcement**- Active Oversight: Designated administrators are responsible for monitoring their social media channels, ensuring compliance with this policy, and addressing any issues that arise.
+- Reporting Violations: Any violations of this policy should be reported to
+[[email protected]](/cdn-cgi/l/email-protection). Non-compliance may result in disciplinary action, including the revocation of account privileges. **Crisis Management**- Coordinated Communication: During emergencies or crises, refrain from posting unverified information. All communications must be coordinated through the university's official channels, managed by University Marketing and Communications, to ensure accuracy and consistency.

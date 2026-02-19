@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/fountain-policy
+
+# Student Handbook: Fountain Policy
+
+The University fountain located on the Rose Hill campus adjacent to Dealy Hall has been installed to resemble the historic space once enjoyed by students, staff, faculty, and visitors. Stepping into, wading, or swimming in the fountain, or placing objects, substances, or chemicals into the water is strictly prohibited as such actions can easily damage the fountain’s pump system and surrounding site, resulting in costly repairs and cleanup. Any student who engages in such prohibited conduct will be subject to disciplinary action, and sanctions will include, but are not limited to, a $250 fine and the cost of any repairs and cleanup.

@@ -1,0 +1,48 @@
+https://www.fordham.edu/about/living-the-mission/diversity-and-inclusion/diversity-resources/anti-black-racial-violence-resources
+
+# Anti-Black Racial Violence Resources
+
+So many New Yorkers (and people of color living in America) know there are two sets of rules and two sets of justice in this city and country. However, the mayor must provide some real leadership these last months in office to move the needle on racial and police equity…as promised.* Mr. Mayor, Please Focus. The Amsterdam News*, May 13, 2020
+
+[Christina Greer](/academics/departments/political-science/faculty/christina-greer/), Ph.D., Associate Professor, Political Science, Fordham University
+
+**Themes**: Self-Care; Caring for Black People; Articles; Books
+
+Jesuit Resources on Racism: [Ignatian Solidarity Network–Racial Justice](https://ignatiansolidarity.net/)
+
+**Fordham University Press**
+
+**Self-Care**
+
+[How black Americans can practice self-care... And how everyone else can help](https://ignatiansolidarity.net/), Elizabeth Wellington, 2020.[4 Self-Care Resources for Days When the World is Terrible](https://www.colorlines.com/articles/4-self-care-resources-days-when-world-terrible), Miriam Zoila Pérez, 2020.
+
+**Demonstrating Care for Black People**
+
+[Your Black Colleagues May Look Like They’re Okay — Chances Are They’re Not](https://www.refinery29.com/en-us/2020/05/9841376/black-trauma-george-floyd-dear-white-people), Danielle Cadet, Refinery 29, 2020.[Before You Check In On Your Black Friends, Read This](https://www.refinery29.com/en-us/2020/06/9848854/check-in-black-friends-colleagues-what-to-say), Elizabeth Gulino, Refinery 29, 2020.
+
+**Articles**
+
+[Around the world, the U.S. has long been a symbol of anti-black racism](https://www.washingtonpost.com/outlook/2020/06/05/around-world-us-has-long-been-symbol-anti-black-racism/), Dr. Nana Osei-Opare, The Washington Post, 2020.[Racism Won’t be Solved by Yet Another Blue Ribbon–Report](https://www.theatlantic.com/politics/archive/2020/06/george-floyd-racism-police-brutality/612565/), Adam Harris, The Atlantic, 2020.[The assumptions of white privilege and what we can do…, Bryan N. Massingale](/academics/departments/theology/faculty/bryan-massingale/), National Catholic Reporter, 2020.[The NFL Is Suddenly Worried About Black Lives](https://www.theatlantic.com/ideas/archive/2020/06/nfls-amnesia-just-like-americas/612505/), Jemele Hill, The Atlantic, 2020.[Performative Allyship is Deadly (Here’s What to Do Instead)](https://forge-medium-com.cdn.ampproject.org/c/s/forge.medium.com/amp/p/c900645d9f1f), Holiday Phillips, Forge–Medium, 2020.[Talking About Race: A Conversation with Ijeomo Oluo and Ashley Ford](https://news.fordham.edu/colleges-and-schools/fordham-college-at-rose-hill/talking-about-race-a-conversation-with-ijeomo-oluo-and-ashley-ford/), Fordham News, 2019.[A Look Back At Trayvon Martin’s Death, And the Movement...](https://www.npr.org/sections/codeswitch/2018/07/31/631897758/a-look-back-at-trayvon-martins-death-and-the-movement-it-inspired), Karen Grigsby Bates, Code Switch - NPR, 2018.[Paul-Emile, K](/school-of-law/faculty/directory/full-time/kimani-paul-emile/). (2018).[Blackness as Disability](https://drive.google.com/file/d/1M7BQXjBVtWtjfhR3hyB1he6fg2v-y3z5/view), Geo. LJ, 106, 293.[The Intersection of Policing and Race, Danyelle Soloman](https://www.americanprogress.org/issues/race/reports/2016/09/01/143357/the-intersection-of-policing-and-race/), American Progress, 2016.[The Cost of Balancing Academia and Racism](https://www.theatlantic.com/education/archive/2016/01/balancing-academia-racism/424887/), Adrienne Green, The Atlantic, 2016.[The Politics of ‘Looting’ and ‘Violence’](https://www.counterpunch.org/2015/05/01/the-politics-of-looting-and-violence/), Eric Draitser, CounterPunch, 2015.- Anderson, E. (2015).
+[The White Space. Sociology of Race and Ethnicity](https://drive.google.com/file/d/12UXfr3GQj7BJV2DZlCNDYvRAuiS6I4qC/view), 1(1), 10-21.
+
+**Books**
+
+- Kendi, I. X. (2019).
+[How to be an Antiracist](https://books.google.com/books?id=6pNbDwAAQBAJ&printsec=frontcover#v=onepage&q&f=false). One World/Ballantine. [Hernández](/school-of-law/faculty/directory/full-time/tanya-k-hernandez/), T. K. (2018).[Multiracials and Civil Rights: Mixed-race Stories of Discrimination](https://books.google.com/books?hl=en&lr=&id=xsQ4DwAAQBAJ&oi=fnd&pg=PT7&dq=Multiracials+and+Civil+RightsMixed+Race+Stories+of+Discrimination&ots=fl9YknNUV9&sig=y1Bn4rVYRc4aeFa792tNKJCyeFA#v=onepage&q=Multiracials%20and%20Civil%20RightsMixed%20Race%20Stories%20of%20Discrimination&f=false), NYU Press.- Oluo, Ijeoma (2018)
+[So You Want to Talk About Race](https://www.hachettebookgroup.com/titles/ijeoma-oluo/so-you-want-to-talk-about-race/9781580058827/?lens=seal-press), (2018). Anti–Racism Resources - Khan-Cullors, P. (2018).
+[When they call you a terrorist: A Black lives matter memoir](https://www.google.com/books/edition/When_They_Call_You_a_Terrorist/6l4mDwAAQBAJ?hl=en&gbpv=1&printsec=frontcover), Canongate Books. [Fletcher Hill](/academics/departments/theology/faculty/jeannine-hill-fletcher/), J. (2017).[The Sin of White Supremacy: Christianity, racism, & religious diversity in America](https://books.google.com/books?hl=en&lr=&id=DNYnDwAAQBAJ&oi=fnd&pg=PT6&dq=the+sin+of+white+supremacy&ots=Nvx5QAYijg&sig=Z5l4csO2bOvdP53DKFdgi5jNeO0#v=onepage&q=the%20sin%20of%20white%20supremacy&f=false), Orbis Books.- Ritchie, A. J. (2017).
+[Invisible no more: Police violence against Black women and women of color](https://books.google.com/books?id=HjE_vgAACAAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), Beacon Press. - Hill, M. L. (2016).
+[Nobody: Casualties of America’s war on the vulnerable, from Ferguson to Flint and beyond](https://www.google.com/books/edition/Nobody/jOjPCgAAQBAJ?hl=en&gbpv=1&printsec=frontcover), Simon and Schuster. - Coates, T. (2015).
+[Between the World and Me](https://www.google.com/books/edition/Between_the_World_and_Me/YoGJDQAAQBAJ?hl=en&gbpv=1), United Kingdom: Spiegel & Grau. [Massingale, B. N.](/academics/departments/theology/faculty/bryan-massingale/)(2014).[Racial Justice and the Catholic Church](https://books.google.com/books?id=1asdBAAAQBAJ&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), Orbis Books.- Rankine, C. (2014).
+[Citizen: an American lyric](https://www.google.com/books/edition/the_citizen/rC8FAAAAQAAJ?hl=en&gbpv=1&printsec=frontcover), Graywolf Press. - Byfield, N. (2014).
+[Savage portrayals: Race, media and the Central Park jogger story](https://muse.jhu.edu/book/28329), Temple University Press. - Steele, C. M. (2011).
+[Whistling Vivaldi: How stereotypes affect us and what we can do](https://www.google.com/books/edition/Whistling_Vivaldi_And_Other_Clues_to_How/QknUdjqhEJcC?hl=en&gbpv=1), WW Norton & Company. - Alexander, M. (2010)
+[The New Jim Crow: Mass Incarceration in the Age of Colorblindness](https://newjimcrow.com/about), The New Press. - Pollock, M. (Ed.). (2008).
+[Everyday Antiracism: Getting real about race in school](https://www.google.com/books/edition/Everyday_Antiracism/HdeLW41dxn0C?hl=en&gbpv=0), The New Press. - Bonilla-Silva, E. (2006).
+[Racism without racists: Color-blind racism and the persistence of racial inequality in the United States](https://books.google.com/books?id=gV-NL8EJI7UC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false), Rowman & Littlefield Publishers.
+
+**Multimedia: Documentaries and Conversations**
+
+[13th](https://www.youtube.com/watch?v=krfcq5pF8u8)(2016) [Film]. Netflix. Duvernay, A. (Streaming for free)[Just Mercy](https://www.justmercyfilm.com/)(2019) [Film]. Warner Bros. Cretton, D. D. (Streaming for free)[Black vs. White: Protesting & Riots](https://www.youtube.com/watch?v=GDLwsLjaFZ0)(2020) [Interview][Dr. Christina Greer](/academics/departments/political-science/faculty/christina-greer/)& Jason Johnson[Keeanga-Yamahtta Taylor on How Racism & Racial Terrorism…](https://www.democracynow.org/2020/6/1/keeanga_yamahtta_taylor_protests_class_rebellion)(2020)[Interview] DemocracyNow![Decade of Fire](http://decadeoffire.com/)(2019) [Film]. GoodDocs. Hilderbran, G., Vazquez, V.[When They See Us](https://www.netflix.com/title/80200549)(2019) [TV Mini-series]. Netflix. Duvernay, A.[Angela Davis–“Freedom is a Constant Struggle”](https://www.youtube.com/watch?v=5u1aHpEtWyA)(2019) [Lecture] The University of New England[Dr. Robin DiAngelo discusses ‘White Fragility’](https://www.youtube.com/watch?v=45ey4jgoxeU)(2018) [Book Talk] Seattle Central Library[The Urgency of Intersectionality](https://www.ted.com/talks/kimberle_crenshaw_the_urgency_of_intersectionality/discussion)(2016) Kimberlé Crenshaw, TED[The Black Power Mixtape](https://www.youtube.com/watch?v=jFWHNpfjByQ)(2011) [Film]. PBS Independent Lens. Göran Olsson[Color Blind or Color Brave](https://www.ted.com/talks/mellody_hobson_color_blind_or_color_brave?language=en)(2014) Mellody Hobson, TED[The Power of Vulnerability](https://www.ted.com/talks/brene_brown_the_power_of_vulnerability?language=en)(2010) Brené Brown, TED[Intersectionality Matters](https://podcasts.apple.com/us/podcast/intersectionality-matters/id1441348908)[Podcast] Kimberlé Crenshaw[Code Switch](https://www.npr.org/sections/codeswitch/)[Podcast] NPR[Pod Save the People](https://crooked.com/podcast-series/pod-save-the-people/)[Podcast] Deray McKesson
+
+Get Involved: [The Bronx Freedom Fund](http://www.thebronxfreedomfund.org/) | [8can’twait](https://8cantwait.org/)

@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/departments/english/faculty/faculty-directing-new-dissertations
+
+# Faculty directing new dissertations
+
+### The following faculty are currently available to serve as directors and/or readers for new dissertation projects, upon review:
+
+
+
+[Andrew Albin](/academics/departments/english/faculty/andrew-albin/)[Anne Fernald](/academics/departments/english/faculty/anne-fernald/)[Catherine Chaput](/academics/departments/english/faculty/catherine-chaput/)[Chris GoGwilt](/academics/departments/english/faculty/christopher-gogwilt/)[Crystal Colombini](/academics/departments/english/faculty/crystal-broch-colombini/)[Moshe Gold](/academics/departments/english/faculty/moshe-gold/)[Frank Boyle](/academics/departments/english/faculty/frank-boyle/)[Glenn Hendler](/academics/departments/english/faculty/glenn-hendler/)[Heather Dubrow](/academics/departments/english/faculty/heather-dubrow/)[John Bugg](/academics/departments/english/faculty/john-bugg/)[Jordan Stein](/academics/departments/english/faculty/jordan-alexander-stein/)[Julie Kim](/academics/departments/english/faculty/julie-chun-kim/)[Keri Walsh](/academics/departments/english/faculty/keri-walsh/)
+
+Lawrence Kramer[Lenny Cassuto](/academics/departments/english/faculty/leonard-cassuto/)[Maria Farland](/academics/departments/english/faculty/maria-farland/)[Rebecca Sanchez](/academics/departments/english/faculty/rebecca-sanchez/)[Robb Hernández](/academics/departments/english/faculty/robb-hernandez/)[Sarah Zimmerman](/academics/departments/english/faculty/sarah-zimmerman/)[Sasha Ann Panaram](/academics/departments/english/faculty/sasha-ann-panaram/)[Shonni Enelow](/academics/departments/english/faculty/shonni-enelow/)[Susan Greenfield](/academics/departments/english/faculty/susan-greenfield/)[Suzanne Yeager](/academics/departments/english/faculty/suzanne-yeager/)[Thomas O'Donnell](/academics/departments/english/faculty/thomas-odonnell/)[Daniel Contreras](/academics/departments/english/faculty/daniel-contreras/)[Dennis Tyler](/academics/departments/english/faculty/dennis-tyler/)[Vlasta Vranjes](/academics/departments/english/faculty/vlasta-vranjes/)

@@ -1,0 +1,5 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/feerick-center-for-social-justice/programs/attorney-emeritus-program/training-resources
+
+# Attorney Emeritus Program Training Resources
+
+The Attorney Emeritus Program website collects training materials and articles to support the pro bono civil legal services of Emeritus volunteers and the work of civil legal services that host Emeritus volunteers. Visit [this ](https://www.nysattorneyemeritus.law/training-resources/)[web ](https://www.nysattorneyemeritus.law/training-resources/)[page](https://www.nysattorneyemeritus.law/training-resources/) for a compilation of these materials. The collection is a work in progress. Please send us links to any materials you think will be helpful to other legal services providers. To submit the information please email [[email protected]](http://aepcoordinator@fordham.edu/).

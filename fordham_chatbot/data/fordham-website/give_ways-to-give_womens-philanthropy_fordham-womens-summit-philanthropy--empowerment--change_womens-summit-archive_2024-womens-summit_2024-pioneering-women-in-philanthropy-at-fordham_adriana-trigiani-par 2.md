@@ -1,0 +1,8 @@
+https://www.fordham.edu/give/ways-to-give/womens-philanthropy/fordham-womens-summit-philanthropy--empowerment--change/womens-summit-archive/2024-womens-summit/2024-pioneering-women-in-philanthropy-at-fordham/adriana-trigiani-par
+
+# Adriana Trigiani, PAR
+
+![](/media/home/departments-centers-and-offices/give/gv9r6ayA-Cropped.png)
+
+
+Beloved by millions of readers around the world for her "dazzling" novels (*USA Today*), Adriana Trigiani is “a master of palpable and visual detail” (*Washington Post*) and “a comedy writer with a heart of gold” (*New York Times*). She is the *New York Times* bestselling author of 20 books of fiction and nonfiction, including her latest, *The Good Left Undone, *an instant *New York Times* best-seller, Book of the Month pick, and People’s Book of the Week. Her work is published in 38 languages around the world. An award-winning playwright, television writer/producer, and filmmaker, Trigiani's screen credits include writer/director of the major motion picture of her debut novel, *Big Stone Gap*, the adaptation of her novel *Very Valentine,* and director of *Then Came You*. Trigiani grew up in the Blue Ridge Mountains of Virginia, where she co-founded The Origin Project, an in-school writing program serving more than 1,700 students in Appalachia. She is at work on her next novel for Dutton, Penguin Random House. [Click here for full bio of Adriana Trigiani](https://adrianatrigiani.com/about-adriana/).

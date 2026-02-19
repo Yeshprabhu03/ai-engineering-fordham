@@ -1,0 +1,13 @@
+https://www.fordham.edu/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities
+
+# Internal Funding Opportunities
+
+![Group of students working around lab bench - LG](/media/review/content-assets/migrated/images/CShinn_100112_1030.jpg)
+
+Internal funds are available from the [Office of Research](/academics/research/office-of-research/) and from the [University Research Council](/academics/research/office-of-research/initiatives-and-infrastructure/university-research-council/) to support research, scholarship, and creative activities through annual university-wide competition.
+
+Learn more about the following funding opportunities:
+
+[Distinguished Research Award](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/distinguished-research-award/)[Faculty Research Abroad Program](/academics/research/office-of-research/initiatives-and-infrastructure/faculty-research-abroad-program/)[Faculty Research Grant](/academics/research/faculty-research/faculty-research-grants/)[Fordham Research Fellow and Research Intern Programs](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fellow-and-intern-programs/)[Fordham Review Panel for External Proposals](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/review-panel-for-external-proposals/)[Fordham Strategic Research Consortia](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/)[High Performance Computing](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/high-performance-computing/)[Large Proposal Grant Writing Fund](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/large-proposal-grant-writing-fund/)[Manuscript and Book Publication Award](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/manuscript-and-book-publication-award/)[Sponsored Research Travel Grant Program](/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/sponsored-research-travel-grant-program/)[Fordham AI Research Grant](https://www.fordham.edu/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-ai-research-grant-fair/)
+
+For general information on how to access internal funding please review the [Office of Research Internal Funding Management Guide](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/OR_Internal_Funding_Management_Guide_2020.pdf)

@@ -1,0 +1,3 @@
+https://www.fordham.edu/about/living-the-mission/campus-ministry/justice-and-service/global-outreach/alumni-perspectives
+
+"It's hard to pick a specific favorite memory from the trip because there were so many to choose from. Whether it was dancing with locals in a square at night, learning about sustainable solutions to water issues in rural communities, walking to Palm Sunday mass while singing with a community, spotting monkeys while driving, visiting the Nazareth school to learn about education—especially special education in Honduras—or simply playing spoons with my group after meals, laughing, and reflecting on our day, every moment we spent in Honduras impacted my life in some way, and the week has become one of my favorite memories."

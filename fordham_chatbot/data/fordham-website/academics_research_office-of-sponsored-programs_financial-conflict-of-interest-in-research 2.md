@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/research/office-of-sponsored-programs/financial-conflict-of-interest-in-research
+
+# Financial Conflict of Interest in Research
+
+Effective August 24, 2012, the Public Health Service, the umbrella agency which includes Fordham funders such as NIH, SAMHSA and the CDC, has adopted a revised, more stringent [Financial Conflict of Interest Policy](http://grants.nih.gov/grants/policy/coi/fcoi_final_rule.pdf) in regards to any research project under the PHS. Fordham University has opted to adopt these guidelines for all externally-funded projects, regardless of the sponsor.
+
+Fordham's Office of Sponsored Programs and Office of Legal Counsel have developed a **Policy on Financial Conflict of Interest in Externally-Sponsored Research**. Please use the link to the left to review our policy.
+
+Additionally, a [Disclosure Form](/media/home/departments-centers-and-offices/office-of-sponsored-programs/pdfs/COI-form.pdf) has been developed; please use the link to the left to access the form.
+
+Finally, one of the requirements of the PHS policy is **training**, which must occur prior to expending any grant dollars, and must be updated at least every four years. Fordham offers two choices for training. One is the [Collaborative Institutional Training Initiative (CITI) ](https://www.citiprogram.org/)"Conflict of Interest in Human Subject Research" training module. Please follow these [Instructions for Registering and Completing CITI Course](/media/review/content-assets/migrated/pdfs/jadu-single-folder-pdfs/Instructions_for_Completing_Human_Subjects_Research_CITI_Training_UPDATED_2.28.17.pdf) if you have not already done so. After registration, you will need to select “Add a Course or Update Learner Groups” to take the training. The other option is the National Institutes of Health Office of Extramural Research training program at [https://grants.nih.gov/grants/policy/coi/tutorial2018/story_html5.html](https://grants.nih.gov/grants/policy/coi/tutorial2018/story_html5.html). Either option will allow you to save a certificate of your training for your files.

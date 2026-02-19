@@ -1,0 +1,11 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2020-showcase-and-participants/brandon-roy
+
+# Brandon Roy '20
+
+![Brandon Roy](/media/review/content-assets/migrated/images/Roy_photo_1.jpg)
+
+**Major:** Computer Science**Bio:** Brandon Roy grew up in New York City and came to Fordham University to pursue his studies in computer science. He was introduced to the topic of combinatorial fusion by Dr. Frank Hsu and joined his partners to further research the benefits of its application in sentiment analysis.
+
+**Title of Research:** Sentiment Analysis on Tweets Using Machine Learning and Combinatorial Fusion
+
+**Mentor: **Dr. Frank Hsu**Abstract:** Social media platforms such as Twitter contain a plethora of complex data and this will only grow as time goes on. Sentiment analysis has been effective at extracting information from this data. Despite this, challenges still present themselves. Given a certain subject, the majority of people may tweet with a certain bias towards one sentiment which can lead to an imbalance of data to work with. An issue also presents itself with interpreting human language and how to deal with the semantic context of words, phrases, commands, queries, etc. To address the issues of imbalanced data and semantic context we propose a two-stage data analytic approach using machine learning algorithms and combinatorial fusion. The five machine learning algorithms we use are: logistic regression, naïve Bayes, perceptron, random forest, and support vector machine (SVM). Combinatorial fusion is used to combine subsets of the machine learning algorithms listed. In this project, the sentiments we want to classify are positive, negative, and neutral. We show that individually, the five-machine learning listed can perform adequately. But we also show that the combination of the five algorithms with higher performance ratio and cognitive diversity can outperform individual algorithms.

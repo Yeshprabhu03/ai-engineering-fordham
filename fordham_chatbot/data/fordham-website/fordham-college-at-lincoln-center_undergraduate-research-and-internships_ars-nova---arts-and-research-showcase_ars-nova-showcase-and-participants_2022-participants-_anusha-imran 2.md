@@ -1,0 +1,11 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2022-participants-/anusha-imran
+
+# Anusha Imran ‘22
+
+**Major:** Natural Science**Bio: **Anusha Imran is a current senior pursuing a Natural Science degree on the Pre-Heatlh track with a minor in Business Administration at Fordham College Lincoln Center.
+
+**Title of Research:** Macrofossils in Mastodon Matrix**Mentor:** Dr. Guy Robinson, Department of Natural Sciences**Abstract:** During the summer of 1999, several large bones of Mammut americanum were uncovered in the process of deepening a pond in Hyde Park, New York. The following year, a complete skeleton was excavated. The Mastodon Matrix Project, a citizen science program, was conducted by the Paleontological Research Institute. Thousands of bulk pond mud samples were distributed to K-12 schools. Students sorted and categorized and returned an extraordinarily rich array of plant and animal fossils. Other samples collected with stratigraphic control were used to develop radiocarbon-dated plant macrofossil and pollen stratigraphy of the Pleistocene deposit.
+
+We examined sediment collected from direct contact with the skeleton, focusing on the following. First, how does the assemblage of plants and invertebrates from direct contact material compare with the known macrofossil stratigraphy? Second, does this assemblage contain mastodon hair? No published study describes mastodon integument. No evidence supports the long hair portrayed in reconstructions, but there are indications mastodon hair shafts were hollow, suggesting the extinct animal had a semi-aquatic habitat.
+
+We found abundant tundra vegetation in our sample, suggesting the sediment surrounding the skeleton is at least a thousand years older. No traces of hair were present. A tusk fragment shows the mastodon lived 11,480 +/- 60 radiocarbon years before present, by which time tundra was absent from the landscape. We conclude that some time post-mortem, the bones sank deep into sediments of the earlier late Pleistocene. Therefore, if hair from the same animal survived the decomposition of other soft tissue, younger sediments located in strata above the skeleton will need to be examined.

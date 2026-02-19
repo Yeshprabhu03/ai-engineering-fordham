@@ -1,0 +1,19 @@
+https://www.fordham.edu/academics/departments/computer-and-information-science/academic-programs
+
+# CIS Academic Programs
+
+![Female Student in Computer Lab](/media/review/content-assets/migrated/images/092214_Lincoln_Campus_47.jpg)
+
+Computer and Information Science offers a host of undergraduate, graduate, and special academic programs. Please explore all programs offered.
+
+- Major in
+[Computer Science](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/computer-science-degree/)leading to either a BA-CS or a BS-CS - Major in
+[Information Technology and Systems](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/information-technology-degree/)leading to a BS-ITS - Interdisciplinary minor in
+[Bioinformatics](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/bioinformatics-minor/)(MINOR-BIOINF) - Minor in
+[Computer Science](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/computer-science-degree/)or[Cybersecurity](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/cybersecurity-minor/)or[Information Technology and Systems](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/information-technology-degree/)(MINOR-CS, MINOR-CYBERSEC, MINOR-ITS)
+
+[Special Programs for Undergraduates](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/special-programs/):
+
+[Computer and Information Sciences Accelerated Master's Programs](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/special-programs/accelerated-masters-program/)[3-2 engineering program](/academics/departments/computer-and-information-science/academic-programs/undergraduate-programs/special-programs/3-2-engineering-program/)[Math and Computer & Information Sciences](/academics/departments/math-and-computer--information-sciences/)
+
+[Doctoral Degree in Computer Science](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/phd-in-computer-science/)[Master's Degree in Computer Science](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-computer-science/)[Master's Degree in Cybersecurity](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-cybersecurity/)[Master's Degree in Data Science](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-data-science/)[Master's Degree in Data Science and Quantitative Economics](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-data-science-and-quantitative-economics/)[Dual MA/MS Degree in Economics and Data Science](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/master-of-science-in-data-science/dual-mams-degree-in-economics-and-data-science/)[Advanced Certificate in Artificial Intelligence for Cybersecurity](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/advanced-certificates/artificial-intelligence-for-cybersecurity/)[Advanced Certificate in Financial Econometrics and Data Analysis](/academics/departments/computer-and-information-science/academic-programs/graduate-programs/advanced-certificates/data-analysis-and-financial-econometrics/)

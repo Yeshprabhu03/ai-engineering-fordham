@@ -1,0 +1,15 @@
+https://www.fordham.edu/how-to-apply-to-college-a-step-by-step-guide/your-final-college-choice/do-i-see-myself-here
+
+# Do I See Myself Here?
+
+![Two students in the city](/media/home/commonly-used-images/admission-advice/698A8866.jpg)
+
+Our best piece of advice? Look for a college that makes you feel at home.
+
+And that means across the board. While academics are important, what you do outside of the classroom can be just as important. Extracurricular activities, study abroad programs, sports, and service projects also add to your experience, and allow you to leave your mark on the community.
+
+Here are some questions to keep in mind as you think about what campus community is right for you (and yes, this applies to residents and commuters!):
+
+**Does the school have clubs and organizations that you’re interested in joining?**Extracurricular activities are a great way to make friends, put what you learn into practice, and explore new interests. The types of clubs you see at a school are a good way to get a feel for the types of students you’ll meet.**Are there athletic opportunities available?**Many schools offer a variety of options, from top-level varsity programs to competitive club sports to intramurals you can simply play for fun with your friends.**Are there things to do off campus?**While campus life can be fulfilling and enjoyable, having things to do off campus can make you feel like a part of the broader community. Are there restaurants, performing arts spaces, volunteer opportunities, parks, or sporting venues nearby? Knowing what’s available to you and comparing that to your priorities and preferences can help you picture your life beyond campus.**What are the demographics of the student body?**A diverse student body can give you new perspectives on the world and introduce you to new cultures. Looking at the school’s student profile can give you an idea of what your future classmates might be like.**Does the school offer study abroad opportunities?**For many students, studying abroad can provide not only a rewarding academic experience but a cultural and social one as well. Many colleges and universities have campuses abroad, while others have partnerships with other universities. (Fordham happens to have both.)**What is the campus culture like?**Do students gather every weekend on campus for sports, performing arts, or other activities? Are there large-scale events that bring the entire community together? Is the majority of socializing happening on campus or off campus? Think of the events and gatherings you have enjoyed in high school, and see if that kind of community exists at the colleges and universities you’re deciding among.
+
+You should look to find a college that both pushes you academically and makes you feel safe, welcome, and at home.

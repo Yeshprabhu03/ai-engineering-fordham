@@ -1,0 +1,7 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/feerick-center-for-social-justice/pathways-to-practice-series
+
+# Pathways to Practice Series
+
+The *Pathways to Practice* Speaker Series, a collaboration of centers and institutes at Fordham Law School (including: the Feerick Center, the Urban Law Center, the Public Interest Resource Center, Stein Center, the Leitner Center, the Clinical and Externship Program, the National Center for Access to Justice, the Career Planning Center), brings primarily Law School graduates in public interest fields to share with law students the trajectory of their careers. Speakers range from very recent graduates who have successfully secured public interest employment to more established graduates who are ten and fifteen years in practice. The questions cover a broad range of career-oriented topics, including preparing for interviews, advice on resumes and cover letters, the day to day of the practice and related topics. Past programs have focused on the pathways to careers in: immigration, housing, government, criminal law, international human rights, labor and employment, child advocacy and family law.
+
+For more information, contact: the Public Interest Resource Center ([[email protected]](/cdn-cgi/l/email-protection#2e5e475c4d6e424f590048415c4a464f43004b4a5b)) or the Feerick Center for Social Justice ([[email protected]](/cdn-cgi/l/email-protection#c5a3a0a0b7aca6aea6a0abb1a0b785a9a4b2eba3aab7a1ada4a8eba0a1b0)).

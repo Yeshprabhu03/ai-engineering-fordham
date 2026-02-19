@@ -1,0 +1,19 @@
+https://www.fordham.edu/graduate-school-of-social-service/about/our-mission-and-deans-message
+
+# Our GSS Mission and Dean's Message
+
+![Debra M. McPhee](/media/review/content-assets/migrated/images/Debra_McPhee_GSS_Dean.jpg)
+
+Welcome to Fordham! At Fordham’s Graduate School of Social Service (GSS), we prepare graduates at three degree levels to be effective agents for change as they strive to enhance the quality of life for the individuals, groups, communities, and organizations they serve. While our school is driven by its value base and mission to promote human rights, social justice, and social change, our program educates students for practice through a distinguished faculty that uses the profession’s latest research and most current practice theories. We are particularly proud to be ranked among the nation’s top graduate schools in social work in the *U.S. News and World Report Best Graduate Schools Guidebook*.
+
+Our school's commitment to excellence in education and scholarship is built on professional social work values and the Jesuit educational tradition with its focus on social justice. Located in the greater New York City metropolitan region, Fordham prepares social work professionals and instills in our students a commitment to the profession while helping them build the competencies necessary for them to effectively serve diverse populations.
+
+The mission of the Fordham University Graduate School of Social Service is to educate students to promote human rights and social justice. The school strives to improve the well-being of people and communities through teaching culturally responsive, evidence-informed practice and engaging in research, public advocacy, and community partnership.
+
+Whether you relate to the fast-paced hum of an urban campus or the tree-lined avenues of the suburbs, Fordham has a place for you. The cosmopolitan Manhattan campus is in the heart of the city’s performing arts center, and our Fordham Westchester campus is located in West Harrison, NY, in scenic Westchester County. On Long Island, we offer a collaborative program with Molloy College in Rockville Centre. Whichever location you choose, you will find yourself among students with diverse backgrounds and experiences, from all economic strata, some with experience and others brand new to the field.
+
+The Graduate School of Social Service prepares leaders for the profession. Our students are placed in world-class agencies whose hallmarks are innovation and dedication to social justice. Among our distinguished alumni are Dennis Walcott, MSW, MH, former chancellor of the NYC Department of Education; Rosa Gil, BSW, founder and president of Communilife, Inc.; Michael Dowling, president and CEO of North Shore-Long Island Jewish Health System; John Damonti, president of the Bristol-Meyers Squibb Foundation; Ruth Sanchez-Way, PhD, former director of the Center for Substance Abuse Prevention, Substance Abuse and Services for Mental Health Administration (SAMSHA); and the Honorable Richard Berman, federal district judge in the Southern District of New York, to name a few.
+
+Academic excellence at Fordham is enhanced by a strong sense of community inspired by social work values and by the tradition of Jesuit institutions for cura personalis: Care for the whole person. Individual attention to students by faculty, administrators, and staff is a hallmark of our school. This individualized approach is reflected in the range of programs and schedules designed to respond to each student’s personal and professional needs, and in our ongoing support and assistance for career planning as students prepare to graduate.
+
+Debra M. McPhee, Ph.D.

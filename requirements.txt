@@ -6,3 +6,5 @@ streamlit>=1.30.0
 audio-recorder-streamlit>=0.0.10
 rank_bm25>=0.2.2
 # Force rebuild for new dependency
+datasets>=2.16.0
+lancedb>=0.25.0

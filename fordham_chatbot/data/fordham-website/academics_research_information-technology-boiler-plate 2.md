@@ -1,0 +1,13 @@
+https://www.fordham.edu/academics/research/information-technology-boiler-plate
+
+# Information Technology Boiler Plate
+
+## Information Technology Boilerplate
+
+Fordham Information Technology (IT) provides the project’s key personnel with access to a wide array of digital resources to include personal computing equipment, virtual server instances (VM’s), multi-gigabit links to the internet, standard gigabit connection to the Fordham network, as well as an extensive secure wireless network and more.
+
+These extensive computer resources are, of course, available to all university faculty. Fordham University’s computer resources are located throughout all three main campuses of the University. The university’s network spans all campus locations with high-speed dedicate links. All are maintained and coordinated by Fordham IT, which manages the campus data communication network and provides internet access to the entire Fordham community through 4 different Gigabit links from three separate ISPs.
+
+Fordham IT supports three campuses and 14 satellite locations, maintains 269 servers and 384 virtual servers (36 TBs of storage monthly). All certified users have an ID and password to access the Digital Library databases, the World Wide Web, email, and a variety of statistical, database, spreadsheet, graphics, and word processing programs. The network consists of 400 high speed switches, 50 miles of network, 15,000 wired ports and over 1,000 wireless access points. The network connects all computers (both desktop office computers and laptop computers at individual student desks and lab benches), all printers and special devices. Upon request research faculty can get a complete virtual server supplied with required memory, SAN storage and Operating System (Linux; Windows Server). Fordham University’s networks are protected by state of the art firewall systems including intrusion detection software. Full data and system back up capabilities are provided.
+
+Fordham Information Technology works in close collaboration with students, faculty, trustees and the University’s business offices to identify the most efficient and effective technology initiatives that touch every corner of the University's academic and administrative functions. The ratio of full-time faculty to IT staff is 5:1, facilitating quick resolution of help desk inquiries (84% within 24 hours). Over the past four years this collaboration has been focused on the introduction of a new enterprise-wide infrastructure that will serve as a platform for excellence that will foster the continued evolution of information technology services that contribute to the University's position as a premier educational institution.

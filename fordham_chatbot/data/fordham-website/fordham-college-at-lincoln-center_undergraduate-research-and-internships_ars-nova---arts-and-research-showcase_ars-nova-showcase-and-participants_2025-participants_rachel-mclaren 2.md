@@ -1,0 +1,15 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2025-participants/rachel-mclaren
+
+# Rachel McLaren, FCLC 2025
+
+![Rachel McLaren Headshot](/media/home/schools/fordham-college-at-lincoln-center/ars-nova-showcase/DSC06870---Rachel-McLaren-Â·-s-Small.jpeg)
+
+**Major:** Anthropology and Psychology
+
+**Bio:** Rachel McLaren is a senior at Fordham University majoring in both Anthropology and Psychology, with a double minor in Latin American & Latino Studies and Peace & Justice Studies. Rachel's research interests in cultural anthropology lie specifically in the effect of place and physical structures on the mental formation and messaging around concepts of self and community. Further, she seeks to apply an interdisciplinary approach to anthropological research, planning to develop more of these skills and familiarity with more fields in her future graduate studies. Receiving the Deans Summer Research Grant in 2023-24 cycle and now the 2024-25 one, she has been able to, with two different anthropological research projects investigate how art and culture and the institutions, social rules, and mechanisms within and without them operate.
+
+**Title of Research:** The Personalities and Effects of Museums: An Exploration of Cultural Institutions in the Benelux Region
+
+**Mentor:** Aseel Sawalha, Sociology and Anthropology
+
+**Abstract:** This project aims to explore the ideological, sociological and international effects of multiple cultural institutions throughout the Benelux Region. The researcher visited 18 museums throughout the Benelux region, eight in Amsterdam, eight in Brussels, and two in Luxembourg, many of them multiple times. The main institutions referenced and analyzed are the Stedelijk, Wereldmuseum, Rijksmuseum in Amsterdam, and Atomium, Mini Europe, Royal Museum of Fine Arts and Art and History Museum, in Brussels. Utilizing methods of ethnography, physical and digital media cataloguing and analysis, the goal of the research was to explore how the “personality” or the philosophies, ways of thinking and behavior of museums has an effect on their audiences and identifying the manners in which they do so, particularly in the realm of conveying narratives of national ideas. The author attempts to signal to the story being wielded in each cultures favor or detriment based off of the amalgamated image of the museum and if it is effective based on the behavior of visitors, ultimately placing this story in a context of a long history of racial capitalism, traditional and neo-colonialism, and ethno-nationalism, while analyzing the physical spaces and institutionally provided media to buffer and orient these analyses. This research operates to raise questions about where museums interpretation, preservation and presentation of culture does, how it happens and what its effect is.

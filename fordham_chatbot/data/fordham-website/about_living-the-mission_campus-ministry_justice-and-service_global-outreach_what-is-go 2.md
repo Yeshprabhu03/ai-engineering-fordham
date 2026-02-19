@@ -1,0 +1,13 @@
+https://www.fordham.edu/about/living-the-mission/campus-ministry/justice-and-service/global-outreach/what-is-go
+
+## The History of Global Outreach
+
+In Global Outreach, we seek to nurture civically-minded leaders for a global society who work for justice and solidarity in the world while being committed to lifelong learning and holistic transformation. As a program, ¡GO! values an ongoing commitment to sustainable relationships, anti-racism, solidarity, environmentalism and sustainability, community engagement, global citizenship, cultural exchange, education, and multiculturalism.
+
+In 1962, the university sent 27 students to Mexico for the months of June - August, where students participated in direct service with local partner organizations. For around 25 years, Fordham launched a series of ad hoc mission trips to both Mexico and Peru. Campus partners in academic and student affairs supported these student led efforts.
+
+In 1988, the Global Outreach program (35 years ago) was named officially as a student-led club that ran service trips. Global Outreach in the 1990s fell under the office of Campus Ministry. As the program grew, GO became its own office within the Division of Mission, under Fr. Joe Currie, SJ. Between 1988 and 2016, Global Outreach ran close to 60 service projects a year, functioning solely as a student driven initiative and working closely with upwards of 80 global partners.
+
+In 2016, Fordham participated in the AJCU Mission Priority Examen process, through which the external evaluator team recommended a pedagogical shift towards a culture of community engaged learning. In this recommendation, the Division of Mission Integration and Planning merged The Dorothy Day Center for Service and Justice and The Global Outreach Program into The Center for Community Engaged Learning, where it resided for around 7 years. GO! has since moved back into the department of Campus Ministry, remaining under the Division of Mission, to continue our student-focused community engagement.
+
+Since our first immersion project sending 27 students to Mexico in 1962, our mission has been to engage with, be challenged by, and further evolve Fordham’s longstanding global partnerships. We employ an asset-based approach to community development, working with our partners to work with us to identify community-driven solutions. Through these relationships, students understand and wrestle with social justice, solidarity, spirituality, and their Jesuit education.

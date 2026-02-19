@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/clubs-and-student-organizations
+
+# Student Handbook: Clubs and Student Organizations
+
+Students are encouraged to form student clubs and organizations, an important part of the educational experience of co- and extracurricular participation, service, and activity related to various interests, cultures, and causes. All student organizations must be formally approved and recognized by the University in order to become active including recruiting, organizing events, advertising activities, reserving space, and receiving funding, among other functions. Undergraduate student clubs and organizations must follow the process for club approval published and managed by the Offices for Student Involvement, United Student Government, and the Dean of Students. Graduate and professional school student organizations must follow the process for club approval published and managed by the appropriate student government (if applicable) with the additional approval of the graduate or professional school dean’s office.

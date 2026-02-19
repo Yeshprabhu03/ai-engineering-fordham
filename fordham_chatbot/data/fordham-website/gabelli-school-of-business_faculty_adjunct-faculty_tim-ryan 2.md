@@ -1,0 +1,9 @@
+https://www.fordham.edu/gabelli-school-of-business/faculty/adjunct-faculty/tim-ryan
+
+# Tim Ryan, CPA, CISA
+
+## Adjunct Professor of Information, Technology and Operations
+
+![Tim Ryan](/media/home/schools/gabelli-school-of-business/Tim_Ryan.jpg)
+
+Tim Ryan has been with Sheltered Harbor since January 2017 and currently serves as managing director of adherence. Ryan also serves as an adjunct professor at Fordham University’s Gabelli School of Business, teaching IT Audit/Information Assurance and Cybersecurity. Starting in May 2014, he was with GE Capital Internal Audit and served as a director of internal audit quality assurance for technology. Prior to his tenure at GE Capital, Ryan worked at Citigroup and served as a program director, covering technology audit within the Finance, Capital Markets, Corporate Functions, Compliance and AML divisions. During his 20-plus years with Citigroup, he managed numerous technology audits of information security and applications controls, and served as a subject matter expert for business continuity. Ryan also developed audit guidance and training programs for application controls, end-user computing and business continuity. Previously, he held a variety of audit roles at Prudential and at Automatic Data Processing, where he began his career as an operations and technical support manager. Ryan is a leadership member of the NY IIA, an IIA GTAG guidance contributor, an officer in the RMA Internal Audit Council, and an InfraGard member (NY Chapter). He earned graduate degrees from Fairleigh Dickenson University and Stevens Institute, along with a B.S. in accounting from the University of Scranton and holds CPA and CISA certifications. Ryan and his family reside in Northern New Jersey.

@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2022-participants-/olivia-spenard
+
+# Olivia Spenard' 22
+
+![Olivia Spenard](/media/home/schools/fordham-college-at-lincoln-center/Olivia-Spenard.jpg)
+
+**Major:** Theatre**Bio:** Olivia is a Senior Theatre Performance Major and Classics Minor. She has also studied directing and playwriting. She is devoted to using the arts and theatre as a form of community outreach and a platform for exploring contemporary social issues. She is especially interesting in modernizing Ancient Texts through a feminist lense.
+
+**Title of Research:** [The Girls: A Contemporary Adaptation of The Bacchae](https://docs.google.com/presentation/d/14DxeBugL_MPuVF7ZNcmtqdOnKDG-JovVJJGYBiY95Z0/edit?usp=sharing)**Mentor:** Matthew Maguire, Department of Theatre and Visual Arts**Abstract:** This project explored the ancient Greek play The Bacchae through a contemporary feminist lens. It began with an independent study on behalf of my classics minor. I was specifically interested in the parallels between the cult of Dionysus and the women in cults in the American 1960's. I began by examining the presentation and portrayal of Greek women in a variety of Greek texts, both original and adapted in the contemporary. Concurrently, I researched the counterculture and cult culture of the 1960's, looking specifically at Charles Manson, Jim Jones and the Share Family, along with the rise of 2nd Wave Feminism. I also examined the art of adaptation itself. I then began drafting the play. The play went through two different workshopping processes, the first in the summer of 2020. With the help of the Fordham Arts and Research Grant, The Girls experienced a second workshopping processes with actors and directors which culminated in a live performance of the play in New York City in July, 2021.

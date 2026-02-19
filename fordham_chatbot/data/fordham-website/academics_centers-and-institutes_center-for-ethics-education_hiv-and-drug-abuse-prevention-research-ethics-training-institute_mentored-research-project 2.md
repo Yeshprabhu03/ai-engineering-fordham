@@ -1,0 +1,17 @@
+https://www.fordham.edu/academics/centers-and-institutes/center-for-ethics-education/hiv-and-drug-abuse-prevention-research-ethics-training-institute/mentored-research-project
+
+# RETI Mentored Research Project
+
+In addition to the summer training program, fellows also receive mentoring and faculty and peer feedback on a proposal for an original study that empirically examines a key ethical issue related to the fellow's area of HIV and drug abuse prevention research. Fellows will receive a small grant of up to $30,000 for an approved mentored research project proposal. Data collection is expected to be completed at the end of Year 1 and findings submitted for publication, presentations, or as pilot data for a grant in Year 2. Mentored research projects (MRPs) can be designed as a supplement to a current research investigation or as a stand-alone pilot project, and all projects must include some form of participant/community involvement appropriate to the study. To view project abstracts of both past and current fellows, please view our [Institute Fellows](/academics/centers-and-institutes/center-for-ethics-education/hiv-and-drug-abuse-prevention-research-ethics-training-institute/about-reti/institute-team/institute-fellows/) page.
+
+The role of the primary research mentor is to guide the fellow in designing and collecting preliminary data for presentation at professional meetings and publication if appropriate, and to help the fellow incorporate this pilot data into a supplemental grant for an existing HIV and drug abuse prevention study, as part of a new grant focused on HIV and drug abuse prevention, or an independent grant on HIV and drug abuse research ethics.
+
+During the summer institute, fellows are introduced to a wide range of qualitative and quantitative strategies for empirically examining ethical issues in HIV and drug abuse prevention research. For examples of empirical research ethics articles, please view the collection, [ HIV and Drug Abuse Research Ethics Across the Globe](https://www.researchethics.net/hiv-aids-drug-abuse-ethic) or visit
+
+[researchethics.net](https://www.researchethics.net/). Below are some examples of potential mentored research project study topics.
+
+- Assessment and enhancement of participant consent capacity and culturally sensitive and respectful consent practices involving individuals with or at risk for HIV and drug abuse
+- Development and evaluation of voluntary recruitment strategies involving (a) children and adolescent when guardian protections are questionable or unavailable, (b) prisoners and parolees, and (c) women in communities with high levels of gender inequities
+- Influences on recruitment and HIV risk behaviors of monetary incentives, respondent driven sampling, and provision of HIV testing and health care in resource poor communities
+- Stakeholder perspectives on and consequences of decisions regarding confidentiality and disclosure in research involving serodiscordant couples, stigmatized populations (MSM), those at legal risk (drug users, sex workers), and the effect of human rights policies in countries in which research is conducted
+- Enhancing responsible conduct of research involving digital media, mobile health and other new technologies

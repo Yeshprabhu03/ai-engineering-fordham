@@ -1,0 +1,35 @@
+https://www.fordham.edu/academics/research/office-of-research/newsletters/spring-2025-newsletter/spotlight-on-fordham-researchers
+
+# Spring 2025 Newsletter Spotlight on Fordham Researchers
+
+#### Fordham Researchers Discuss Dignity in the Workplace
+
+![](/media/home/departments-centers-and-offices/research/61401d40-ac62-42a7-9286-22d2835b020e.jpg)
+
+![](/media/home/departments-centers-and-offices/research/5b08efce-f1ac-4adc-ab06-ed75b52cf3f5.jpg)
+
+
+
+Dr. Michael Pirson, Professor, Gabelli School of Business (Left), and Dr. Ayse Yemiscigil, Assistant Professor of Organizational Behavior, Gabelli School of Business
+
+
+In October 2024, Fordham faculty Drs. Michael Pirson and Ayse Yemiscigil along with Dr. Donna Hicks, from Harvard’s Weatherhead Center for International Affairs, co-authored [an article for Harvard Business Review](https://hbr.org/2024/10/how-does-dignity-fit-into-your-leadership?utm). The article examines the crisis in organizational management with regard to supporting dignity in the workplace. We requested that these two Fordham researchers answer our questions related to this article.
+
+Drs. Pirson and Yemiscigil co-authored these responses for this newsletter article:
+
+**Q. **You co-authored an excellent article in HBR. Why is "dignity" such an important issue for leadership in organizations - large and small?**A. **Unfortunately there is a pandemic of bad leadership across organizations and across the globe. People at all levels are disengaging and cynicism rages high. In many ways people expect to be seen and heard and want to matter, yet in most organizations people are treated as robotic resources, including in many bureaucracies such as universities. What we expect from leaders is changing. The traditional view of leadership has been focused on command and control. Data shows that that leadership style is one of the underlying reasons for trends like great resignation or quiet quitting.
+
+**Q. **How do you evaluate the degree to which organizations uphold the importance of "dignity"?**A.** Everybody senses when they enter a space that has “good vibes,” where energy is high, and people are alive. Human energy is unleashed when people are treated with dignity and viewed as intrinsically valuable. Most organizations, bureaucracies and businesses alike, are dreaded much like the mockumentary “The Office” and the cartoon “Dilbert” showcase. Many leaders get the draining nature of organizational culture and want to transform it without knowing how to do so. Some of the practices that center on dignity are common sense and are related to having fair procedures in the workplace. Yet, a true recognition of dignity shows up in how authentically people are listened to and communicated with, how truly they are acknowledged for their work, and to the extent that they can make meaningful contributions.
+
+**Q. **What are your hopes for the future direction of your research related to human dignity in the workplace?**A. **We are exploring how to measure dignity and human energy at work through different means, including infrared and other wave length sensors. In addition, we are expanding the network of organizations we are working with to explore dignity literacy, dignity culture and transformation to support human flourishing. We are also looking into how 'teachable' dignity-based organizing and leadership is. Can we actually develop the necessary knowledge and skills to support dignity-based organizing? What makes a difference? Understanding how dignity extends to non-humans and the natural environment is another exciting area.
+
+#### Dr. Ying Mao Leads a Fordham Team in the Field of Quantum Computing
+
+![](/media/home/departments-centers-and-offices/research/QuantumWeek.jpg)
+
+
+Fordham computer scientist, Dr. Ying Mao, and his team of Fordham Ph.D. students (see the team’s photo above) are exploring ways to improve quantum computing, which is a powerful means of increasing the efficiency of processing information. Dr. Mao informed us that his team’s recent research was [reported by The Quantum Insider](https://thequantuminsider.com/2024/12/30/circuit-knitting-technique-sews-up-nearly-8-fold-reduction-in-quantum-resource-overhead/?trk=feed_main-feed-card_feed-article-content), a publication providing market intelligence and news related to quantum technologies.
+
+Dr. Mao agreed to answer questions regarding his research. Here are his responses:
+
+**Q. **What is the focus of your research currently and in the recent past?**A. **My current research focuses on scalable computing systems, addressing challenges in both classical and quantum domains. My goal is to advance the field of quantum-classical computing through resource-efficient algorithms, innovative architectures, and system-level optimizations. As the limitations of classical computing become increasingly evident in the post-Moore’s Law era, quantum computing presents a transformative alternative. Platforms such as IBM Quantum, Amazon Braket, and NVIDIA CUDA-Q have created new opportunities to explore synergies between quantum and classical computing. Specifically, my research aims to leverage quantum computing to tackle the challenges of system scalability, resource constraints, and energy efficiency. I aspire to enhance both academic research and real-world applications.**Q. **What are the most important outcomes and accomplishments of this research?**A. **We have developed a scalable system for cutting and reconstructing circuits within a distributed quantum-classical computing framework. Unlike existing approaches, our method models a large quantum circuit as a social network, with connected communities represented as a graph. An efficient partitioning algorithm is employed to identify cutting points in the input circuit, taking into account heterogeneous resource constraints across multiple quantum workers, such as qubit counts, resource utilization, and noise levels. Compared to IBM's Qiskit Circuit Knitting Toolbox, our system achieves near-optimal cutting with significant speed improvements, ranging from 50x to 2000x, which reduces cutting delays from tens of seconds to mere milliseconds.**Q. **What are your hopes for the future direction of your research activity?**A.** In my future research, I will focus on developing AI-enhanced quantum-classical computing systems designed to manage noise, correct errors, map qubits, and schedule distributed resources. For example, by utilizing reinforcement learning and transformer-based models, my research will adapt to the specific characteristics of each platform, such as connectivity patterns, gate fidelities, and noise profiles. This approach will enable the dynamic allocation of qubits and operations, helping to minimize noise interference while maximizing computational stability in heterogeneous and distributed quantum systems. Besides research, our team will seek commercialization opportunities based on our technologies.

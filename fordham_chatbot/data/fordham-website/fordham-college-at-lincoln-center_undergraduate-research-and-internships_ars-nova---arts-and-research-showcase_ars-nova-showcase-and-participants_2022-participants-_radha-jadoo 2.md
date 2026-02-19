@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2022-participants-/radha-jadoo
+
+# Radha Jadoo ‘22
+
+![Radha Jadoo](/media/home/schools/fordham-college-at-lincoln-center/Radha-Jadoo.jpeg)
+
+**Major:** Integrative Neuroscience**Bio: **Radha is a senior in the Integrative Neuroscience program at Fordham. She hopes to integrate her interests in political science and healthcare to pursue a career in public health that focuses on improving the lives of others.
+
+**Title of Research:** Investigating the Temporal Relationship between Need for Cognition and Cognition using Cross-lagged Panel Analysis**Mentor:** Dr. Karen Siedlecki-Burgoon, Department of Psychology**Abstract:** Previous research has demonstrated a relationship between need for cognition (NFC) and measures of cognition, though the potential for a temporal relationship between the two has not been examined. This study uses cross-lagged panel analysis to investigate the directional relationship of NFC and cognition over time. Data were used from the Virginia Cognitive Aging Project, which included participants between the ages of 19 and 99 years (N = 2967). Participants completed measures assessing NFC and five cognitive domains: episodic memory, vocabulary, reasoning, processing speed, and spatial visualization. Results demonstrated a reciprocal temporal relationship between NFC and two cognitive domains: vocabulary and spatial visualization. The remaining cognitive domains (episodic memory, reasoning, processing speed) did not have a directional relationship with NFC over time. These findings provide insight into the temporal relationship between NFC and cognition.

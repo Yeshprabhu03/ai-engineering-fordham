@@ -1,0 +1,3 @@
+https://www.fordham.edu/academics/research/office-of-sponsored-programs/limited-submission-opportunities
+
+On occasion, a funding opportunity will arise that is limited to just one or two proposals from each institution. In that case, an internal competition is necessary to pick the most promising applications. Please contact Rebeca Franco, Director, Office of Sponsored Programs, to express interest in these opportunities at [[email protected]](/cdn-cgi/l/email-protection#721d010232141d00161a131f5c171607).

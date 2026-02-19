@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/research/office-of-research/events/international-symposium-on-digital-scholarship/international-symposium-on-digital-scholarship-abstracts/print-data-network-photograph-recreating-women-student-ties-at-the-university-of-london-1900-1910
+
+# Print, Data, Network, Photograph: Recreating Women Student Ties at the University of London, 1900-1910
+
+In 1868 the University of London became the first British higher education institution to allow women to sit examinations. Women’s admission to London degrees came a decade later, and was followed by the foundation of Westfield (1882) and Royal Holloway (1886) as women-only colleges.
+
+This paper considers these pioneering students via a four-stage process that engages several digital practices. Published (‘*print’*) registers provide lists of London graduates by name, college and degree. Digitization allows for the extraction of women recipients and—as XML ‘*data’*—provides the means to navigate student records held in college archives. Arranged by year of admission, these records typically offer only the outline of an undergraduate career. However, on rare occasions, they’re supplemented with richer accounts—of which a run of report cards for those attending Royal Holloway (1890 to 1921), is one example.
+
+The Holloway records add much biographical detail, including names of between 4 and 8 fellow undergraduates identified as that student’s principal college ‘friends’. From these we can recreate student ‘*networks’*, allowing us speculate on the student experience for undergraduates who previously existed only as names in a degree listing. Holloway’s archive also contains a run of *photographs* of its Edwardian students posed in groups. The sitters’ identities are not recorded. However, via network visualization we might better appreciate the context of these groupings and the micro-historical value of a digital practice more commonly applied to histories of scale.

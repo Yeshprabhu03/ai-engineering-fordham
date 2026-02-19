@@ -1,0 +1,5 @@
+https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-provost/about-us/our-work/academic-initiatives/speech-act-series/speech-impacts-cancel-culture-and-the-consequences-of-our-words
+
+# Speech Impacts: ‘Cancel Culture’ and the Consequences of Our Words
+
+View the November 4, 2021 discussion panel on Speech Impacts: ‘Cancel Culture’ and the Consequences of Our Words.**Featured Speakers:**[Cornell Belcher](https://iop.harvard.edu/fellows/cornell-belcher), researcher and commentator at Harvard Kennedy School’s Institute of Politics [Meredith Clark](https://camd.northeastern.edu/news/leading-journalist-and-social-media-scholar-meredith-clark-to-found-ground-breaking-research-center-in-the-college-of-arts-media-and-design-at-northeastern-university/), Associate Professor and Founding Director of the new Center for Communication, Media Innovation and Social Change, Northeastern University[Suzanne Nossel](https://pen.org/user/suzanne-nossel/), is CEO of PEN America **Moderator: **[Jesse Baldwin-Phillipi](https://www.fordham.edu/info/29829/cms_faculty_and_staff/4893/jessica_baldwin-philippi), Fordham University

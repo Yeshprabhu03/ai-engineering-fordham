@@ -1,0 +1,17 @@
+https://www.fordham.edu/about/living-the-mission/jesuit-and-catholic/jesuits-at-fordham
+
+# Jesuits at Fordham
+
+[The Jesuits](http://www.jesuit.org/) are men who belong to a Catholic religious order called the Society of Jesus. This group was founded by St. Ignatius of Loyola and several other companions over 450 years ago to be of service to the Church and spread the Christian faith. St. Ignatius' spirituality, contained in the Spiritual Exercises and the Constitutions of the Society of Jesus, guide and animate Jesuits as they continue that same task under the direction of the Pope, to whom they have a special bond. Today we express our mission as the service of faith and the promotion of the justice of the Kingdom of God preached by Jesus Christ, committed to enculturated ministry and to respectful dialogue with those of other faith traditions or who do not believe.
+
+As of 2021, there were approximately 19,000 Jesuit priests, brothers, scholastics (seminarians in training) and novices (seminarians or brothers just starting their Jesuit formation) around the world. About 3,000 of them are in the United States organized into five provinces or administrative jurisdictions.
+
+A major ministerial focus of the Jesuit Order, perhaps that for which it is best known, is education. In partnership with our lay colleagues, we seek to form men and women for and with others, who will be agents of social justice and attentive to the needs of the poor among us, and who will excel in their chosen fields of study. We are committed to the Catholic worldview that sees faith and reason as complimentary and mutually enlightening. Through our teaching, research and writing, we further the expanse of reason by bringing to its quest for truth the wisdom and concerns of the Christian faith. And we strive to articulate the intelligibility of the Christian faith with the assistance and insights of the different fields of human knowing.
+
+Jesuits are not exclusively educators. We engage in a plethora of ministerial undertakings; from parish ministry, spiritual direction, social justice projects, to work overseas where the Church is just starting out or where the diocesan clergy is not yet fully established, scientific research, popular and scholarly publications and ministry on the web. This wide variety of ministries is in keeping with our motto: Ad maiorem Dei gloriam (A.M.D.G.), which rules out no type of service for us, if it be for God's greater glory.
+
+The Fordham Jesuit Community is part of the [USA East Province](http://jesuitseast.org) of the Society of Jesus, and is located at [Spellman Hall.](https://www.fordham.edu/info/24744/spellman_hall) In addition, the community at Ciszek Hall, is the home of the Jesuit scholastics in First Studies at the University, and the USA East Province's infirmary and retirement residences are at Murray-Weigel Hall and Kohlmann Hall. With about 130 members, the Jesuit communities at Fordham University make up the largest group of Jesuits within the USA East Province found in one place or indeed one of the largest concentrations of Jesuits in the world.
+
+Of the Jesuit priests who reside in the Fordham Jesuit Community, many are full-time professors or administrators at the University while others minister at [Fordham Preparatory School](http://www.fordhamprep.org). Other Jesuits live in Manhattan and minister at Fordham's Lincoln Center campus.
+
+Please visit our Fordham Libraries webpage to see our [Jesuits in Coversation](https://www.library.fordham.edu/digital/collection/JesuitsConv)!

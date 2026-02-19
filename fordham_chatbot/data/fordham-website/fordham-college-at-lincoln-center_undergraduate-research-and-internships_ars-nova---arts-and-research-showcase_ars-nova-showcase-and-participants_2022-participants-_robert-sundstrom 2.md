@@ -1,0 +1,13 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2022-participants-/robert-sundstrom
+
+# Robert Sundstrom ‘22
+
+![Robert Sundstrom](/media/home/schools/fordham-college-at-lincoln-center/Robert-Sundstrom.png)
+
+**Major:** American Studies and Political Science**Bio: **Robert Sundstrom (he/him), Class of 2022, is double-majoring in Political Science and American Studies with a concentration in Diversity and Difference. This qualitative analysis was completed in fulfillment of the American Studies Senior Thesis Seminar. He wants to thank his advisor Chris Dietrich of the American Studies Department, his American Studies colleagues, and especially Professor Orit Avishai who taught the American Studies Senior Seminar this year.
+
+**Title of Research:** ‘Leftist to Liberal’: Pete Seeger, Popular Culture, and Radical Politics**Mentor:** Dr. Orit Avishai, Department of Sociology**Abstract:** Pete Seeger (1919-2014) had an outstanding and extensive career as a folk artist and social activist. He was an acclaimed pioneer in both the American Folk Music Revival and its rise to potent political relevance. A committed pacifist, Seeger remained active in people-focused causes until his death. Seeger’s music, identity, and reputation saw notable changes over his multi-decade career, as he attempted to straddle the line between fame and radicalism. Scholars still disagree about the effectiveness of those attempts, and a great disparity exists on basic questions regarding his dual identities of celebrity and activist.
+
+My project provides new insight into that basic tension by examining the context of ideological polarization that led to Seeger’s blacklisting in 1957. Seeger played a crucial role in defining the bounds of leftist opposition and, I argue, also in defining a more inclusive political identity during the Cold War. To understand that process, I build on the work of scholars that have emphasized Seeger’s continuing popularity and reputational rehabilitation, with the 1963 Billboard Top-Ten album Broadside Ballads, Volume 2 and his Carnegie Hall performance the same year.
+
+My project uses a wide array of primary sources— including archival research, public media and opinion, and the shifting content of Seeger’s songwriting— to help explain not only Seeger’s rehabilitation but how political reputations, in general, are constructed. How do figures who are identified as extreme, specifically on the left, move into the mainstream?

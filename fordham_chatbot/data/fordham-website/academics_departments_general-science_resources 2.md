@@ -1,0 +1,7 @@
+https://www.fordham.edu/academics/departments/general-science/resources
+
+# General Science Resources
+
+[Info for Prospective Fordham Students](/undergraduate-admission/why-fordham/)[Undergraduate Bulletin](https://bulletin.fordham.edu/undergraduate/general-science/#text)[Undergraduate Admissions](/undergraduate-admission/)[Campus Directory](http://411.fordham.edu/)[Campus Maps and Directions](/about/maps-and-directions/)[Summer Session at Fordham](/summer-session/)[Pre-Health Professions Advising Program](/fordham-college-at-rose-hill/academics/pre-professional-programs/pre-health/)[Teacher Certification Programs for Fordham Undergraduate Students](/graduate-school-of-education/academics/degree-and-certificate-programs/become-a-teacher/accelerated-masters-in-teaching-program/)[Pre-Law Advising Program](/fordham-college-at-rose-hill/academics/pre-professional-programs/pre-law/)[Occupational Outlook Handbook](https://www.bls.gov/ooh/)
+
+"A nationally recognized source of career information, designed to provide valuable assistance to individuals making decisions about their future work lives..." (U.S. Dept. of Labor's Bureau of Labor Statistics). This handbook is a good resource for researching potential careers.

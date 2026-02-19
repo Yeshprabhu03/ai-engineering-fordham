@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/aimee-rinehart-
+
+# Aimee Rinehart
+
+**Bio:**
+
+Dr. Aimee Rinehart co-led the design and research for a participatory large language model (LLM) for journalism, grounded in newsroom-led governance, ethical data procurement, and contextualized AI use. Through interviews with journalists, editors, and technologists, Dr. Rinehart and colleagues identified structural and cultural tensions and co-developed a framework—Newsroom Tooling Alliance—that supports responsible, transparent, and community-driven AI development. This work centers on aligning AI systems with the core values of journalism: trust, accountability, and public service.
+
+**Abstract:**
+
+Journalism has emerged as an essential domain for understanding the uses, limitations, and impacts of large language models (LLMs) in the workplace. News organizations face divergent financial incentives: LLMs already permeate newswork processes within financially constrained organizations, even as ongoing legal challenges assert that AI companies violate their copyright. At stake are key questions about what LLMs are created to do, and by whom: How might a journalist-led LLM work, and what can participatory design illuminate about the present-day challenges about adapting “one-size-fits-all” foundation models to a given context of use? In this paper, we undertake a co-design exploration to understand how a participatory approach to LLMs might address opportunities and challenges around AI in journalism. Our 20 interviews with reporters, data journalists, editors, labor organizers, product leads, and executives highlight macro, meso, and micro tensions that designing for this opportunity space must address. From these desiderata, we describe the result of our co-design work: organizational structures and functionality for a journalist-controlled LLM. In closing, we discuss the limitations of commercial foundation models for workplace use, and the methodological implications of applying participatory methods to LLM co-design.

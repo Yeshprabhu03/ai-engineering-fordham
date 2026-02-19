@@ -1,0 +1,13 @@
+https://www.fordham.edu/gabelli-school-of-business/faculty/adjunct-faculty/kerry-ogrady-edd
+
+# Kerry O’Grady, Ed.D.
+
+## Adjunct Professor Communications
+
+![Kerry O’Grady](/media/home/schools/gabelli-school-of-business/Kerry_OGrady_headshot.jpg)
+
+Kerry O’Grady, Ed.D., is a faculty affairs expert, sought-after pedagogical innovation consultant, award-winning curriculum developer and professor, and seasoned communications practitioner. Her present teaching appointments include courses in marketing, communications, and management at Fordham University, The University of Massachusetts Amherst, and Holy Family University. Recent past positions include director of teaching excellence at Columbia Business School and faculty director and associate professor of practice for the Master's in Public Relations and Corporate Communications program at Georgetown's School of Continuing Studies. Prior to Georgetown, she spent eight years at the NYU School of Professional Studies, leading and teaching in its M.S. in Public Relations and Corporate Communication program. A fearless author on systemic issues in higher education, she's authored pieces for *Inside Higher Ed* and *The Chronicle of Higher Education*.
+
+With professional experience in public relations, integrated marketing, and advertising, past corporate positions include associate director, integrated marketing for *Women's Health* magazine; senior manager, integrated marketing at *Parents*, *FamilyFun*, and *American Baby* magazines (Meredith Corp.); business development manager, La Voz and TV y Mas; and advertising executive, *The Arizona Republic* (Gannett, Inc.). She's also held consulting roles at Saatchi & Saatchi, Viacom, and TalkSpace. She is a regular pundit and media source, as seen in *The Washington Post*, *The New York Post,* *The Telegraph*, and on ABC News’ digital podcast “Uncomfortable.” She’s been honored with many awards, including President's Club (Gannett, Inc.), Marketing Campaign of the Year Finalist (Meredith Corp.), the Public Relations Society of America – NY top "35 Under 35" winner, and NYU's "Outstanding Service" award.
+
+She holds a B.A. (summa cum laude) in both Journalism and English from The University of Massachusetts Amherst; an M.S in Public Relations & Corporate Communication (with distinction) from New York University, and an Ed.D. in Leadership and Learning in Organizations from Vanderbilt University.

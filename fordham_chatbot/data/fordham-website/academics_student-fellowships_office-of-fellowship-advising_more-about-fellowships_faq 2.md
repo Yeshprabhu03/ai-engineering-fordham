@@ -1,0 +1,18 @@
+https://www.fordham.edu/academics/student-fellowships/office-of-fellowship-advising/more-about-fellowships/faq
+
+# FAQ
+
+The advisers in the Office of Fellowship Advising are more than happy to meet with you to discuss all aspects of the fellowships that interest you, from the eligibility and application requirements to the details of the essays you have to write. If you want to apply for a fellowship, [please get in touch](/cdn-cgi/l/email-protection#a3c5c6cfcfccd4d0cbcad3e3c5d6cfc1d1cac4cbd78dc6c7d6) with us to schedule an appointment.
+
+In the meantime, here are a few general pointers to help you get started.
+
+-
+**A fellowship is a funded opportunity for research, graduate work, professional opportunities, or experiences abroad. Visit**[our fellowships listings](/academics/student-fellowships/office-of-fellowship-advising/find-scholarships-and-fellowships/alphabetical-listing-of-fellowships-and-awards/)to locate fellowships that are right for you. Fellowships are also called “awards” or “scholarships.” -
+**Each fellowship has its own qualifications. Once you have selected a fellowship that matches your interests, visit the fellowship’s official website and view the eligibility requirements. If you’re eligible, speak with us to see if it’s a good fit for you. If it isn’t a good fit, we may be able to suggest one that is!** -
+**Almost all applications require personal statements and/or project proposals, transcripts, and recommendation letters. We offer support every step of the way, including but not limited to working with you through multiple revisions of your essay(s). Please note that we usually begin the application process six months prior to the national deadlines. We may have interim campus deadlines.** -
+**It is never too early to reach out to our office. Whether you are an undergraduate (even in your first or second year!), a graduate student, or alum, we are here to speak with you about awards. To schedule a meeting, email**[[email protected]](/cdn-cgi/l/email-protection#781e1d1414170f0b1011080b381e170a1c101915561d1c0d). -
+**Some awards (e.g., Truman, Goldwater, Marshall, and Rhodes) require an endorsement, or nomination letter, from the university. These letters help to introduce the applicant to the award’s selection committees and to emphasize the applicant’s suitability for the award. If you are interested in an award that has this requirement, schedule a meeting with us as soon as possible:**[[email protected]](/cdn-cgi/l/email-protection#2a4c4f4646455d5942435a596a4c45584e424b47044f4e5f). -
+**Yes, you can apply for multiple awards, although it is important for you to consider how much time you can commit to each application process. If you are thinking about applying for more than one simultaneously, our office can help you make that decision.** -
+**Strong letters of recommendation are an important part of your application, and many fellowship websites will provide specific information on the type of recommendation that is required. Read the guidelines carefully. In general, you should consider professors who can speak to your academic abilities in class or who have guided your research. Supervisors of service projects, relevant jobs, and internships can also be good choices depending on the award you are pursuing.** -
+**Yes, as long as you still fulfill the eligibility requirements for a given fellowship. It is not uncommon to apply more than once.** -
+**Yes, although many fellowships are for U.S. citizens or permanent residents, there are fellowships available for international students. Click here for our**[fellowship listing](/academics/student-fellowships/office-of-fellowship-advising/find-scholarships-and-fellowships/alphabetical-listing-of-fellowships-and-awards/).

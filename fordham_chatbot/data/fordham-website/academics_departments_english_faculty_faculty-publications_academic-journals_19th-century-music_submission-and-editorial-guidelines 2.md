@@ -1,0 +1,11 @@
+https://www.fordham.edu/academics/departments/english/faculty/faculty-publications/academic-journals/19th-century-music/submission-and-editorial-guidelines
+
+# Submission and Editorial Guidelines to 19th-Century Music Academic Journal
+
+*19th-Century Music* welcomes submissions on all aspects of music having to do with the "long" nineteenth century. The journal’s period of coverage has no definite boundaries; it can extend well back into the eighteenth century and well forward into the twentieth. The editors are open to studies of any musical or cultural development that affected nineteenth-century music and any such developments that nineteenth-century music subsequently affected. The journal’s interests are as diverse as the long century itself. They cover music of any type or origin and include, but are not limited to, topics in composition, performance, social and cultural context, analysis, music theory, critical theory, hermeneutics, aesthetics, documentary, archival, and editorial study, gender and sexuality, history, and historiography.
+
+Articles should be submitted electronically as Word files; these should include all text (endnotes, tables, captions, etc.) plus a one-page abstract with five key words provided at the end. Musical examples should be submitted as PDFs and illustrations as TIF, PDF, or JPEG files.
+
+All endnotes and extracts (citations) must be double-spaced. Submissions should be sent to the Editorial Office, *19th-Century Music*; Music Department; University of California, Davis: [[email protected]](/cdn-cgi/l/email-protection#36555b5755594542577643555257405f4518535243).
+
+For quotations transcribed from foreign sources, authors are urged to specify in the typescript occurrences of the following characters: ß, É, À, , Ï, and Ï. Prospective contributors should consult recent issues of *19th-Century Music *or* Writing about Music*, by D. Kem Holoman (Berkeley and Los Angeles, 1988), for matters of style. In most cases, we follow the practices of *The Chicago Manual of Style*, 16th edition (Chicago: University of Chicago Press, 2010).

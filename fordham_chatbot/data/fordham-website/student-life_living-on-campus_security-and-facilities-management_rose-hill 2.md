@@ -1,0 +1,9 @@
+https://www.fordham.edu/student-life/living-on-campus/security-and-facilities-management/rose-hill
+
+# Facilities Management at Rose Hill
+
+The University provides custodial services for the common areas of each residence hall, including lounges, corridors, stairways, and community lavatories. This cleaning is conducted at scheduled times between the hours of 6 a.m. and 2:30 p.m. Students are expected to clean their own rooms and suites. This includes bathrooms, kitchens, and living rooms in Finlay Hall, Walsh Hall, O’Hare Hall and Off-Campus housing facilities.
+
+To supplement the students’ own cleaning, the University will provide custodial services for the bathrooms in Finlay Hall, Walsh Hall, O’Hare Hall Arthur House and Terra Nova Houses and the kitchens in Walsh Hall, Arthur Houseand Terra Nova Houses once per year. The schedule for these cleanings will be available at least two weeks prior to the cleaning. All personal items must be removed from the bathroom and kitchen on the announced cleaning day. Failure to do so may result in judicial action and/or fines.
+
+A Resident Director may assign cleaning charges for public areas that have been unnecessarily, excessively, or repeatedly littered or soiled. Both the Offices of Residential Life and Custodial Services conduct room inspections to ensure room cleanliness and safety. Students may be fined for the maltreatment of a room or University property. Large-scale damage or soiling of community areas like bathrooms and halls will elicit community or hall/wing/house meetings to discuss the incident and review expectations and community standards. Students may be required to clean soiled areas.

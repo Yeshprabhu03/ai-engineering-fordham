@@ -1,0 +1,7 @@
+https://www.fordham.edu/graduate-school-of-education/centers-and-institutes/the-center-for-educational-partnerships/the-center-for-educational-partnerships-coaching-programs/cep-literacy-coaching-program
+
+# CEP Literacy Coaching Program
+
+Fordham Literacy coaches *Explain, Model, Guide Practice*, and *Aid* the application of five essential Literacy Learning skills and their application. Guided by the **Next Generation Learning Standards**, coaches focus on further developing literacy educators' expertise in:
+
+*Phonemic Awareness*: Recognizing the intricate sounds of spoken language.*Phonics Instruction*: Understanding dynamic approaches toward synthetic phonics, analytic phonics, analogy-based phonics, phonics through spelling, embedded phonics, and onset-rime phonics instruction.*Fluency*: Supporting the teaching of independent silent reading, repeated and monitored oral reading, choral reading, tape-assisted reading, and partner reading.*Vocabulary*: Developing strategies such as repeated exposure to words, direct vocabulary instruction, word-learning strategies, and indirect learning through conversations and reading activities.*Text Comprehension*: Identifying comprehension using graphic/semantic organizers, using questions, facilitating active processing of text, teaching the identification of content categories, and learning to summarize and synthesize ideas using one's own words.*Differentiated Instruction.**Higher Order Questioning Skills.**Interactive Instruction.*

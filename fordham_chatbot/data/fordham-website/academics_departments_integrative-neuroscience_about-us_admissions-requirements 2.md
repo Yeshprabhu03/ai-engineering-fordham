@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/departments/integrative-neuroscience/about-us/admissions-requirements
+
+# Integrative Neuroscience Admissions Requirements
+
+Incoming freshmen **cannot** be declared Integrative Neuroscience majors. They can indicate an interest in the major through an XNER designation on DegreeWorks but this does **not** guarantee admission to the program. Rather, students interested in the Integrative Neuroscience major will be evaluated at the end of their third semester as indicated below.
+
+Students are required to have a science GPA of 3.2 or above by the end of the fall semester of their sophomore year. Students may have less than a B- in no more than 4 credits of science courses, including labs, (Biology, Chemistry, Natural Sciences, Math, Computer Science or Psychology) at that time. At the time of declaring their major, students need to have taken a minimum of three of the nine [Foundation Courses](/academics/departments/integrative-neuroscience/curriculum/foundation-and-track-connected-neuroscience-courses/). It is **strongly encouraged** that students have taken at least one Foundation course from each discipline (Biological Sciences/Natural Science, Psychology, and Computer and Information Science). **No exceptions will be made to these requirements. **
+
+When a student applies for the major, they must specify an area of specialization: Cell and Molecular, Cognitive, or Systems and Computational. They can always change this area at a later time but since it has implications for which courses they will be selecting and research mentors they will be working with, it is important that they choose one as early as possible.

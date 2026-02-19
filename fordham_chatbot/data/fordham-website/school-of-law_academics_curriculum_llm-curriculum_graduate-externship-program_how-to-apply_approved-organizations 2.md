@@ -1,0 +1,69 @@
+https://www.fordham.edu/school-of-law/academics/curriculum/llm-curriculum/graduate-externship-program/how-to-apply/approved-organizations
+
+# Graduate Externship Program Approved Organizations
+
+- African Services Committee
+- Argo Group
+- Baker & McKenzie
+- Barbarian
+- Beanstalk.com
+- Billet Feit & Preis, P.C.
+- Cantor Fitzgerald
+- The Carmona Firm, PLLC & Sartaj Bal, PC
+- Cea Legal, P.C.
+- Chan Law LLC
+- Christie’s
+- Chugh LLP
+- Cilio and Partners P.C.
+- Dailymotion
+- DeHeng Chen, LLC
+- Dunnington Bartholow & Miller LLP
+- Elle Magazine
+- FINRA
+- Foley Hoag LLP
+- Freshfields Bruckhaus Deringer
+- Garson, Segal, Steinmetz, Fladgate LLP
+- Greenhills Ventures
+- Hand Baldachin & Amburgey LLP
+- The Harry Fox Agency, Inc.
+- Helfand & Helfand
+- HBA Law Firm
+- Haug Partners
+- The Human Rights Foundation
+- Kanmacher Law
+- Ladas & Parry LLP
+- Leleu Gomez & Alfaro
+- Lenox Hill Neighborhood House
+- Leopold Gross & Sommers, P.C.
+- Linklaters LLP
+- Loeb & Loeb
+- Macquarie Group
+- Michael Kors
+- Mount Synai Innovation Partners
+- M1 Real Estate
+- New York State Office of Policy and Planning
+- New York State Supreme Court
+- Ogmen & Associates
+- Open Society Foundations
+- Pacira Pharmaceuticals
+- Permanent Mission of Saudi Arabia to the UN
+- Pfizer
+- Pryor Cashman LLP
+- Regal Financial
+- RPCK Rastegar Panchal
+- Sony Music Entertainment
+- Securities & Exchange Commission
+- SFX Entertainment Inc.
+- Sullivan & Worcester LLP
+- TED Conferences
+- TLA Law, PLLC
+- Tosolini, Lamura, Rasile & Toniutti LLP
+- Tricon Energy
+- United Nations Development Program
+- United Nations Global Compact
+- United States EEOC
+- US Bankruptcy Court, Eastern District of NY
+- US Court of Appeals for the 2nd Circuit
+- Volunteer Lawyers for the Arts
+- White & Case LLP
+- Youman, Hubbard & Reed LLP

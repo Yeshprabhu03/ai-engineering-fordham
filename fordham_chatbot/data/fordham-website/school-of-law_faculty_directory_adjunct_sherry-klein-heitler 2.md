@@ -1,0 +1,13 @@
+https://www.fordham.edu/school-of-law/faculty/directory/adjunct/sherry-klein-heitler
+
+# Sherry Klein Heitler
+
+## Adjunct Professor of Law
+
+![Sherry Heitler](/media/review/content-assets/migrated/images/SKH_Photo.jpg)
+
+Justice Sherry Klein Heitler received her BA from Hunter College, her MA from New York University, and her JD from Fordham University School of Law. Before starting law school, she was Assistant Director of Admissions at the Brooklyn Campus of Long Island University. After her admission to the Bar in 1977 she worked as a Law Assistant in the New York City Civil Court. In 1979 she founded the law firm of Heitler & Levy, P.C. and was an Arbitrator for the New York City Civil Court. She also taught Family Law at Baruch College.
+
+Justice Heitler was elected as a Judge of the New York City Civil Court for a term beginning in 1994. She was designated an Acting State Supreme Court Justice in 1996, and in 2000 was elected to begin a term in 2001 as a State Supreme Court Justice. As a trial judge she evaluated, settled, and tried all types of cases. In 2007 she was designated to sit as an Associate Justice of the Appellate Term of the State Supreme Court, First Department. In August 2008 she was assigned to the Court's Center for Complex Litigation to administer the asbestos mass tort cases in the City of New York. In December of 2009 she left the Appellate Term when she was appointed as Administrative Judge for Civil Matters, First Judicial District. She continued to administer asbestos-related matters. In March 2015 Justice Heitler was appointed as the Chief of Policy and Planning of the New York State Unified Court System. The Office of Policy and Planning ("OPP") provides oversight for the court system's statewide network of "problem-solving" courts, which include drug, community, mental health, veterans, adolescent diversion, human trafficking and DWI courts. Judge Heitler is also responsible for reviewing and implementing new procedures and policies for the statewide foreclosure inventory. In addition, she is working to develop new case management practices in an effort to reduce case backlogs and promote better case outcomes for litigants, victims and communities in both civil and criminal matters.
+
+Justice Heitler has received numerous awards and has chaired and lectured at various programs established by professional groups of which she is a member. She has been an Adjunct Professor of Law at Fordham University School of Law for many years.

@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/departments/history/resources/for-graduates/funding/student-loans
+
+# Student Loans
+
+For students requiring financial assistance to pay for graduate studies, loans are available through both public and private sources. Public funding may come from both the federal government and the State of New York. The federal government provides graduate students with up to $20,500 a year (with a total allowance of $138,000) in both subsidized and unsubsidized Federal Stafford Loans. The GSAS provides directions for graduate students wishing to apply for Stafford Loans. Students must complete [FAFSA](https://studentaid.gov/h/apply-for-aid/fafsa) and (for New York residents) a [TAP](http://www.hesc.ny.gov/) as well as an [On-Line Stafford Loan Request](/student-financial-services/types-of-financial-aid/graduate-loan-resources/).
+
+[PLUS Loans](/student-financial-services/types-of-financial-aid/graduate-loan-resources/#d.en.186129) are also available for graduate students. Although PLUS Loans carry a higher interest rate than Stafford Loans, they do not count toward the $138,000 limit on Stafford Loans. Before applying for PLUS Loans, you must have applied for the maximum annual allowance under the Stafford Loan program, even should you choose not to accept Stafford Loans. In addition to these federal loan programs, private lenders offer [alternative student loans](/student-financial-services/types-of-financial-aid/graduate-loan-resources/#d.en.187054). Although Fordham University has preferred lenders, you are free to find the lender that best fits your needs.
+
+For additional information on graduate student loans, interested students should visit the [financial services website](/student-financial-services/graduate-financial-aid/).

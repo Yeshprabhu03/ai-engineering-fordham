@@ -1,0 +1,7 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/important-policies
+
+# Division of Student Affairs: Important Policies
+
+The various policies and processes for which the Division of Student Affairs are responsible are meant themselves to be infused with educational value and to strengthen an intellectual community which balances rights with responsibilities.
+
+In establishing high standards through policies from the [University Code of Conduct](/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/university-code-of-conduct/) to the [Non-discrimination Policy](/about/leadership-and-administration/administrative-offices/title-ix-office/non-discrimination-policy/), the [Sexual and Related Misconduct Policy](/student-life/deans-of-students-and-student-life/caring-for-students/campus-assault-and-relationship-education/), and the [University Alcohol Policy](/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/alcohol-policy/), our University hopes to effectively train men and women for and with others. In turn, these responsible citizens may assure the same qualities in future generations.

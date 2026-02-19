@@ -1,0 +1,8 @@
+https://www.fordham.edu/academics/departments/sociology-and-anthropology/internships-and-opportunities
+
+# Sociology and Anthropology Internships and Opportunities
+
+-
+[Reducetarian Foundation Fellowships](https://www.reducetarian.org/fellowship-overview)[TurnUp Youth Activism Remote Internship](https://docs.google.com/forms/d/e/1FAIpQLSeUZWU0oeFBF3mi5rfo_CUx-GFBH2HiQYysG3GiCm8NrlAG4A/viewform)[Green Corps Organizer Program - The Field School for Environmental Organizing](https://jobs.publicinterestnetwork.org/greencorps) -
+[University of Derby Transylvania Bioarchaeology Field School](https://www.transylvaniabioarchaeology.org/PROJECTS) -
+[Notre Dame Master of Science in Global Health](https://globalhealth.nd.edu/education-training/masters/)[Georgetown Master of Arts in International Migration and Refugees](https://isim.georgetown.edu/academics/master-of-arts-in-international-migration-and-refugees/)[Stony Brook University M.A. in Contemporary Asian & Asian American Studies](https://www.stonybrook.edu/commcms/asianamerican/programs/2016_MA_CAAS)[Sarah Lawrence M.S. in Education in the Art of Teaching](https://www.sarahlawrence.edu/art-of-teaching/)[Loyola Maryland Master's in School Counseling](https://www.loyola.edu/school-education/academics/graduate/school-counseling/masters)[Loyola Maryland Master's Programs in Forensic Science](https://www.loyola.edu/academics/forensic-science/graduate/)[Georgetown's MA Program in International Migration and Refugees](https://www.eventbrite.com/e/mimr-virtual-information-sessions-tickets-980363853677?aff=oddtdtcreator&keep_tld=1)

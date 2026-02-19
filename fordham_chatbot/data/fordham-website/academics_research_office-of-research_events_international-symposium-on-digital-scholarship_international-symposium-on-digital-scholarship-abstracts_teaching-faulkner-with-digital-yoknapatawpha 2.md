@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/research/office-of-research/events/international-symposium-on-digital-scholarship/international-symposium-on-digital-scholarship-abstracts/teaching-faulkner-with-digital-yoknapatawpha
+
+# Teaching Faulkner with Digital Yoknapatawpha
+
+Humanities teachers face the challenge of how to leverage their students’ proficiency with digital technologies in ways that deepen their ability to regard and use digital tools as more than mere aids for finding facts and explanations. In order for students to adapt to the changing technological world and be competitive in both the classroom and workplace, students must be able to use digital resources in line with Bloom’s Taxonomy: to apply information, analyze, evaluate, and, create new work. Further, it is essential that the traditional goals of the humanities thrive within these digital contexts and evolve alongside the developing digital world.
+
+To meet this challenge, we propose a pedagogy project that uses *Digital Yoknapatawpha*
+
+(DY), an NEH-funded project based at the University of Virginia that collects digitized maps and timelines of William Faulkner’s works in order to answer critical questions about his representation of history, race, gender, class, and more. Our project will enable students to create their own digital maps and/or chronological narrative of the novel As I Lay Dying (1930) to share with other students and to critically engage with DY’s own interpretation of the book. Teachers and students will have the opportunity to build digital literacies and engage in conversations with peers and scholars.

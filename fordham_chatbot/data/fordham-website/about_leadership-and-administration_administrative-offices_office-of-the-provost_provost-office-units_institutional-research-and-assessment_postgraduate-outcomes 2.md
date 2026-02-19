@@ -1,0 +1,8 @@
+https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-provost/provost-office-units/institutional-research-and-assessment/postgraduate-outcomes
+
+# Postgraduate Outcomes
+
+Consistent with our philosophy of *cura personalis*, Fordham University honors the heritage and history of each student, seeks to help every student fulfill their academic and personal goals during their time at Fordham, and then is extremely proud to see each student's accomplishments and achievements after graduation. We measure our success as an institution by our students and are equally proud of all of our graduates. While many of the most invaluable benefits of a Fordham education are intangible, such as a greater care and concern for our world, an increased appetite for knowledge, and the formation of lifelong friendships, by providing postgraduate outcomes data on our graduates, we hope to make more concrete and visible our contribution to the greater good.
+
+- Undergraduate First Destination Survey (all schools)
+[Gabelli School of Business - Graduate Division](/gabelli-school-of-business/student-and-career-resources/graduate-student-success-center/graduate-career-development/graduate-career-development-services/2022-employment-outcomes/)[Graduate School of Education](/graduate-school-of-education/about/accreditation-and-competencies/)[School of Law](/school-of-law/careers/jd-career-support/fordham-law-career-planning-center/employment-statistics/)

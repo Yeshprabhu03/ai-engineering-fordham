@@ -1,0 +1,12 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2020-showcase-and-participants/nicholas-catapano
+
+# Nicholas Catapano '20
+
+![Nicholas Catapano](/media/review/content-assets/migrated/images/Nicholas_Catapano.jpg)
+
+
+**Major:** Economics**Bio:** Nick is a senior in the Honors Program at Lincoln Center. A native of Queens, NY, he hopes to work in government advisory positions for public policy at the city and federal levels. Outside of class, he loves performance art and has regularly contributed to productions with Stove's Comedy Club and FCLC's Studio Theatre.
+
+**Title of Research:** There Goes the Neighborhood? Homelessness, Home Values, and the Intersection of Ethics and Economics in New York City
+
+**Mentor:** Professor Meiping Sun**Abstract:** Rising housing costs have exacerbated the crisis of homelessness in New York City, and popular opposition to the de Blasio administration’s attempts to construct new shelters and permanent supportive housing in a neighborhood has the potential to stall or weaken relief efforts. This paper defines and looks into the effects of short- and long-term homelessness relief policy. It argues that anti-homelessness policies are also economic ones, and as such constitute both ethical and economic components that clash during policy deliberations due to differing circumstances among parties affected (either in theory or practice) by policy implementation. It primarily links the housing crisis to a lack of housing supply that has exacerbated prices, and linked those supply woes to inefficient infrastructure and action on behalf of the city. Most importantly, it reports that, in the wake of supply changes, proximity to homeless shelters (but not to permanent supportive housing) has been linked to decreased values of property in Manhattan. Because this data only is known for Manhattan, the paper also aims to investigate the same claim with the borough of Queens. The paper concludes by arguing that measures to increase housing supply need to be taken, but also that short-term measures to reduce homelessness also must not be neglected – that the “NIMBY-ist” argument against shelters may be understandable, but not sufficient to prevent construction where possible.

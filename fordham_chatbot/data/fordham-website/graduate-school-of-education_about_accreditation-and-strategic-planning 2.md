@@ -1,0 +1,13 @@
+https://www.fordham.edu/graduate-school-of-education/about/accreditation-and-strategic-planning
+
+# GSE Accreditation and Strategic Planning
+
+## Annual Report
+
+## Accreditations
+
+[American Psychological Association](http://www.apa.org/)[Board of Regents of the State of New York](http://www.regents.nysed.gov/)[Masters in Psychology and Counseling Accreditation Council (MPCAC)](http://www.mpcacaccreditation.org/masters-in-counseling-mcac/accredited-programs/)[Middle States Association of Colleges Secondary Schools](http://www.msche.org/)[National Association of School Psychologists](http://www.nasponline.org/)[National Council for Accreditation of Teacher Education](https://www.chea.org/national-council-accreditation-teacher-education)(since 1970)[University Council for Educational Administration](http://www.ucea.org/)
+
+## Memberships
+
+[American Association of Colleges of Teacher Education](http://www.aacte.org/)[Association of Colleges and Schools of Education in State Universities and Land Grant Colleges](http://www.aplu.org/)[American Educational Research Association](http://www.aera.net/)[Association of American Colleges](http://www.aacu.org/)[Association of Catholic Colleges and Universities](http://www.accunet.org/)[Association of Graduate Schools in Catholic Colleges and Universities](https://www.accunet.org/)[Association of Jesuit Colleges and Universities](http://www.ajcunet.edu/)[Coalition of Urban Serving Universities](https://www.usucoalition.org/ )[Conference of Teacher Education of the Association of Jesuit Colleges and Universities](http://www.ajcunet.edu/)[Council of Counseling Psychology Training Programs](http://www.ccptp.org/)[Council of Graduate Departments of Psychology](http://www.cogdop.org/)[Council of Graduate Schools of the United States](http://www.cgsnet.org/)[Committee on Higher Education of the New York City Council](https://council.nyc.gov/committees/higher-education/)[Graduate School American Council on Education](http://www.acenet.edu/Pages/default.aspx)[Institute of International Education](http://www.iie.org/)[Metropolitan Council of Educational Administration Programs](https://www.facebook.com/The-Metropolitan-Council-of-Educational-Administration-Programs-MCEAP-1655518321372026/about/?ref=page_internal)[National Association of Graduate Schools](http://www.nagps.org/)[National Association of Women in Catholic Higher Education](https://www.seattleu.edu/artsci/about/nawche/)[National Catholic Educational Association](http://www.ncea.org/)[New York State ACTE](http://www.nyacte.org/)[Northeastern Association of Graduate Schools](http://www.neags.org/)[Trainers of School Psychologists](https://tsp.wildapricot.org/)[University Council for Educational Administration](http://www.ucea.org/)

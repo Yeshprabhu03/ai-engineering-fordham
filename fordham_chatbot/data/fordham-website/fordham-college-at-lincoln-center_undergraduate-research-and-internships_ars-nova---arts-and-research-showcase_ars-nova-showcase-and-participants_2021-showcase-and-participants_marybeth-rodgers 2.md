@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2021-showcase-and-participants/marybeth-rodgers
+
+# MaryBeth Rodgers '21
+
+![MaryBeth Rodgers](/media/review/content-assets/migrated/images/Rodgers__MaryBeth_1.jpg)
+
+**Majors:** Dance and Economics**Minor:** Classical Civilizations**Bio:** MaryBeth Rodgers is a senior in the Ailey/Fordham BFA Program. In her college career, she has worked with People’s Theatre Project, Buglisi Dance Theater, Michael Mao Dance Company, Pied Piper Theater, and JUNTOSCollective. She has studied at the Graham School, Hubbard Street Chicago, and is the co-founder of Artist After Hours. She currently choreographs theatre and concert dance and works at a used bookstore in Manhattan.
+
+**Title of Research: **[Dance as a Tool for Empowerment](https://docs.google.com/presentation/d/15gG9iSnQbGSuVuGCdktWGb-wm-dC0uD9b6BCcCuEje0/edit?usp=sharing)**Mentor:** Dr. Edward Bristow**Abstract: **My project aimed to use dance to create a safe environment for self-expression for children and teens in New York City. A curriculum taught online over four weeks during summer 2020 encouraged students to develop confidence, collaboration skills, and tools for effective self-expression, enabling them to move forward with a stronger sense of self and pride in their own gifts and talents. The curriculum was tailored towards the needs and abilities of students at People’s Theatre Project in upper Manhattan during a difficult time of isolation. The curriculum will be presented in tandem with related research on dance education in underserved communities and video clips of the online classes.

@@ -1,0 +1,18 @@
+https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-president/about/hall-of-honor/joseph-h-moglia
+
+# Joseph H. Moglia
+
+![Joseph H. “Joe” Moglia](/media/review/content-assets/migrated/images/Joe_Moglia.jpg)
+
+
+Fordham College at Rose Hill, Class of 1971**Former CEO and Chairman, TD Ameritrade; Current Chair of Fundamental Global and Capital Wealth Advisors; Former Head Football Coach and Current Executive Director for Football and Executive Advisor to the President, Coastal Carolina University(Inducted in 2022)**
+
+Whether he’s improving a business’s bottom line or securing a team’s final margin of victory, Joe Moglia, former CEO and Chairman of TD Ameritrade and former head football coach at Coastal Carolina University, has proven adept at motivating people and building blue-chip institutions and programs.
+
+Born and raised in New York City, Moglia attended Fordham Prep, where he was an All-City and All-Conference athlete and captain of football and baseball. He later began his coaching career at the Prep while an undergraduate at Fordham College at Rose Hill. After earning his bachelor’s degree in 1971, he coached and taught at Archmere Academy near the University of Delaware, where he earned a master’s degree in education. As a defensive and special teams coach at Lafayette College, he set national records. Later, he helped lead Dartmouth College to two Ivy League championships as the team’s defensive coordinator.
+
+In 1984, after a successful 16-year coaching career, he joined the Institutional MBA training program at Merrill Lynch. There were 25 MBAs and one football coach. He went on to become the firm’s number one producer as a bond salesman, and ultimately became a member of both the firm’s institutional and wealth management executive committees. In 2001, he became CEO of TD Ameritrade and in 2009 he became chairman of the board. He stepped down in 2020 when TD Ameritrade was acquired by Charles Schwab. At close, the combined company was worth $100 billion with client assets of $7 trillion. When he arrived, those numbers were $700 million and $24 billion, respectively.
+
+Having proven his success in business, he returned to his lifelong passion. In 2009, he joined the University of Nebraska football staff, and two years later, he became the head coach of the Omaha Nighthawks in the United Football League. In 2012, he became the head football coach at Coastal Carolina. Like Jack Coffey, who ushered in the Golden Age of Fordham football, Moglia revitalized Coastal’s football program. Under his leadership, the team captured four conference championships and appeared in five national playoffs. As head coach, he compiled a 56-22 record and received multiple Coach of the Year honors, including the 2015 Eddie Robinson FCS National Coach of the Year Award. In 2017, he was inducted into the Vince Lombardi Hall of Fame, underscoring his kinship with Lombardi, another Fordham graduate turned legendary football coach and educator.
+
+With today’s induction ceremony, he becomes only the fourth person in Fordham history to have received the Founder’s Award and been inducted into both the Fordham University Athletics Hall of Fame and the Hall of Honor. He has generously supported many causes, including Fordham, and he is one of our luminaries, someone who embodies the leadership qualities and commitment to excellence that define Fordham University.

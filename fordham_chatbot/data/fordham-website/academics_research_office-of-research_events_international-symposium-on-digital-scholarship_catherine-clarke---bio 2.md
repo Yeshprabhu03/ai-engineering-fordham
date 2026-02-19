@@ -1,0 +1,5 @@
+https://www.fordham.edu/academics/research/office-of-research/events/international-symposium-on-digital-scholarship/catherine-clarke---bio
+
+# Catherine Clarke - Bio
+
+Professor Catherine Clarke is Director of the new Centre for the History of People, Place and Community at the Institute of Historical Research, School of Advanced Study, University of London. A specialist in the Middle Ages, much of her work explores how we can recover and analyse the places of the past, and how we interpret historic environments today. She is particularly interested in digital and inter-disciplinary methods and engagement beyond the academy, demonstrated in projects such as [www.medievalswansea.ac.uk](http://www.medievalswansea.ac.uk/), [www.thomasway.ac.uk](http://www.thomasway.ac.uk/), [www.medievalchester.ac.uk](http://www.medievalchester.ac.uk/) and [http://discover.medievalchester.ac.uk](http://discover.medievalchester.ac.uk/).

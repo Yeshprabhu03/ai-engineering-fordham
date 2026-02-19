@@ -1,0 +1,13 @@
+https://www.fordham.edu/academics/departments/languages-and-cultures/about-us
+
+# About Languages and Cultures
+
+Drawing from a long Jesuit tradition of scholarship on and respect for the world's diverse languages and cultures, and from New York City's vibrant multilingual and multicultural communities and institutions, the Department of Languages and Cultures offers a wide range of courses in LINGUISTICS, ARABIC, FRENCH, GERMAN, HEBREW, ITALIAN, JAPANESE, MANDARIN CHINESE, RUSSIAN, and SPANISH that aim to develop students' linguistic proficiency and cultural competence. It also offers upper-level courses leading to majors and minors in French, German, Italian, and Spanish, and minors in Arabic, Mandarin Chinese, and Russian.
+
+We are a faculty of 19 tenured and tenure-track, 28 full-time non-tenure-track, and 24 part-time non-tenure-track members who specialize in and teach courses in French, German, Italian, and Spanish medieval, early modern, modern, and postmodern literatures and cultures; Latin American and Francophone colonial and postcolonial literatures and cultures; and contemporary Latinx writing and film. Through its majors and minors in language and cultural studies, the department promotes the interdisciplinary study of language by encouraging students to take courses in related fields. Our course offerings and programs also provide students with the opportunity to connect with New York City through community-engaged learning courses.
+
+The Department of Languages and Cultures prepares students for graduate and professional work and for study abroad. Its study abroad programs, tutoring services, lectures, film series, and cultural events, all seek to immerse students in the languages and cultures they study, foster their participation in international networks and events, and engage them in a dialogue across languages and cultures.
+
+We welcome your interest in our department and encourage you to [contact us](/academics/departments/languages-and-cultures/contact-us/) for further information on our [programs](/academics/departments/languages-and-cultures/curriculum/), [faculty](/academics/departments/languages-and-cultures/faculty/), [courses](https://bulletin.fordham.edu/undergraduate/languages-cultures/#coursestext). And if you are interested in our ongoing events or simply want to become a member of the LACU community, you can also have a look at the [Department's blog](http://modernlanguages.blog.fordham.edu/).
+
+The Department of Languages and Cultures acknowledges and supports the labor and well-being of contingent faculty who are members of [Fordham Faculty United](https://fordhamfacultyunited.com/).

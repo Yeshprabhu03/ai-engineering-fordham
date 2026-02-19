@@ -1,0 +1,7 @@
+https://www.fordham.edu/about/living-the-mission/projects-and-initiatives/initiative-on-migrants-migration-and-human-dignity/meet-the-team
+
+# Meet the Migrants, Migration and Human Dignity Team
+
+This initiative is made possible with the generous support of the Cummings Foundation and is led by an interdisciplinary team of faculty:
+
+[Gregory Donovan](https://www.fordham.edu/academics/departments/communication-and-media-studies/about-us/faculty-and-staff/gregory-t-donovan/), Department of Communication and Media Studies[Leo Guardado](https://www.fordham.edu/academics/departments/theology/faculty/leo-guardado/), Department of Theology[Annika Hinze](https://www.fordham.edu/academics/departments/urban-studies/faculty/annika-hinze/), Department of Political Science[Carey Kasten](https://www.fordham.edu/academics/departments/languages-and-cultures/faculty/carey-kasten/), Department of Languages and Cultures[Sarah Lockhart](https://www.fordham.edu/academics/departments/international-studies/faculty/sarah-lockhart/), Department of Political Science[Jim McCartin](https://www.fordham.edu/academics/departments/theology/faculty/james-p-mccartin/), Department of Theology[Alma Rodenas-Ruano](https://www.fordham.edu/academics/departments/natural-sciences/faculty-and-staff/alma-rodenas-ruano/), Department of Natural Sciences

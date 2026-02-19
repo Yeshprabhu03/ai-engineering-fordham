@@ -1,0 +1,5 @@
+https://www.fordham.edu/school-of-law/faculty/directory/program-directors/tom-norton
+
+# Tom Norton
+
+**Tom Norton** is the [Executive Director of the Center on Law and Information Policy.](/school-of-law/centers-and-institutes/fordham-clip/) His research focuses on privacy and data protection law and policy as well legal accountability in software systems. His work appears in both law and technology publications, and he has received support from the National Science Foundation. At Fordham, Tom teaches courses in Information Privacy Law. Tom earned a JD from Fordham University School of Law and served as CLIP’s Privacy Fellow from 2014 to 2016. Prior to returning to CLIP as Executive Director, Tom was a litigation attorney at the law firm Arent Fox LLP in New York City. He is admitted to practice in the State of New York and the Commonwealth of Massachusetts.

@@ -1,0 +1,9 @@
+https://www.fordham.edu/gabelli-school-of-business/faculty/academic-areas/communications-and-media-management-
+
+# Communications and Media Management
+
+![Communications and Media Management](/media/home/schools/gabelli-school-of-business/gsb_Communications_and_Media_Management.jpg)
+
+**Area chair:** [John Fortunato](/gabelli-school-of-business/faculty/full-time-faculty/john-a-fortunato/)**Contact:** [[email protected]](/cdn-cgi/l/email-protection#7a101c15080e0f141b0e153a1c15081e121b17541f1e0f)
+
+The communications and media management faculty oversees a broad spectrum of courses in these two related disciplines. Undergraduate students can complete a [secondary concentration](/gabelli-school-of-business/academic-programs-and-admissions/undergraduate-programs/majors-and-concentrations/communications-and-media-management-program/) in communications and media management, and the area partners with information systems on the [digital media and technology](/gabelli-school-of-business/academic-programs-and-admissions/undergraduate-programs/majors-and-concentrations/digital-media-and-technology/) concentration, available at the Lincoln Center campus. Graduate students can choose a [Professional MBA concentration](https://bulletin.fordham.edu/gabelli-graduate/mba/concentrations/communications-media/) in the field or an [MS in Media Management](/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/ms-programs/media-management/). Faculty in this area contribute [research](/gabelli-school-of-business/faculty/academic-areas/communications-and-media-management-/communications-research-activities/) and analysis to Fordham's [Center for Communications](/gabelli-school-of-business/faculty/research-centers/center-for-communications/).

@@ -1,0 +1,64 @@
+https://www.fordham.edu/study-abroad/programs/fordham-in-london/programs/fordham-in-london-summer/summer-london-courses
+
+# Summer London Courses
+
+Fordham London offers a variety of courses across disciplines taught by local, international, and New York faculty over Summer. Courses offered in the Fordham in London Summer program are immersive, and use London as a classroom by including site-visits, walking tours, guest speakers and more.
+
+You can learn more about which courses are offered during in the summer below:
+
+-
+**ARHI 3480. Art and Architecture in London (3 Credits)- Session I**London is one of the most exciting cultural capitals of the world. Its museums, churches and monuments will supply the rich resources for our art historical studies. While the emphasis will be upon the modern era from the late 18th century onward, earlier museum treasures and major architectural monuments will provide deep historical background for our study of the modern period. Class lectures will be supplemented by visits to The British Museum, The Courtauld Institute of Art, The National Gallery, Tale Britain and Tate Modern, The Victoria and Albert Museum, along with galleries and auction houses. Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+Attributes: AHMO, FACC, INST, ISEU.
+
+-
+**ECON 3715. Economics: British Thinkers and Writers (4 Credits)- Session II**This interdisciplinary course provides students with a comprehensive understanding of how fundamental economics concepts are present in various forms of storytelling, with a specific focus on the economy of London during what Hobsbawm termed the long nineteenth century (1789–1914). Class discussions will place particular emphasis on understanding how property rights, legal, political, and financial institutions, the railway boom, and international trade both positively and negatively affected the lives of Londoners while at the same time contributed to making London a thriving urban and global metropolis. The core class readings will include fiction by authors who lived in and around London in the nineteenth century, nonfiction about life in London by both nineteenth century and contemporary authors, and academic articles and publications by current scholars in the field. Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+-
+**ENGL 2000. Texts and Contexts (British Writers) (3 Credits)- Session II**An introduction to the literary analysis of texts and the cultural and historical contexts within which they are produced and read. Significant class time will be devoted to critical writing and to speaking about literature. Each section of Texts and Contexts will have a focus developed by the individual instructor and expressed in its subtitle. This course fulfills the Core requirements for the second Eloquentia Perfecta seminar.
+
+Attributes: EP2, TC.
+
+Prerequisite: ENGL 1102.
+
+**ENGL 3908. Wild London (4 Credits)- Session I**London is one of the great cities of the world, a place defined by rich layers of human culture dating back millennia. But what about London’s nature? Can we also see London as a place defined and constituted by the natural world? In this course, we will explore historical and present-day London as a site for encountering animals, plants, forests, waterways, and other elements of nature. We will also read British literature from the early modern period to the 21st century to see how London’s landscapes and waterscapes have changed over time—and how they have nevertheless consistently inspired poets, novelists, and others to produce new modes of writing and thought. Finally, since this is a study abroad course, we will make excursions into different parts of London to find “wild London” for ourselves. Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+Attribute: ALC, EP3
+
+-
+**ENST 3722. Plains, Trains, and Automation. (4 Credits)- Session II**This course invites students on a journey through Britain’s history as a leader in science, engineering, and industry—and as a victim of that very success. The course is divided into three units. The first provides an overview of Britain’s industrial revolutions, with discussions highlighting the apparent tension between the emphasis on ingenuity and individualism in the wake of the Enlightenment and the critical importance of uniformity for mass production and machination. The second is organized as a series of case studies, and the final unit examines contemporary issues in the production, storage, and distribution of energy in Britain and includes a series of methods workshops building professional skills in environmental impact assessment, resource footprinting, carbon payback calculation, and science communication. The course will end with a speculative conversation about the future of the emerging “Fourth” Industrial Revolution, addressing humanity’s increasing ability to engineer not only our landscapes but also our digital world, our bodies, and our minds. Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+Attributes: ASSC, ESEL, ESHC.
+
+-
+**FITV 3534: Fashion in British Film and Television (4 Credits)- Session I**This course considers the historical and contemporary co-constitution of British fashion, cinema, and television. As a city that generates and is defined by formative industries, cultural institutions, and socio-political movements associated with fashion and media, London plays a crucial role in our explorations. We will analyze historically specific and culturally significant moments when fashion coincided with television and/or film to express the anxieties, pleasures, and investments of British culture(s) on a regional, national, and international scale. To do this, we will study film and television texts that utilize fashion; consider issues of identity politics that include class, sexuality, race, and gender; and explore the industrial and cultural contexts that gave rise to fashion-driven films and television programs. Significant course themes include: war, the monarchy, countercultural movements, empire and imperialism, and the city. Film and television texts are both historical and contemporary and include a wide range of genres and styles. Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+Attributes: AMST, ASAM, CCUS, COMC, FASH.
+
+-
+**HIST 1000: Understanding Historical Change: Modern Europe (3 Credits)- Session I**Introduction to the nature and methods of historical study and the examination of specific topics essential for understanding the evolution of modern institutions, ideologies, and political situations.
+
+Attributes: HC, INST, IPE, IRST, ISEU.
+
+-
+**LACU 3660. Decolonizing Travel Writing (4 Credits)- Session II**This seminar and creative writing workshop examines travel and travel journaling as an enlightening practice that moves beyond viewing places and communities as endlessly renewable commodities. Students will engage with theoretical and literary texts that challenge the idea of travel as politically neutral, instead approaching tourism and travel culture through a social justice lens. Through this perspective, students will explore society, history, and culture by centering voices historically displaced or marginalized by the dominant social narrative. The course will focus particularly on the experiences of immigrants in European cities, with an emphasis on Latinx and Latin American communities. Additional topics, such as Queer Caribbean LGBTQI+ visibility, will encourage students to explore the complex realities of local immigrant communities. Throughout this course, readings and discussions will inform students’ development of a personal travel journal reflecting their experiences while abroad. Authors include Beni Amor, Gabriela Wiener, and Dean Atta, among others. Writing assignments will be shaped by field trips to museums and other cultural sites, culminating in a final submission and an open mic session. Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+Attributes: ALC, GLBL, INST, ISIN, LALS, SPAN, ZSAC.
+
+-
+**MKBU 3464: The Business of Luxury(3 Credits)- Session I**This course offers a foundational exploration of the European luxury industry, focusing on the history, cultural context, and business strategies of iconic luxury brands. Through lectures, case studies, guest speakers, and site visits, students will gain insights into the operations, branding, marketing, and global expansion of luxury companies.
+
+-
+**MVST 3502. The Clerkenwell Tales: England's Literature. (4 Credits)- Session II**Where did Oliver Twist learn to pick pockets? In Clerkenwell. Where did William Shakespeare submit his plays to the Master of the Revels? In Clerkenwell. And where did the Knights of the Order of St. John have their headquarters? Indeed, in Clerkenwell, too. In this course, we will read texts that are quintessentially “British”—because they are linked to people, places, and historical events, and because they address issues of gender, race, and social class in ways that are grounded in their environment and thus have a specifically Londonesque character. The medieval romance of Sir Gawain and the Green Knight will start us off by looking at concepts of gender and nobility that have been formative for the way in which English aristocracy defines itself up to this day—an uninterrupted tradition which we can witness at our trips to Westminster Abbey and the Tower. The Globe Theatre will provide us with the opportunity to experience a Shakespeare play as “groundlings”: standing, eating, drinking, and rubbing elbows with audience and actors alike. By the time Charles Dickens wrote "Oliver Twist," London had expanded into a metropolis with a large population of urban poor. It is only logical that England’s oldest orphanage would be located in London, too, a museum today which we will be able to visit in addition to Dickens’ house, both a stone’s throw from our campus. The concluding text will be "The Clerkenwell Tales," Peter Ackroyd’s modern-day take on Chaucer’s "Canterbury Tales," which will bring together the main themes addressed in our discussions—gender, race, and social class—and place them right at our doorstep. Note: Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+Attributes: ALC, COLI, ENBE, ENGL, HIST, HIUL, ISEU.
+
+-
+**POSC 4025. Youth and Politics. (4 Credits)- Session II**Youth is widely regarded as the future of the nation and an agent of social change. How do young people participate in politics? What influences youth’s voting behavior and engagement in protest activity? What is the impact of family, schools, and social media on youth’s civic engagement? The course will address these issues from an interdisciplinary, cross-national perspective by drawing upon literature in anthropology, political science, psychology, and sociology and comparing youth experiences in the United States, East Asia, Eastern Europe, and the Middle East. Four-credit courses that meet for 150 minutes per week require three additional hours of class preparation per week on the part of the student in lieu of an additional hour of formal instruction.
+
+Attributes: ACUP, AMST, APPI, ASHS, ICC, INST, ISIN, PJRC, PJST, POCP, URST.
+
+-
+**THEO 3610. Christ in World Cultures. (3 Credits)- Session I**At the center of the Christian tradition stands the person of Jesus Christ. Yetfrom a global perspective, Christianity takes many forms in its many contexts. This course examines the ways in which the Christian faith interacts with diverse world cultures and asks the central question, how do cultural differences shape contemporary interpretations of Jesus as the Christ?.
+
+Attributes: AMCS, GLBL, INST, ISIN, LAHA, LALS, REST, STXT, THHC.

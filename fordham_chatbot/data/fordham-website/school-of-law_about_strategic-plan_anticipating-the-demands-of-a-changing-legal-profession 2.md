@@ -1,0 +1,17 @@
+https://www.fordham.edu/school-of-law/about/strategic-plan/anticipating-the-demands-of-a-changing-legal-profession
+
+# Law Strategic Plan: Anticipating the Demands of a Changing Legal Profession
+
+**The rapidly changing practice of law demands** new tools and abilities, and Fordham Law School is anticipating those changes. Employers seek law school graduates who can be influential professionals from the start. New lawyers must possess strong analytic skills and foundational legal knowledge and craft solutions, communicate effectively, work collaboratively, and maintain high ethical standards. They must understand the contexts in which legal issues arise and have developed the practical wisdom to appreciate what is essential in the real world.
+
+Tomorrow’s lawyers will think and act more sophisticatedly about technology, business, and quantitative analytics. They will need more robust grounding in a wide array of professional capabilities, particularly as effective communicators and collaborators.
+
+To anticipate these changing demands, the Law School will pursue the following objectives:
+
+**Maintain and enhance areas of traditional curricular strength**—notably in business and financial law, international law, human rights, intellectual property and information law, litigation, public interest and service, and ethics—and continue to adapt our curriculum to emerging dimensions of legal practice, such as corporate compliance, entrepreneurial law, and new frontiers in civil rights and social justice.**Elevate our focus on such core competencies**as problem-solving, collaboration, ethics, leadership, management, cultural competence, and technological sophistication through a Professional Excellence Program that draws on our experiential program and doctrinal courses as well as journals, competitions, student organizations, and the work of our Career Planning Center.**Ensure that all students who graduate from Fordham participate in experiential learning**in a carefully structured supervised setting by building on the excellence of our clinical programs—including extraordinary live-client clinics, field placement opportunities, and simulation courses—with particular focus on innovation, enhancement of students’ educational experiences, and forming strategic partnerships with institutions throughout New York City.**Renew attention to improving students’ research**and writing experiences by emphasizing supervision and mentorship and creating opportunities for new professional writing experiences that complement traditional seminar research papers and independent supervised writing—from transactional and discovery documents to policy memos, blogs, and op-eds.**Continue to improve the academic support services for students**as the demands of the profession increase in order to ensure that every student succeeds academically.
+
+![Photo of Professor Leah Hill 240x240](/media/home/schools/school-of-law/leah-hill-240x240.jpg)
+
+"We will focus on enhancing existing courses and creating new ones that focus on 21st-century skills like emotional intelligence, cultural competence, leadership, teamwork, and project management, to name a few.”
+
+— Leah Hill*Associate Dean for Experiential Education, Clinical Associate Professor of Law*

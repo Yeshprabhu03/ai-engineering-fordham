@@ -1,0 +1,15 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2023-participants-/maria-nettgen
+
+# Maria Nettgen
+
+![Maria Nettgen](/media/home/schools/fordham-college-at-lincoln-center/Maria-Nettgen.jpg)
+
+**Major:** Environmental Science
+
+**Biography:** Maria Nettgen is a senior majoring in Environmental Science. During her time at Fordham she served on the Dean’s Student Advisory Group, the Faculty Evaluation Committee, and as the Co-Chair of Scheduling for Lincoln Center Society. She is passionate about creating collaborative, diverse, and inclusive STEM curriculum, and intends to pursue graduate studies in secondary science education.
+
+**Research Title: **Developing novel gels for environmental remediation: properties and gelation abilities of quaternary ammonium salts
+
+**Faculty Mentor:** Marie Thomas, Department of Natural Sciences
+
+Abstract: Acid rain is a serious threat to many ecosystems and poses severe hazards to human health. One way to mitigate its damage is to lower the amount of SO2 and NOx pollutants released by human activity. This can be done by removing nitrogen and sulfur impurities found in petroleum fuels that initially result in the release of SO2 and NOx molecules during combustion. One current removal method is through the use of ionic liquids which are highly polar organic salts totally composed of cations and anions with melting points below 100 ° C. However, ionic liquids alone have overall low selectivity and require the use of volatile organic solvents and high temperatures. The research I conducted proposes incorporating ionic liquids into gels, thereby making ion gels which are hybrid materials composed of an ionic liquid combined with a small molecule gelator. With ion gels, one can create a series of solid electrolyte membranes, allowing for easier separation of the contaminant from the fuel and improved extraction capability. However, there are very few small molecule gelators that can actually form gels with ionic liquids. Yet, based on previous studies of the Thomas lab, it was predicted that the amphiphilic quaternary ammonium salts based on the tertiary amine 1,4-diazabicyclo[2.2.2]octane (DABCO) proposed in this study would form stable gels. My role in this project was to synthesize two small molecule gelators as well as one ionic liquid and characterize them using NMR spectroscopy and differential scanning calorimetry (DSC). I also participated in the preliminary gelation studies to determine if successful ion gels could be developed. Overall, nearly all proposed DABCO derivatives were synthesized, melting points were obtained for several of the derivatives, and di-cationic DABCO derivatives appear to be better gelators than mono-cationic derivatives. These results could greatly aid in designing future experiments with a higher likelihood of successful gelation and guide us further in offering novel methods and compounds for improved ways to remove sulfur and nitrogen impurities from petroleum fuels.

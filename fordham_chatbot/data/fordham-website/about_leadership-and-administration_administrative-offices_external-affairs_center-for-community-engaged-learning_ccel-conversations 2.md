@@ -1,0 +1,5 @@
+https://www.fordham.edu/about/leadership-and-administration/administrative-offices/external-affairs/center-for-community-engaged-learning/ccel-conversations
+
+# CCEL Conversations
+
+The Center for Community Engaged Learning (CCEL) fosters vibrant community conversations among students, faculty, and our valued community partners. These dialogues are integral to our Community Engaged classes, Faculty Initiatives, and the Post-Secondary Pathways Program. Through these initiatives, we aim to deepen understanding and collaboration, empowering our students to become active participants in community development. Additionally, our panels and events serve as platforms to showcase the impactful work of our community partners, facilitating meaningful exchanges that enrich both learning and community engagement. Round tables further amplify these discussions, providing spaces for collaborative problem-solving and innovative approaches to address local challenges.

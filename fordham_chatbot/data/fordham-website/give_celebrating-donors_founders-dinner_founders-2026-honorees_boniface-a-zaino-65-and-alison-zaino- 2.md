@@ -1,0 +1,15 @@
+https://www.fordham.edu/give/celebrating-donors/founders-dinner/founders-2026-honorees/boniface-a-zaino-65-and-alison-zaino-
+
+# Boniface A. Zaino ’65 and Alison Zaino
+
+![Headshot](/media/home/departments-centers-and-offices/give/DSC_6171E.jpg)
+
+Boniface and Alison Zaino have dedicated the last 35 years of their philanthropic efforts to nurturing community growth and fostering equitable opportunities. Their efforts span various causes, including education, the arts, and health care, as well as significant contributions to Fordham University.
+
+Buzz, as he is known to all, is a first-generation college graduate, born and raised in the Bronx, New York, to an Italian-American family. He graduated from Fordham University in 1965 with a BA in business and earned an MBA from Columbia University in 1966. His impressive career spanned over 60 years with many venerable firms. Buzz started at NBC in Network Business Affairs, then joined Lehman Brothers in 1968 and eventually rose to the level of principal. He also served as president of the Lehman Capital Fund and executive vice president of the Lehman Management Company. In 1984, Buzz moved to Trust Company of the West as group managing director. In 1998, he became managing director and later a senior advisor at Royce Investment Partners.
+
+While Buzz's roots are firmly planted in New York, Alison's early years unfolded across St. Petersburg, Florida; Cape Cod, Massachusetts; and Switzerland. She graduated from Tufts University with a BA in English literature in 1978 and from the New York School of Interior Design with a BA in interior design in 1986. Alison started her career as a designer for JP Maggio Designs. She later transitioned into fundraising, serving on the boards of the Marymount School of New York, Aspen Country Day School, the Millbrook School, and the Alzheimer's Drug Discovery Foundation. Alison continues to support various community-based animal charities and art organizations. Currently, she is a dedicated watercolorist and designer.
+
+Together, they have supported numerous mission-driven and nonprofit organizations, including the Michael Wolk Heart Foundation; Covenant House, a leading charity for unhoused youth; and City Relief. In addition, Buzz is a board advisor at the Aspen Institute’s Business and Society Program and serves on the investment committee of the Dominican Sisters of Sparkill and the Columbus Citizens Foundation. He serves on the board of Friends of Florence, which supports art restoration in Italy.
+
+Buzz has remained dedicated to his alma mater and serves on the Fordham College at Rose Hill Board of Visitors. He was a campaign member of Cura Personalis | For Every Fordham Student, a recent campaign to enhance the entire Fordham student experience. He has been particularly attentive to supporting independent student-driven undergraduate research opportunities at Fordham College at Rose Hill.

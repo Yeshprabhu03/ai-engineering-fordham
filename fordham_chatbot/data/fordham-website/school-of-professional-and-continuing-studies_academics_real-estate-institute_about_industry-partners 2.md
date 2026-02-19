@@ -1,0 +1,11 @@
+https://www.fordham.edu/school-of-professional-and-continuing-studies/academics/real-estate-institute/about/industry-partners
+
+# Real Estate Institute Industry Partners
+
+*A special thank you to **Argus Software** for their generous contribution of the use of **Argus Financial Software** in the graduate program; a $325,000 value.
+
+Fordham REI is honored to partner with the **Lambda Alpha International (LAI) New York Chapter **in their efforts to engage our students, establish industry connections, and promote the advancement of best practices in the use, study and economics of land.
+
+[Lambda Alpha International New York Chapter (LAI)](https://lainy.org/) and all of its affiliated Chapters comprise an honorary, non-political professional society devoted to the advancement of land economics. LAI is composed of men and women involved in the fields of real estate, real estate development, real estate management, land use, urban planning, architecture, law, government, academia and all other professions that deal with use, study and economics of land — that is what is meant by land economics.
+
+[Asian Real Estate Association of America (AREAA)](https://areaa.org/newyorkmanhattan/)[Business Council of Westchester (BCW)](https://thebcw.org/)[New York Building Congress (NYBC)](https://www.buildingcongress.com/)[Certified Commercial Investment Member (CCIM)](https://www.ccim.com/?gclEAIaIQobChMIypmSyZ6H4gIVGLbICh0KwwE2EAAYAiAAEgKvO_D_BwE&gmSsoPc=1)[Commercial Real Estate Women of New York (CREWNY)](https://crewny.org/home)[Counselors of Real Estate (CRE)](https://www.cre.org/)[Commercial Real Estate Finance Council (CREFC)](https://www.crefc.org/)[CRE NET, LLC](https://www.cretech.com/)[FIABC](https://fiabci.org/)[Hudson Gateway Association of Realtors (HGAR)](https://www.hgar.com/)[Mortgage Banker’s Association of New York (MBA of NY)](https://mbany.org/)[National Association of Industrial and Office Properties (NAIOP)](https://www.naiop.org/)[Professional Women in Construction (PWC)](http://www.pwcusa.org/)[Real Estate Board of New York (REBNY)](https://www.rebny.com/)[Real Estate Services Alliance NYC (RESANYC)](http://resanyc.com/)[Urban Land Institute (ULI)](https://uli.org/)[New York Woman Executives in Real Estate (WX)](https://www.wxnyre.com/)[Young Men’s/Women’s Real Estate Association (YMWREA)](https://ymwrea.org/)

@@ -1,0 +1,11 @@
+https://www.fordham.edu/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/preparatory-programs
+
+# Preparatory Programs
+
+People come to business school from all kinds of different academic backgrounds.
+
+Fordham is dedicated to opening the door to business to all students—whether they studied liberal arts as undergraduates, completed their prior education in another country, or are simply not completely sure yet whether advanced business study is for them.
+
+If any of these might apply to you, explore our preparatory programs:
+
+[Pre-MBA Program](/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/preparatory-programs/pre-mba-program/): Ideal for students who are considering an MBA but are not ready to commit. Pre-MBA students take four courses that will count toward their[Fordham MBA](/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/mba-programs/)if they do eventually decide to go for the full degree.[International Business Bridge](/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/preparatory-programs/international-business-bridge/): Perfect for recent non-U.S. college graduates who wish to improve their English language skills, business knowledge, and study skills before entering a U.S. business degree program.**Please note that the International Business Bridge program is currently on pause for the 2025 Admissions Application cycle.**[Gabelli STEP](/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/preparatory-programs/gabelli-step/), is a summer cultural immersion program that helps international students prepare for their graduate business education in the U.S.[Gabelli Business Bridge](/gabelli-school-of-business/academic-programs-and-admissions/graduate-programs/academic-programs/preparatory-programs/gabelli-business-bridge/#d.en.91208): The GBB Program is designed to equip participants trained in the liberal arts and STEM areas with critical business skills in an intensive three week program. This program is designed specifically for non-business majors to attain an essential business tool kit.

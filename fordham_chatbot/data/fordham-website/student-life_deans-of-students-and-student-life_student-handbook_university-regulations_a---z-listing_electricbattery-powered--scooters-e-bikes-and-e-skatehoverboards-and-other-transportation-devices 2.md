@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/electricbattery-powered--scooters-e-bikes-and-e-skatehoverboards-and-other-transportation-devices
+
+# Student Handbook: Electric/Battery-Powered -Scooters, E-Bikes, and E-Skate/Hoverboards and Other Transportation Devices
+
+Due to risk of fire and the New York City Fire Department’s (FDNY) safety recommendations regarding lithium-ion batteries used in these devices, Fordham University strictly prohibits all electric/battery-powered-scooters,bikes, and e-skate/hoverboards and other personal electric/battery-powered transportation devices from use or storage/charging on all University property, including all buildings on and off campus and walkways and sidewalks within the campus.

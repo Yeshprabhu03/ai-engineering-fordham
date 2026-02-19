@@ -1,0 +1,9 @@
+https://www.fordham.edu/academics/centers-and-institutes/center-for-ethics-education/research/assessment-and-enhancement-of-research-consent-capacity-for-adults-with-mental-retardation
+
+# Assessment and Enhancement of Research Consent Capacity for Adults with Mental Retardation
+
+The stated objectives of this research were to assess and develop procedures to enhance the capacity of adults with mild and moderate mental retardation (MR) to provide informed consent for therapeutic research, and to exert their rights to assent or dissent when surrogate consent is obtained. The project had two phases, with the first designed to examine the understanding of basic elements of psychotropic treatment including the purpose and nature of the research, risks and benefits, voluntary nature of the participation, and right to withdraw without penalty. The project also examined comprehension of the consent elements (e.g., goals, role of a scientist, nature of placebo conditions, etc.). Consent capacity will also be evaluated within the four psycho-legal standards outlined by Appelbaum and Grisso (1988). In phase 1, persons with mild, moderate and "typical;" intelligence responded to a hypothetical vignette describing research utilizing a randomized control trial of a new medication to reduce aggressive behavior. In phase 2, the authors used data generated from phase 1 to develop and evaluate three formats designed to improve the consent capacity of individuals with mild and moderate MR: 1) a picture book format, 2) a video format, and 3) a supported decision-making format. A significant other is also chosen by the subjects to aid in them during the three format presentations.
+
+### Publication
+
+Download a presentation regarding informed consent for research involving subjects who are developmentally disabled or mentally retarded.

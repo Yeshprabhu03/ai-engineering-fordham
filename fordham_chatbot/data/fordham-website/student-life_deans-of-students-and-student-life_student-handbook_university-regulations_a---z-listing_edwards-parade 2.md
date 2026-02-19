@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/edwards-parade
+
+# Student Handbook: Edwards Parade
+
+Edwards Parade is available to students for casual use and recreational activities such as lounging, sun bathing, and light small group recreational sports. In the interests of lawn maintenance and safety, no large group organized sports are permitted on Edwards Parade, except for certain scheduled intercollegiate athletic events. Larger group organized sports may be played on the field in front of Martyrs' Court or on Murphy's Field (when formal events are not scheduled). Neither barbecues nor alcoholic beverages are permitted on the parade. For non-casual use, Edwards Parade must be reserved via the Office for Student Involvement by offices, departments, clubs or organizations.

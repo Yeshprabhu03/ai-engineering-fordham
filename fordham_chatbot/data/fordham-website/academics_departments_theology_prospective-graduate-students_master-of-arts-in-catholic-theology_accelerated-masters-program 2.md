@@ -1,0 +1,5 @@
+https://www.fordham.edu/academics/departments/theology/prospective-graduate-students/master-of-arts-in-catholic-theology/accelerated-masters-program
+
+# Accelerated Master's Program in Theology
+
+In addition to the traditional route to the M.A. degree, Fordham GSAS offers an [Accelerated Master's Program](/graduate-school-of-arts-and-sciences/academics/accelerated-masters-programs/) that allows theology majors presently enrolled in Fordham College at Rose Hill and Fordham College at Lincoln Center an opportunity to attain both a bachelor’s degree and a master’s degree in Catholic theology in five years. Graduate courses begin in the student’s senior year, providing him or her with advanced training and enriching the undergraduate experience. An additional year of study permits the student to complete all of the Department of Theology’s requirements for the Master of Arts degree.

@@ -1,0 +1,12 @@
+https://www.fordham.edu/gabelli-school-of-business/about/advisory-council/wendy-lamont
+
+# Wendy Lamont, GABELLI Alumna
+
+![Wendy Lamont](/media/home/schools/gabelli-school-of-business/Wendy-Lamont.jpg)
+
+
+Wendy Lamont is an accomplished multidisciplined global executive with more than 20 years of transformation leadership and execution experience from Capgemini Invent, Accenture, IBM, PricewaterhouseCoopers, and Kearney. Lamont has sold and delivered cross offering transformation programs in North America, South America, Europe, and Asia. She has a proven track record in managing and expanding client relationships in multiple industries, including financial services, life sciences/pharma, and consumer packaged goods.
+
+Lamont is currently a client account partner/VP with Capgemini Invent in Financial Services based in NYC. Capgemini’s mission is to bring innovation to clients —“the invent” —and she helps craft the overall client transformation growth strategy, addressing cost, capability, efficiency, talent, and technology. Prior to joining Capgemini Invent, Lamont was with Accenture as managing director,** **where she focused on business process outsourcing, working with companies in the financial services and CPG Industries. She helped clients realize 40%–50% run cost savings while gaining efficiencies and capabilities, improving data and controls, and leveraging automation. In addition, Lamont served in several firm-building MD leadership roles including Metro NYC Leadership Council member, MD training/integration leader, NYC Metro Arts & Culture Club lead, and Covenant House MD fundraising leader. She also mentors many early career professionals. Lamont also joined the Advisory Board of CityDroneZ LLC, a firm pioneering safe and efficient commercial services by drone.
+
+Lamont holds a B.A. in Government and Philosophy from Hamilton College, and an M.B.A. from Fordham University’s Gabelli School of Business, where she now serves as a member of the School’s Advisory Council. In addition, she completed the Wharton School-IBM Executive Master Dealmaking Program and achieved a lifetime Certified Purchasing Manager (CPM) designation from the Institute of Supply Management (ISM).

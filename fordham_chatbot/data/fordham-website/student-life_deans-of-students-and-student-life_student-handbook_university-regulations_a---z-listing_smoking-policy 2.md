@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/smoking-policy
+
+# Student Handbook: Smoking Policy
+
+It shall be the policy of Fordham University to regulate smoking of tobacco products, including electronic cigarettes. In accordance with New York State law, smoking is prohibited inside all buildings. By definition, this prohibition includes classrooms, residence halls, auditoriums, hallways, stairwells, elevators, lobbies, building entryways, terraces, churches, gymnasiums, and health care facilities, as well as the public and private areas. Additionally, smoking is not permitted within fifty feet of the entrances or exits of any university owned or leased on campus and off campus buildings and facilities. Violation of this policy may subject students to University sanctions and other fines. Please see the Office of Residential Life handbook for the campus for additional information.

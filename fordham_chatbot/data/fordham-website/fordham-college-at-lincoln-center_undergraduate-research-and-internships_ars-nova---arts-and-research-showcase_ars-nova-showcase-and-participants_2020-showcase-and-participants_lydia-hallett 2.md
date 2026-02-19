@@ -1,0 +1,9 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2020-showcase-and-participants/lydia-hallett
+
+# Lydia Hallett '21
+
+![Lydia Hallett](/media/review/content-assets/migrated/images/Hallett_photo_1.jpg)
+
+**Major: **Environmental Science**Bio:** Lydia Hallett grew up with a love of nature and a strong will to protect it. Her passion to protect the environment helped her decision to move to New York to realize environmental solutions at scale. She hopes to become an Environmental Consultant after graduation.
+
+**Title of Research: **Composting in Manhattan**Mentor: **Professor John van Buren**Abstract: **The objective of the study was to find out what composting opportunities are available for the citizens of Manhattan and identify the information discrepancy between companies and consumers. Waste collection can be extremely difficult due to the many private and public hauling companies and ensuring proper waste separation done at home. In this study, I interviewed people who compost and do not compost at home, as well as the people who work for various composting companies or programs within waste management companies. The results of my research have shown that there needs to be more information available in order to have composting adopted by the bulk of Manhattan. Those who are currently composting have had some prior experience or motivation to do so and have sought out opportunities to compost in Manhattan. People who have not been properly educated on composting slow down the scaled-up advancements by contaminating their compost with material that should be recycled or sent to landfill. The conclusions of this study are that the resources and options for composting are available in Manhattan, but the real challenge is to encourage proper use of those resources through widespread education.

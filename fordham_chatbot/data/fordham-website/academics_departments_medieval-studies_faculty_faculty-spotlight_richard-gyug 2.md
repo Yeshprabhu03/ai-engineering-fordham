@@ -1,0 +1,15 @@
+https://www.fordham.edu/academics/departments/medieval-studies/faculty/faculty-spotlight/richard-gyug
+
+# Faculty Spotlight: Richard Gyug
+
+![Camino](/media/home/departments-centers-and-offices/medieval-studies/1.jpeg)
+
+Richard Gyug turned *professor emeritus* at the end of the spring 2018 semester, after more than two decades in which he was an inspiring presence at Fordham, in the Honor’s Program, his home department of history and, of course, at Medieval Studies. Richard excelled as a researcher, teacher, and administrator, and those who dealt with him in one of these capacities encountered many facets of his personality and style. Certain activities reached a greater number of people than others. Richard, for example, never stopped teaching the Honors class in Medieval History once he started doing so in 1996. Beginning in 2007, he regularly took undergraduate students on study tours through (medieval) Spain, and he was perennially sought after as a thesis mentor, supervising no less than a dozen doctoral dissertations to completion. He led dozens of graduate students to Master’s Degrees in both History and Medieval Studies, starting out in the latter category with none other than our current Associate Director, Laura Morreale. Richard also maintained a vigorous research agenda, focusing in particular on religious culture in the Western Mediterranean and on Latin manuscripts written in the so-called Beneventan script. For years, his expertise as editor of medieval texts received acknowledgment from the Research Council of Canada in the form of generous funding for the *Monumenta Liturgica Beneventana*, a long-standing scholarly project based at his *alma mater*, the University of Toronto, and now represented by him as the Principal Investigator.
+
+My first encounter with Richard dates back to January 2000, when he headed the Search Committee that ended up hiring me. I could not have imagined a better ambassador for Fordham’s medievalist cause. His reassuring presence, utter competence, firm guidance, and keen sense of purpose which gently steered conversations towards fair-minded conclusions – I trust many readers will recognize Richard in these qualities, and all the more so as I have found them expressed time and again in the years I happily spent with him as a colleague. I also note that he and I shared one truly historic moment together, as we passed by St. Peter’s Square in Rome the very instant a single and deeply resounding bell made the entire atmosphere tremble and announced the death of Pope John Paul II in 2005. Members of the medievalist community at Fordham, I am sure, will treasure their own *Richardiana*. They form a rich cache of personal memories, aside from the imposing *curriculum vitae* he built along the way. Keep in touch, Richard!
+
+-Dr. Wolfgang Mueller (History)
+
+*Fordham News*: "The Camino as a Classroom, One Last Time"
+
+*Fordham News*: "The Camino as a Classroom, One Last Time"

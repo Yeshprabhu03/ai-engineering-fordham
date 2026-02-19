@@ -1,0 +1,7 @@
+https://www.fordham.edu/gabelli-school-of-business/about/advisory-council/brendan-ryan
+
+# Brendan Ryan, FCRH ‘64
+
+![Brendan ryan](/media/review/content-assets/migrated/images/brendan_ryan.jpg)
+
+Brendan Ryan is an independent senior advisor to advertising agencies (domestic and foreign), senior corporate management, and pro bono organizations. Formerly, he held senior management positions for almost 20 years at Foote, Cone & Belding, a top-10 global advertising agency. For nine of those years, he was chairman and CEO, responsible for all people, clients, and business results of FCB Worldwide. Under his leadership, FCB expanded its global footprint from 50 to 110 countries; added significant capabilities such as digital and data; completed numerous strategic acquisitions; and developed or expanded business relationships with clients such as Samsung, Coors, Kraft, Compaq, and Motorola. Prior to his tenure at FCB, he spent 15 years at Ogilvy and Mather, principally leading efforts on the American Express, Kraft, and Avon accounts. Ryan holds an M.B.A. from the Wharton School at the University of Pennsylvania and a B.A. in history from Fordham College. He continues to serve on boards of several pro bono organizations and is a member of the Zoning Board of Appeals in Quogue, New York.

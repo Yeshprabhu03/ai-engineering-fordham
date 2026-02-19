@@ -1,0 +1,13 @@
+https://www.fordham.edu/academics/research/office-of-research/initiatives-and-infrastructure/internal-funding-opportunities/fordham-strategic-research-consortia/strategic-research-consortium-on-global-studies/affiliates/olena-nikolayenko
+
+# Olena Nikolayenko
+
+Professor and Chair, Political Science Department, Arts and Sciences
+
+![Olena Nikolayenko](/media/home/departments-centers-and-offices/political-science/Olena-Nikolayenko.jpg)
+
+Areas of Research:
+
+Contentious politics, comparative democratization, political behavior, women’s activism, labor movements, and youth, with a regional focus on Eastern Europe
+
+Dr. [Olena Nikolayenko](/academics/departments/political-science/faculty/olena-nikolayenko/) is Professor and Chair of the Department of Political Science at Fordham University. She is also an Associate at the [Davis Center for Russian and Eurasian Studies](https://daviscenter.fas.harvard.edu/about/people/olena-nikolayenko), Harvard University. She received her Ph.D. in political science from the University of Toronto and held visiting appointments at the Princeton Institute for International and Regional Studies at Princeton University, the Center on Democracy, Development, and the Rule of Law at Stanford University, the Institute for European, Russian and Eurasian Studies at George Washington University, the Project House Europe at the Ludwig Maximilian University of Munich (Germany), the Center for Belarus and Regional Studies at the European Humanities University (Lithuania), the Institute of Political Studies, Polish Academy of Sciences (Poland), the Institute for Russian and Eurasian Studies at Uppsala University (Sweden), and the Department of Sociology at the National University of Kyiv-Mohyla Academy (Ukraine). Her research interests include comparative democratization, contentious politics, civil resistance, and political behavior, with a regional focus on Eastern Europe. Her recent book, * Youth Movements and Elections in Eastern Europe* (Cambridge University Press, 2017), examined interactions between nonviolent youth movements and incumbent governments during national elections in five post-communist states: Azerbaijan, Belarus, Georgia, Serbia, and Ukraine. Her current book project examines women's participation in the Revolution of Dignity in Ukraine. Her research was supported by the American Political Science Association, the Canadian Institute of Ukrainian Studies, the International Center on Nonviolent Conflict, the Open Society Institute, the Social Sciences and Humanities Research Council of Canada, and the U.S. State Department (Title VIII grant).

@@ -1,0 +1,5 @@
+https://www.fordham.edu/student-life/deans-of-students-and-student-life/student-handbook/university-regulations/a---z-listing/residence-halls
+
+# Student Handbook: Residence Halls
+
+Students who live in Fordham University housing both on and off campus are responsible for reading and adhering to regulations contained in the Residence Hall Agreement and the [Rose Hill Residential Life Handbook](/student-life/living-on-campus/living-on-campus-at-rose-hill/residential-life-handbook/) and the [Lincoln Center Residential Life Handbook](http://legacy.fordham.edu/student_affairs/residential_life/lincoln_center/our_residential_offe/resources_for_curren/residential_life_pol_34642.asp) as well as Rose Hill's Summer Leaders Academy Handbook (published to participants annually). Commuter students are also responsible for reading and adhering to applicable regulations contained in the Residential Life Handbook, found [online](/student-life/living-on-campus/).

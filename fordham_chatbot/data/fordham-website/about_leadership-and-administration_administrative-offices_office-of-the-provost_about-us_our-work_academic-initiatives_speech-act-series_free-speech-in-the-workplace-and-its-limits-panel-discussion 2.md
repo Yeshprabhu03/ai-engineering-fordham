@@ -1,0 +1,5 @@
+https://www.fordham.edu/about/leadership-and-administration/administrative-offices/office-of-the-provost/about-us/our-work/academic-initiatives/speech-act-series/free-speech-in-the-workplace-and-its-limits-panel-discussion
+
+# Free Speech in the Workplace (and Its Limits) Panel Discussion
+
+View the October 15, 2021 discussion panel on Free Speech in the Workplace (and Its Limits).**Featured Speakers:**[Bruce Barry,](https://brucebarry.net/) professor of management at Vanderbilt University [Jason Brennan](https://gufaculty360.georgetown.edu/s/contact/00336000014RXIUAA4/jason-brennan), professor of economics and philosophy at Georgetown University **Moderator: **[Miguel Alzola](https://www.fordham.edu/gabelli-school-of-business/faculty/full-time-faculty/miguel-alzola/), Fordham University; [Rachel Jolivette Brown](https://www.linkedin.com/in/rachel-jolivette-brown-517166b9), Fordham University

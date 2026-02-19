@@ -1,0 +1,35 @@
+https://www.fordham.edu/academics/research/office-of-research/events/symposium-on-responsible-ai/selected-paper-sessions
+
+# Selected Paper Sessions
+
+**Please click on participants' names for more information*
+
+**Selected Paper Session I: ****AI in Safety, Governance, and Protection**
+
+Chair: **Andrea Greco** (AI Alliance Membership and Growth Leader, IBM)
+
+(President & Co-Founder, LastMile AI), “Building Transparency and Safeguards into AI Agents”[Andrew Hoh](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/andrew-hoh/)(Assistant Professor of Natural Sciences, Fordham), “A New Tool for Unboxing the Deep Neural Network”[Stephen Keeley](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/stephen-keeley-/)(Postdoctoral researcher and cognitive neuroscientist, NYU), “Artificial Intelligence Circumvents Identity-Driven Biases in Source Selection during Information-Seeking”[Laura Globig](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/laura-globig/)(Associate Professor, Gabelli School of Business, Fordham): “Can Chat GPT Protect Children from Age-Inappropriate Apps? A Study on Maturity Rating with Multimodal LLMs”[Yilu Zhou](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/yilu-zhou-/)
+
+**Selected Paper Session II: AI in Ethics, Security and Justice**
+
+Chair: **Holly Curtis** (Assistant Provost for Corporate Relations, Fordham)
+
+(Marie Ward Doty University Chair in Ethics, Professor of Psychology, Fordham), “Reimagining Research Ethics for the Age of Digital Wearables: Risks, Power, and Responsibility”[Celia Fisher](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/celia-fisher-/)(Fellow, IBM) and[Dinesh Verma](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/dinesh-verma-/)(Assistant Professor of Computer Science, Fordham), “NLIP: Enabling Responsible, Secure, and Interoperable AI Agent Communication”[Mohamed Rahouti](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/mohamed-rahouti/)(Senior Lecturer, Economics Department, Fordham), “The 'AI Externality-Equity Nexus:' When Market Failures Become Justice Failures”[Giacomo Santangelo](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/giacomo-santangelo-/)(Researcher, Oxford Internet Institute), “AI Audits and Accountability: The Legal Approaches across Jurisdictions and their Shortcomings”[Lenka Molins](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/lenka-molins-/)
+
+**Selected Paper Session III: Health Care and AI Governance**
+
+Chair: **Robert Hume** (Vice Dean for Faculty Affairs, Fordham)
+
+(Assistant Professor, Division of Medical Ethics, NYU Grossman School of Medicine), “Managing a ‘Responsibility Vacuum’ in AI Monitoring and Governance in Healthcare: A Qualitative Study”[Kellie Owens](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/kellie-owens-/)(Professor, Gabelli School of Business, Fordham) and[R.P. Raghupathi](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/rp-raghupathi-/)**Leonard Chiang**(Graduate Student, Gabelli School of Business, Fordham), “Explainability in Deep Learning in Healthcare and Medicine: Panacea or Pandora’s Box?”(Associate Professor of ITO, Gabelli School of Business, Fordham), “Unveiling Gender Dynamics for Mental Health Posts in Social Media and Generative Artificial Intelligence”[Jie Ren](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/jie-ren-/)(Postdoctoral Fellow, NYU Grossman School of Medicine), “Governance from Below: How to Regulate AI When Nobody’s Watching”[Zachary Griffen](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/zachary-griffen-/)
+
+**Selected Paper Session IV: Trustworthy AI**
+
+Chair: **Ann Gaylin** (Vice Dean for Graduate Studies, Arts and Sciences, Fordham)
+
+(Head of Responsible AI, Americas, Infosys), “Scaling Trust: How to Operationalize Responsible AI Across the Enterprise”[Mandanna Appanderanda Nanaiah](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/mandanna-appanderanda-nanaiah-/)(Founder, Frontier Collective), “Ownership, Not Just Happy Talk: Co-Designing a Participatory Large Language Model for Journalism”[Aimee Rinehart](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/aimee-rinehart-/)(Chair Professor, Asia University, Taiwan), “Sovereign AI and Autonomous Uncrewed Vehicles in Secure High-Tech Manufacturing”[Kuan-Tsae Huang](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/kuan-tsae-huang-/)(Professor, Graduate School of Education, Fordham), “Beyond the Classroom: How AI Expands Access to Language Learning”[Su-Je Cho](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/su-je-cho-/)(Assistant Professor of Computer Science, Fordham), “Navigating Organizational Trade-offs among Quality, Privacy, and Security in AI Risk Management – A Case Study in Code Generation Large Language Models”[Wenqi Wei](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/wenqi-wei-session-4/)
+
+**Selected Paper Session V: AI in Legal Regulations**
+
+Chair: **Joe Landau (Dean, School of Law, Fordham University)**
+
+(IBM Head of Open Tools and Applications for the AI Alliance), “AI, Law, and Responsibility – Navigating Risks and Opportunities in the Legal Space”[Adam Pingel](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/adam-pingel/)(Arthur A. McGivney Professor of Law, School of Law, Fordham), “Neuroscience: The Foundation of Artificial Intelligence”[Deborah Denno](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/deborah-denno-/)(Associate Professor, School of Law, Fordham), “Hardwiring Hercules”[Courtney Cox](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/courtney-cox-/)(Professor, Law and Ethics, Gabelli School of Business, Fordham), “The New California, New York and Tennessee Digital Replica Laws and Free Speech: First Amendment Conflict with the Right of Publicity?”[Mark Conrad](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/mark-conrad-/)(Professor of Information Systems, Gabelli School of Business, Fordham), “Productivity, Displacement, and the Global Ethics of Deployment”[Aditya Saharia](/academics/research/office-of-research/events/symposium-on-responsible-ai/participants/aditya-saharia-/)

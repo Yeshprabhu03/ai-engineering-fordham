@@ -1,0 +1,7 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/fordham-clip/research/intellectual-property-and-barriers-to-entry
+
+# Intellectual Property and Barriers to Entry
+
+In November 2010, CLIP was awarded a research grant by the World Intellectual Property Organization (WIPO) to perform a study of “Intellectual Property as a Barrier to Market Entry.” The final report, “An Analysis of the Economic/Legal Literature on the Effects of IP Rights as a Barrier to Entry,” was published by WIPO in May 2011. The study was prepared for WIPO as part of WIPO’s work program on intellectual property and competition policy.
+
+The study evaluates the existing academic research relating to intellectual property as a barrier to entry in the context of developed countries and in developing countries and provides recommendations for future research programs. The CLIP research team for the study was led by Professor Joel R. Reidenberg and CLIP Executive Director Jamela Debelak, who were assisted by two Fordham Law students, Isaac Chao '12 and Mary Pennisi '11, and two recent Fordham LLM graduates, Maarten Goudsmit '10 and Marc Melzer '10. The research team also benefited from the expertise of Professors Mark Patterson and Barry Hawk on competition policy issues, as well as Research Librarian Todd Melnick.

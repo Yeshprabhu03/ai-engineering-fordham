@@ -1,0 +1,7 @@
+https://www.fordham.edu/school-of-professional-and-continuing-studies/academics/real-estate-institute/careers/information-for-employers
+
+# Information for Employers looking to hire REI Students
+
+**Post an Employment or Internship Opportunity Directly with Fordham REI**. Thank you for your interest in recruiting graduate students from the Fordham Real Estate Institute. Our applied, professional master’s degrees and specialized advanced graduate certificates attract talented, driven individuals who are prepared to play a contributing role in the real estate and construction industry. No matter what level of involvement seems appropriate at this time-whether listing an internship or job-we are committed to meeting your needs and look forward to working with you. Feel free to email us at [[email protected]](/cdn-cgi/l/email-protection#473522262b22343326332207212835232f262a69222332) or call 212-636-7626 to get started. Generally, a description of the job or internship with company contact information is needed to post your position to the REI graduate student portal.
+
+**Post an Employment or Internship Opportunity, or Register for a Career Fair, with the Fordham University Career Center**. To connect with the broader Fordham University student population, please visit Fordham [Career Resources](https://www.fordham.edu/resources/career-resources/career-center/for-employers/).

@@ -1,0 +1,15 @@
+https://www.fordham.edu/fordham-college-at-lincoln-center/undergraduate-research-and-internships/ars-nova---arts-and-research-showcase/ars-nova-showcase-and-participants/2025-participants/isabella-acuna
+
+# Isabella Acuna, FCLC 2025
+
+![Isabella Acuña Headshot](/media/home/schools/fordham-college-at-lincoln-center/ars-nova-showcase/IMG_6717---Isabella-AcunÌa.jpeg)
+
+**Major:** English (Creative Writing)
+
+**Bio:** Isabella Acuña is a graduating senior in the English Major with a Creative Writing Concentration and French minor with an interdisciplinary interest in stories that feature multiculturalism, question identity, and challenge normative social conventions. In her undergraduate career, she has contributed to the literary journals Bricolage and The Comma LC as well as served as Culture Editor for the school’s fashion publication, Flash. She is currently the art director for the independent magazine FKA and an editorial intern at an esteemed literary agency. She hopes to use the holistic education she has gained at Fordham to pursue a career in talent representation and continue her scholarly pursuit as a working writer, researcher, and artist.
+
+**Title of Research:** Una Herencia de Sabor
+
+**Mentor:** Gerardo Sámano Córdova, English
+
+**Abstract:** “Una herencia de sabor” is a semi-auto fictional novella inspired by my study of artisanal culinary practices in Oaxaca, Mexico, in the summer of 2024. The onsite research included visiting agricultural landmarks in central Oaxaca, attending hands-on cooking classes led by native Oaxacans, and documenting personal and qualitative discoveries about culinary techniques and the heredity of cooking practices. The research was grounded in the sociological concept that foodways are essential for self-actualization in diasporic communities and that they are particularly important for second-generation children who may not experience a physical connection with their ancestral lands. For these communities, food provides a connection to cultural identity that feels real, embodied, and accessible. The novella uses the sensory experience of cooking and consuming Mexican cuisine as well as the cultural context witnessed in Oaxaca to interrogate how food is inherited and its role in the intergenerational feat of collective preservation. It also works to complicate the homogenized American idea of Mexican food and the overgeneralization it imposes upon the country’s second-generation population. By exploring the diversity of Mexican cuisine, the novella counters the false idea that Latin-American culture is universal and instead proposes food as an instrument to complexify and deepen our understanding of displaced origins. Through a single character’s story of food-based self-discovery, the novella hopes to portray diasporic identity as a miraculous opportunity to decolonize the self and embrace the multiplicity of living between cultures.

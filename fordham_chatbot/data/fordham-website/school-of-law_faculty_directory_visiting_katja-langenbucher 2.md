@@ -1,0 +1,9 @@
+https://www.fordham.edu/school-of-law/faculty/directory/visiting/katja-langenbucher
+
+# Katja Langenbucher
+
+![Langenbucheredited](/media/home/schools/school-of-law/LangenbucherEdited_2.jpg)
+
+Katja Langenbucher is a scholar of corporate and securities law. She has published extensively in the fields of corporate law, corporate finance and European securities law. Her latest book “Economic transplants – on lawmaking for corporations and capital markets”, Cambridge University Press, broadens her focus to include problems of legal theory in law and economics. In December 2019 MIT Press published a book she co-edited, dealing with „The Capital Markets Union and beyond“ from a legal and an economic perspective.
+
+Katja holds a full professorship for Private Law, Corporate and Securities Law at Goethe-University's House of Finance in Frankfurt, Germany. She is also an affiliated professor at the Ecole de Droit de SciencesPo, Paris, France, where she won the “Alfred Grosser Chaire” in 2008/09. She has held visiting positions at Université de Sorbonne, Paris I, France; Wirtschaftsuniversität Vienna, Austria; London School of Economics, UK and Columbia Law School, New York and has been awarded the Edward Mulligan Distinguished Professorship for International Law at Fordham Law School, New York. Katja sits on the supervisory board of SciencesPo University, Paris, she is a member of the supervisory board and of the takeover panel of “BaFin” (German securities markets oversight) and was a member of the supervisory board of a German bank for four years (Postbank). She has been appointed to the EU Commission’s High Level Forum on the Capital Market Union. Katja studied law and philosophy at Ludwig-Maximilians University Munich, at Harvard Law School and at Cambridge University.

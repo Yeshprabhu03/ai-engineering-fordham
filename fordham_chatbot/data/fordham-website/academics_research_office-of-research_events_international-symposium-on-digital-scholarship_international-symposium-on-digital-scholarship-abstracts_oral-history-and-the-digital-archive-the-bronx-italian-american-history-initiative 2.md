@@ -1,0 +1,7 @@
+https://www.fordham.edu/academics/research/office-of-research/events/international-symposium-on-digital-scholarship/international-symposium-on-digital-scholarship-abstracts/oral-history-and-the-digital-archive-the-bronx-italian-american-history-initiative
+
+# Oral History and the (Digital) Archive: The Bronx Italian American History Initiative
+
+This Network investigates the impact of digitization of cultural and historical collections (oral histories, maps, audio-visual material and cultural artefacts) on research and community engagement related to ethnically and racially diverse groups. Specifically, it explores the potential benefits and challenges that digitisation and digital tools present for each constituency and for the production of meaningful collaborations between them and the wider communities that each seeks to serve.
+
+The Network draws together academics from disciplines across the Arts & Humanities and participatory design, cultural heritage, community engagement, audience research, and oral history, as well as practitioners from leading UK/US cultural institutions and digital technologists under a threefold aim: firstly, to consider how digital tools and methodologies could be applied to develop new approaches to enriching collections; second, to explore how digital collections relating to ethnic and racial groups are, and might be, used by researchers; lastly, as a community-engaged research project, we seek to understand how that academic engagement might benefit the cultural institutions themselves and their wider users.

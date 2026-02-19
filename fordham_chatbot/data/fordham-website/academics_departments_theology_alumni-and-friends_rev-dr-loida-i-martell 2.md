@@ -1,0 +1,15 @@
+https://www.fordham.edu/academics/departments/theology/alumni-and-friends/rev-dr-loida-i-martell
+
+# Rev. Dr. Loida I. Martell
+
+![Loida Martell of Theology.](/media/home/departments-centers-and-offices/theology/Loida-Martell.jpg)
+
+###### "I will always appreciate the quality of theological education I received at Fordham. My professors were exceptional in their respective fields of expertise. As a Protestant, I am particularly appreciative of the broadening of my 'theological toolbox,' as I read the works of Roman Catholic scholars, which contributed to my ability to engage in current ecumenical dialogue. I am especially grateful for the lasting friendships that were forged during my time there."
+
+The Rev. Dr. Loida I. Martell is Vice President of Academic Affairs/ Dean and Professor of Constructive Theology of Lexington Theological Seminary in Kentucky. Prior to that, she was the Professor of Constructive Theology at Palmer Theological Seminary/ Eastern University in Pennsylvania. Dr. Martell is a licensed doctor in veterinary medicine as well as an ordained minister in the American Baptist Churches/ USA. She is a bi-coastal Puerto Rican who has taught in various institutions of higher learning including Gordon Conwell’s Center for Urban Ministerial Education in Boston and the University of Puerto Rico’s College of Allied Health Professionals. She pastored in New York City for 15 years, and served as President of the Board of American Baptist Churches/ Metro New York City from 1994–1996.
+
+Dr. Martell pioneered the study of *evángelica *theology. She has published articles on *evangélica *soteriology, Christology, doctrine of God, Scriptural hermeneutics, embodiment, eschatology, globalization, and vocation. The findings of her research on Taíno religious beliefs were published in “My GPS Doesn’t Work in Puerto Rico,” an article on *evangélica* spirituality. She co-edited *Teología* *en Conjunto: A Collaborative Hispanic Protestant Theology *(1997), and more recently co-authored the well-received *Latina Evangélicas: A Theological Survey from the Margins *(2013).
+
+Dr. Martell is a member of the American Veterinary Medical Association. As a member of the American Academy of Religion, she currently serves as President of La Comunidad of Hispanic Scholars of Religion. She was appointed to represent the American Baptist Churches/ USA on the National Council of Churches Convening Table for Theological Studies and Matters of Faith and Reason. The American Baptist Home Missions Societies awarded her the 2015 Richard Hoiland Christian Education Award, its highest recognition for “faithful and effective leadership in Christian education,” for her long-standing work in nurturing culturally and racially diverse classrooms and for exceptional leadership.
+
+Dr. Martell is an avid amateur photographer.

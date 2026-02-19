@@ -12,6 +12,8 @@ from dotenv import load_dotenv
 import pickle
 from rank_bm25 import BM25Okapi
 import gc
+import re
+
 
 
 load_dotenv()
@@ -386,9 +388,10 @@ if prompt:
                 
                 # B. Hybrid Search logic
                 if bm25_index:
-                    # BM25 Search
-                    tokenized_query = prompt.lower().split()
+                    # BM25 Search (Matching the regex tokenizer used in preparation)
+                    tokenized_query = re.findall(r'\w+', prompt.lower())
                     bm25_scores = bm25_index.get_scores(tokenized_query)
+
                     
                     # Normalize BM25 scores (0-1) to match Cosine Similarity
                     if bm25_scores.max() > 0:

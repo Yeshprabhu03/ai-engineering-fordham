@@ -1,0 +1,11 @@
+https://www.fordham.edu/fordham-college-at-rose-hill/academics/pre-professional-programs/graduate-school-advising/how-should-i-pay-for-graduate-school
+
+# How Should I Pay for Graduate School?
+
+Most PhD programs will provide some type of financial support for their students. However, this support is not always guaranteed for the duration of your participation in the program, and sometimes it is competitive – that is, based on how well you perform as compared to your peers. Thus, it is prudent to seek out alternative forms of financial support. Having external sources of support can also help broaden your options – if you get into a "good school" but are not offered support, you will still be able to attend without taking out loans or getting an outside job. Also, programs will sometimes not admit applicants if they do not have enough funding; having your own funding may tip the scales in your favor.
+
+## Funding
+
+There are different types of fellowships/scholarships/grants. There are those that support you, the applicant, and those that support your research. Generally, in the beginning stages of your graduate career, the types of funding that will be available to you will be the former. Thus, they will be looking at your skills, your preparedness, your GPA, and your GRE scores. At the same time, they will want to know that you have a specialized area of interest or project in mind, which you will convey in the form of a proposal. Thus, it is in your best interest to work on such a proposal early. This could be a pared-down version of a writing sample, or an extension of your personal statement.
+
+A diligent student will seek advice early on about external funding from both the Office of Fellowship Advising and his or her major advisor. Note also that deadlines for fellowships often fall much earlier than the deadlines for graduate school admission, so it is prudent to start formulating your proposals the summer before your senior year. If you are interested in applying for external funding, note that your major advisors and other professors may have copies of "successful" applications for you to peruse. Note, too, that funding agencies also sometimes provide models.

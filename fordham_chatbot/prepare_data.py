@@ -7,12 +7,18 @@ import openai
 from dotenv import load_dotenv
 import argparse
 import time
+from rank_bm25 import BM25Okapi
+import pickle
+import re
 
 load_dotenv()
 
 # Configuration
-DATA_PATH = 'data/fordham-website'
-OUTPUT_PATH = 'data/processed_fordham.pkl'
+# Configuration
+# Robustly find the directory where this script lives
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DATA_PATH = os.path.join(BASE_DIR, 'data', 'fordham-website')
+OUTPUT_PATH = os.path.join(BASE_DIR, 'data', 'processed_fordham.pkl')
 MODEL_NAME = 'text-embedding-3-small'
 
 def load_and_chunk_data(source_path):
@@ -151,13 +157,26 @@ def main():
     embeddings_array = np.array(embeddings, dtype=np.float32)
     
     # Save Embeddings separately
-    np.save('data/embeddings.npy', embeddings_array)
+    # Save Embeddings separately
+    np.save(os.path.join(BASE_DIR, 'data', 'embeddings.npy'), embeddings_array)
     print(f"Saved embeddings to data/embeddings.npy")
     
     # Save DataFrame without embeddings (lightweight)
     df_corpus = df.drop(columns=['embedding'], errors='ignore')
-    df_corpus.to_pickle('data/corpus.pkl')
+    df_corpus.to_pickle(os.path.join(BASE_DIR, 'data', 'corpus.pkl'))
     print(f"Saved {len(df_corpus)} text records to data/corpus.pkl")
+    
+    # --- Generate BM25 Index ---
+    print("Building BM25 Index...")
+    # Advanced tokenizer: splits on non-alphanumeric to handle messy markdown like "Word**Word"
+    # This fixes the "tuition table" bug where words were glued together.
+    tokenized_corpus = [re.findall(r'\w+', doc.lower()) for doc in df_corpus['content']]
+    bm25 = BM25Okapi(tokenized_corpus)
+
+    
+    with open(os.path.join(BASE_DIR, 'data', 'bm25_index.pkl'), 'wb') as f:
+        pickle.dump(bm25, f)
+    print("Saved BM25 index to data/bm25_index.pkl")
     
     print("Done!")
 

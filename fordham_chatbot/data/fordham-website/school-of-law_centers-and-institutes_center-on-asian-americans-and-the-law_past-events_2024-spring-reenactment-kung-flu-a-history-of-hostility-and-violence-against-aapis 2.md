@@ -1,0 +1,16 @@
+https://www.fordham.edu/school-of-law/centers-and-institutes/center-on-asian-americans-and-the-law/past-events/2024-spring-reenactment-kung-flu-a-history-of-hostility-and-violence-against-aapis
+
+# 2024 Spring Reenactment “Kung Flu”: A History of Hostility and Violence Against AAPIs
+
+By [Benjamine Mo](https://www.linkedin.com/in/benjaminemo/) Volunteer Writer for the Center on Asian Americans and the Law
+
+
+On March 14, the Center on Asian Americans and the Law, the Fordham Asian Pacific American Law Students Association (APALSA), the Fordham South Asian Law Students Association (SALSA), and the Asian American Bar Association of New York (AABANY) hosted a multifaceted, immersive program entitled *“Kung Flu”: A History of Hostility and Violence Against AAPIs. *
+
+The evening joined historical analysis and reenactments of court proceedings to provide a sweeping encapsulation of some of our nation’s most poignant episodes of anti-Asian violence, including in the present day. The program explored incidents of anti-Asian mob violence, beginning with the Los Angeles Massacre of 1871; violent expulsions of Asian Americans, including the 1885 expulsion of Chinese residents of Eureka, California; and discriminatory laws, including San Francisco’s 1873 Pigtail Ordinance. Examples of contemporary anti-Asian hostility and violence included the campaign of violence and intimidation by the Ku Klux Klan against Vietnamese fishermen in the Gulf Coast in 1981 and the 1982 murder of Vincent Chin.
+
+APALSA student-performers brought these court proceedings to life, while Senior Judge Denny Chin of the U.S. Court of Appeals for the Second Circuit and Kathy Hirata Chin,** **chair of the Center’s board of advisors, guided and framed the performance through their narration. A special thanks to AABANY for their assistance in creating the script for the program, part of a larger series of reenactments of historic cases involving Asian American litigants.
+
+In the opening narration, Judge Chin reflected on the pandemic-fueled wave of anti-Asian hatred and violence sweeping our nation, pointing out that “this is nothing new, for there is a long history of hostility and violence against Asian Americans in this country.” By shedding light on this history, he explained, the program laid out “how we might finally escape the cycle of discrimination and violence that has plagued persons of Asian descent in this country since the arrival of the first immigrants.” In a compelling conclusion, a number of recommended actions were shared: the standardized collection of hate incident data, the diligent prosecution of hate crimes, united action from within the AAPI community, solidarity amongst minority groups, strong government leadership, and public education on AAPI history.
+
+A panel was held following the program, moderated by Professor Thomas Lee, Leitner Family Professor of International Law, and featuring Deputy Administrative Judge Danny K. Chun of the New York State Supreme Court alongside Jennifer Wu, member of the AABANY Anti-Asian Violence Task Force. Conversation centered on the current reality and climate of anti-Asian hate, one informed by centuries of related rhetoric and legal decisions, and the path forward in supporting victims of anti-Asian hate while advocating for comprehensive societal change.

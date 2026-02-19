@@ -1,5 +1,5 @@
 # Fordham University AI Assistant: An Engineering Case Study
-Click here to view: https://ai-engineering-fordham-chatbot.streamlit.app/
+
 ## **Executive Summary**
 I engineered a production-ready **Retrieval-Augmented Generation (RAG)** system that serves as an intelligent guide for Fordham University. The goal was to transform ~49,000 unstructured documents into a responsive, verifiable, and cost-efficient AI agent.
 
@@ -15,6 +15,10 @@ Instead of relying on a model's frozen training data, I built a system that "rea
 *   **Embeddings**: Switched from local HuggingFace models to **OpenAI `text-embedding-3-small`**.
     *   *Why?* Local embedding (e.g., BERT/Sentence-Transformers) was CPU-heavy and slow for 50k docs. OpenAI's text-embedding-3 is faster, cheaper, and has state-of-the-art semantic performance.
 *   **Vector Search**: Pre-computed embeddings into a NumPy array (`embeddings.npy`) for **zero-latency** cosine similarity search. No heavy vector database (like Pinecone) was needed for this scale, reducing complexity and cost.
+*   **Hybrid Search Implementation**: To solve the "Exact Match" problem (keywords like course codes or acronyms), I implemented a **Weighted Hybrid Search**.
+    *   **70% Vector Score**: Captures semantic meaning (e.g., "computer science class" -> "CISC 4000").
+    *   **30% BM25 Score**: Captures exact keyword matches (e.g., "GSB", "CISC").
+    *   *Result*: Significantly improved retrieval accuracy for specific queries that pure vector search missed.
 
 ### **2. Token Efficiency & Context Window Management**
 LLMs have finite context windows. Sending 50,000 documents is impossible and expensive. I implemented strict **Context Engineering**:
@@ -51,6 +55,18 @@ I engineered a custom CSS hack:
 2.  Anchored the microphone button *inside* this invisible container via Flexbox.
 3.  *Result*: The microphone now mathematically tracks the input bar on **any device**, from an iPhone SE to a 4K monitor.
 
+### **Challenge 4: The "Sticky" Tokenizer & Messy Data**
+**The Problem**: The AI refused to answer "What is the tuition?" even though the data existed.
+*   *Cause*: The scraped markdown table was messy (`Group****Rate`), gluing words together. The standard tokenizer saw `"Group****Rate"` as one unknown word.
+*   *Correction*: Implemented a **Regular Expression Tokenizer** (`re.findall(r'\w+')`) to split text on non-alphanumeric characters.
+*   *Outcome*: The system could finally "read" the hidden tuition data without needing a full re-scrape.
+
+### **Challenge 5: Memory Leaks on Cloud**
+**The Problem**: The app crashed after the 2nd question on Streamlit Cloud.
+*   *Analysis*: The combination of `BM25` index (100MB), `Embeddings` (500MB), and search history was hitting the container's 3GB RAM limit. Objects weren't being released fast enough.
+*   *Fix*: Implemented **aggressive manual Garbage Collection** (`gc.collect()`) after data loading and before every search query.
+*   *Result*: Stable long-running conversations with flat memory usage.
+
 ---
 
 ## **Final Outcome**
@@ -60,6 +76,20 @@ I engineered a custom CSS hack:
 *   **Features**: Voice-to-Text (Whisper), verifiable citations, and mobile-responsive layout.
 
 This project demonstrates not just how to *call* an API, but how to **engineer a system** around it that is performant, cost-effective, and user-friendly.
+
+---
+
+## **Current Limitations & Future Work**
+
+While the system is production-ready, it has inherent constraints common to RAG architectures:
+1.  **Static Knowledge Base**: The AI only knows what was in the ~49,000 documents at the time of scraping. It does not have real-time access to *today's* campus news unless the database is re-indexed.
+2.  **Context Window Constraints**: To maintain speed and low cost, we limit retrieval to the **top 5 relevance chunks**. Complex queries requiring cross-referencing hundreds of documents might yield incomplete answers.
+3.  **Text-Only Processing**: The current pipeline ingests text. It cannot "see" images, charts, or floor plans buried in PDF documents.
+4.  **Language Dependency**: The system is optimized for English queries. While GPT-4o-mini supports multilingual generation, the retrieval system (embeddings) works best with English search terms.
+
+**Future Improvements:**
+*   **Automated Cron Jobs**: To re-scrape and update the vector store weekly.
+*   **Multimodal RAG**: using GPT-4o's vision capabilities to index images from the university website.
 
 ---
 **Tech Stack**: Python, Streamlit, OpenAI API (GPT-4o-mini, Whisper, Embeddings), Pandas, NumPy, Git LFS, CSS/HTML.

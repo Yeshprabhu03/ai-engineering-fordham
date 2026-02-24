@@ -30,3 +30,5 @@ Thumbs.db
 data/processed_fordham.pkl
 data/*.png
 data/*.svg
+fordham_chatbot/data/*.pkl
+fordham_chatbot/data/*.npy

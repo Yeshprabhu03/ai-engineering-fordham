@@ -261,9 +261,28 @@ st.markdown("---")
 def load_data():
     # Paths (Relative to this script)
     current_dir = os.path.dirname(os.path.abspath(__file__))
-    corpus_path = os.path.join(current_dir, 'data', 'corpus.pkl')
-    embeddings_path = os.path.join(current_dir, 'data', 'embeddings.npy')
+    data_dir = os.path.join(current_dir, 'data')
+    os.makedirs(data_dir, exist_ok=True)
+    corpus_path = os.path.join(data_dir, 'corpus.pkl')
+    embeddings_path = os.path.join(data_dir, 'embeddings.npy')
+    bm25_path = os.path.join(data_dir, 'bm25_index.pkl')
     
+    # Download from Hugging Face if files are missing
+    from huggingface_hub import hf_hub_download
+    REPO_ID = "yeshprabhu03/fordham-rag-data"
+    
+    files_to_download = ['corpus.pkl', 'embeddings.npy', 'bm25_index.pkl']
+    for file_name in files_to_download:
+        file_path = os.path.join(data_dir, file_name)
+        if not os.path.exists(file_path):
+            try:
+                print(f">>> DOWNLOADING: {file_name} from Hugging Face ({REPO_ID})...")
+                hf_hub_download(repo_id=REPO_ID, filename=file_name, local_dir=data_dir, repo_type="dataset")
+            except Exception as e:
+                st.error(f"Failed to download {file_name} from Hugging Face: {e}")
+                st.stop()
+                return None, None, None
+
     if os.path.exists(corpus_path) and os.path.exists(embeddings_path):
         print(f">>> DATA LOADING: Found files. Starting read...")
         with st.spinner("Loading data..."):
@@ -274,7 +293,6 @@ def load_data():
             
             # Load BM25
             bm25 = None
-            bm25_path = os.path.join(current_dir, 'data', 'bm25_index.pkl')
             if os.path.exists(bm25_path):
                 with open(bm25_path, 'rb') as f:
                     bm25 = pickle.load(f)
@@ -286,7 +304,7 @@ def load_data():
     else:
         st.error(f"Data files not found at {corpus_path}! Please run `prepare_data.py` locally to generate data.")
         st.stop()
-        return None, None
+        return None, None, None
 
 # Load Data
 df_chunks, embeddings_array, bm25_index = load_data()

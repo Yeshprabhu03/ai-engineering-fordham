@@ -267,16 +267,9 @@ def load_data():
     embeddings_path = os.path.join(data_dir, 'embeddings.npy')
     bm25_path = os.path.join(data_dir, 'bm25_index.pkl')
     
-    # Download from Hugging Face if files are missing
-    try:
-        from huggingface_hub import hf_hub_download
-    except ImportError:
-        import subprocess
-        import sys
-        print(">>> Streamlit cache missed huggingface_hub. Installing it dynamically...")
-        subprocess.check_call([sys.executable, "-m", "pip", "install", "huggingface-hub"])
-        from huggingface_hub import hf_hub_download
-        
+    # Download from Hugging Face via standard HTTPS if files are missing
+    import urllib.request
+    
     REPO_ID = "yeshprabhu03/fordham-rag-data"
     
     files_to_download = ['corpus.pkl', 'embeddings.npy', 'bm25_index.pkl']
@@ -284,10 +277,11 @@ def load_data():
         file_path = os.path.join(data_dir, file_name)
         if not os.path.exists(file_path):
             try:
-                print(f">>> DOWNLOADING: {file_name} from Hugging Face ({REPO_ID})...")
-                hf_hub_download(repo_id=REPO_ID, filename=file_name, local_dir=data_dir, repo_type="dataset")
+                url = f"https://huggingface.co/datasets/{REPO_ID}/resolve/main/{file_name}"
+                print(f">>> DOWNLOADING: {file_name} from URL: {url}...")
+                urllib.request.urlretrieve(url, file_path)
             except Exception as e:
-                st.error(f"Failed to download {file_name} from Hugging Face: {e}")
+                st.error(f"Failed to download {file_name} via urllib: {e}")
                 st.stop()
                 return None, None, None
 

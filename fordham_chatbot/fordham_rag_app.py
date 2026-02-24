@@ -268,7 +268,15 @@ def load_data():
     bm25_path = os.path.join(data_dir, 'bm25_index.pkl')
     
     # Download from Hugging Face if files are missing
-    from huggingface_hub import hf_hub_download
+    try:
+        from huggingface_hub import hf_hub_download
+    except ImportError:
+        import subprocess
+        import sys
+        print(">>> Streamlit cache missed huggingface_hub. Installing it dynamically...")
+        subprocess.check_call([sys.executable, "-m", "pip", "install", "huggingface-hub"])
+        from huggingface_hub import hf_hub_download
+        
     REPO_ID = "yeshprabhu03/fordham-rag-data"
     
     files_to_download = ['corpus.pkl', 'embeddings.npy', 'bm25_index.pkl']

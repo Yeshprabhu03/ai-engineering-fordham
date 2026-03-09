@@ -4,7 +4,7 @@ This directory contains the production-ready Retrieval-Augmented Generation (RAG
 
 ## 🚀 Live Demo
 
-**[Click here to view and interact with the deployed Streamlit application!]([https://your-streamlit-app-url-here.streamlit.app/](https://ai-engineering-fordham-chatbot.streamlit.app/))**
+**[Click here to view and interact with the deployed Streamlit application!]([https://ai-engineering-fordham-chatbot.streamlit.app/])**
 
 
 
